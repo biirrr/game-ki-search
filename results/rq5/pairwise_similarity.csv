@@ -2,12 +2,30 @@ game,annotator_a,annotator_b,n_a,n_b,edit_distance,similarity
 Best Buds vs Bad Guys,annotator1,annotator2,16,13,3,0.812
 Best Buds vs Bad Guys,annotator1,annotator3,16,17,2,0.882
 Best Buds vs Bad Guys,annotator1,annotator4,16,17,2,0.882
+Best Buds vs Bad Guys,annotator1,annotator5,16,14,2,0.875
+Best Buds vs Bad Guys,annotator1,annotator6,16,14,2,0.875
 Best Buds vs Bad Guys,annotator2,annotator3,13,17,4,0.765
 Best Buds vs Bad Guys,annotator2,annotator4,13,17,4,0.765
+Best Buds vs Bad Guys,annotator2,annotator5,13,14,1,0.929
+Best Buds vs Bad Guys,annotator2,annotator6,13,14,1,0.929
 Best Buds vs Bad Guys,annotator3,annotator4,17,17,0,1.0
+Best Buds vs Bad Guys,annotator3,annotator5,17,14,3,0.824
+Best Buds vs Bad Guys,annotator3,annotator6,17,14,3,0.824
+Best Buds vs Bad Guys,annotator4,annotator5,17,14,3,0.824
+Best Buds vs Bad Guys,annotator4,annotator6,17,14,3,0.824
+Best Buds vs Bad Guys,annotator5,annotator6,14,14,0,1.0
 Townscaper,annotator1,annotator2,37,19,18,0.514
 Townscaper,annotator1,annotator3,37,37,8,0.784
 Townscaper,annotator1,annotator4,37,45,14,0.689
+Townscaper,annotator1,annotator5,37,25,16,0.568
+Townscaper,annotator1,annotator6,37,26,16,0.568
 Townscaper,annotator2,annotator3,19,37,18,0.514
 Townscaper,annotator2,annotator4,19,45,26,0.422
+Townscaper,annotator2,annotator5,19,25,7,0.72
+Townscaper,annotator2,annotator6,19,26,7,0.731
 Townscaper,annotator3,annotator4,37,45,11,0.756
+Townscaper,annotator3,annotator5,37,25,16,0.568
+Townscaper,annotator3,annotator6,37,26,15,0.595
+Townscaper,annotator4,annotator5,45,25,23,0.489
+Townscaper,annotator4,annotator6,45,26,22,0.511
+Townscaper,annotator5,annotator6,25,26,5,0.808

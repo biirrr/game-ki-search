@@ -1,4 +1,6 @@
 reference_label,other_label,count
-Platform switch,View result list,3
+Platform switch,View result list,4
 Browsing,View result list,2
+View single result,Platform switch,2
+Browsing,Query,1
 View single result,Query,1

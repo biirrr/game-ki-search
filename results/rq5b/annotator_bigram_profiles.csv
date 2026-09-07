@@ -1,0 +1,5 @@
+annotator,Query -> View result list,Platform switch -> Query,View result list -> Query,View result list -> View single result,Platform switch -> View result list,View result list -> Platform switch,Query -> View AI response,Query -> Platform switch
+annotator1,0.22,0.14,0.055,0.122,0.05,0.082,0.015,0.038
+annotator2,0.106,0.109,0.064,0.078,0.055,0.054,0.102,0.05
+annotator3,0.148,0.123,0.121,0.054,0.077,0.056,0.064,0.053
+annotator4,0.131,0.136,0.051,0.104,0.072,0.039,0.09,0.036

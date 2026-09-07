@@ -1,0 +1,7 @@
+annotator_a,annotator_b,js_divergence
+annotator1,annotator4,0.24
+annotator1,annotator2,0.218
+annotator3,annotator4,0.21
+annotator2,annotator4,0.207
+annotator1,annotator3,0.144
+annotator2,annotator3,0.125

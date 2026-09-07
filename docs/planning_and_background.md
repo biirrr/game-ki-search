@@ -280,6 +280,40 @@ much longer Best Buds sessions).
   the annotator alone — report it as a secondary, caveated observation, not
   as evidence of annotator effect on its own.
 
+**Both implemented 2026-09-07** (`analysis/rq5_annotator_agreement.py`,
+`analysis/rq5b_annotator_confound.py`; results in `results/rq5/` and
+`results/rq5b/`; write-up in `reports/report.md` §6). Two things
+prompted the follow-up: the agreement sample grew from 4 to 6 annotators
+(`annotator5`/`annotator6` added to `data/agreement/` — extra
+independent coders on ID13, not annotators of any other participant),
+and the secondary check had never actually been built despite being
+planned above. Implementation notes:
+- Primary analysis re-run cleanly across all 15 annotator pairs; the
+  "one bad apple" framing softens to a spectrum — annotator2 is still
+  the extreme case (42% Townscaper coverage) but annotator5/6 also
+  undercount moderately (56%), worse than annotator1/annotator3
+  (78–82%).
+- Secondary check's per-participant-first normalization (normalize each
+  session before averaging within an annotator's block) is the answer to
+  "we can't just look at simple counts" — otherwise whichever annotator's
+  block happened to include the longest session would dominate.
+  `MixedLM` converged for 6 of 8 features (`View result list` and
+  `Platform switch` hit boundary solutions — report those ICCs as
+  unreliable, not exactly zero).
+- The secondary check's own result argues for caution using it at all:
+  annotator2's block has the *longest* Townscaper sessions of any
+  annotator, the opposite direction from what the (unconfounded) primary
+  finding predicts — most likely genuine participant-level variation
+  (ID6–10 searching longer) swamping any segmentation-style signal in
+  that particular measure. Take this as confirmation the confound is
+  real and non-trivial, not as a contradiction to resolve.
+- Cross-checked RQ4 directly, since the secondary check's clearest
+  signal (`View AI response`/`View info box`, ICC ≈ 0.13) sits exactly on
+  RQ4's cluster-defining actions: RQ4's "AI-assisted"/"AI-quick" cluster
+  membership vs. annotator crosstab is close to uniform (not one
+  annotator's block) — a real, if partial, reassurance that RQ4's
+  individual-style finding isn't primarily an annotator artifact.
+
 ### 4.6 RQ6 — Does game order affect strategy, and do participants carry a strategy over? (added 2026-08-19)
 Researcher's motivating hypothesis: participants who played Townscaper
 first started on a successful, positive note; participants who played

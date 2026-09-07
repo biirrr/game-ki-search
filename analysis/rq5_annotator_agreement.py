@@ -1,15 +1,17 @@
 """RQ5: does the annotator influence how a search process gets coded?
 
-Uses the dedicated four-annotator agreement sample: participant ID13, both
-games, independently segmented and labeled by annotator1-4
-(data/agreement/). annotator4 is the annotator who coded ID13 in the main
-dataset (data/search_process/), so it doubles as the reference sequence.
+Uses the dedicated agreement sample: participant ID13, both games,
+independently segmented and labeled by annotator1-6 (data/agreement/,
+expanded 2026-09-07 from an original 4 to 6 annotators -- annotator5/6
+are extra independent coders added purely to strengthen this reliability
+check, not annotators who coded any other participant). annotator4 is
+the annotator who coded ID13 in the main dataset (data/search_process/),
+so it doubles as the reference sequence.
 
 Because annotators independently *segmented* the recording rather than
-labeling a shared fixed set of events -- the four files have different row
-counts (e.g. 53/32/54/62 for Townscaper+Best Buds combined) -- a plain
-per-row Cohen's kappa isn't possible; there's no shared "item" to rate
-without first deciding which events correspond to which. So:
+labeling a shared fixed set of events -- the files have different row
+counts -- a plain per-row Cohen's kappa isn't possible; there's no shared
+"item" to rate without first deciding which events correspond to which. So:
 
   1. Sequence alignment (minimum-edit-distance, via Levenshtein.opcodes)
      of each of annotator1-3 against the annotator4 reference, producing a
@@ -37,7 +39,7 @@ from rq2_patterns import ACTIONS
 DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "agreement"
 RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq5"
 
-ANNOTATORS = ["annotator1", "annotator2", "annotator3", "annotator4"]
+ANNOTATORS = ["annotator1", "annotator2", "annotator3", "annotator4", "annotator5", "annotator6"]
 REFERENCE_ANNOTATOR = "annotator4"
 GAMES = ["Best Buds vs Bad Guys", "Townscaper"]
 SYMBOL = {a: chr(65 + i) for i, a in enumerate(ACTIONS)}
@@ -86,19 +88,20 @@ def pairwise_similarity(seqs: dict, game: str) -> pd.DataFrame:
 
 
 def plot_similarity_heatmaps(sim_bb: pd.DataFrame, sim_ts: pd.DataFrame, path: Path) -> None:
-    fig, axes = plt.subplots(1, 2, figsize=(10, 4.5))
+    n = len(ANNOTATORS)
+    fig, axes = plt.subplots(1, 2, figsize=(2.4 * n + 2, 1.1 * n + 2))
     for ax, sim, title in zip(axes, [sim_bb, sim_ts], GAMES):
         mat = pd.DataFrame(1.0, index=ANNOTATORS, columns=ANNOTATORS)
         for _, r in sim.iterrows():
             mat.loc[r["annotator_a"], r["annotator_b"]] = r["similarity"]
             mat.loc[r["annotator_b"], r["annotator_a"]] = r["similarity"]
         im = ax.imshow(mat.values, vmin=0, vmax=1, cmap="YlOrBr_r")
-        ax.set_xticks(range(4))
+        ax.set_xticks(range(n))
         ax.set_xticklabels(ANNOTATORS, rotation=45, ha="right", fontsize=8)
-        ax.set_yticks(range(4))
+        ax.set_yticks(range(n))
         ax.set_yticklabels(ANNOTATORS, fontsize=8)
-        for i in range(4):
-            for j in range(4):
+        for i in range(n):
+            for j in range(n):
                 ax.text(j, i, f"{mat.values[i,j]:.2f}", ha="center", va="center", fontsize=8,
                          color="white" if mat.values[i, j] < 0.6 else "black")
         ax.set_title(title, fontsize=10)

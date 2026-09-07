@@ -1,0 +1,9 @@
+annotator,game,count,mean,median
+annotator1,Best Buds vs Bad Guys,5,47.2,48.0
+annotator1,Townscaper,5,10.6,8.0
+annotator2,Best Buds vs Bad Guys,5,45.8,43.0
+annotator2,Townscaper,5,23.2,20.0
+annotator3,Best Buds vs Bad Guys,6,44.8,45.0
+annotator3,Townscaper,6,16.2,17.0
+annotator4,Best Buds vs Bad Guys,5,36.4,28.0
+annotator4,Townscaper,5,14.8,5.0

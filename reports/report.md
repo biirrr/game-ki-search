@@ -16,7 +16,7 @@ strategy they liked. Screen activity was annotated by human coders into a
 controlled 8-value action vocabulary: `Query`, `View result list`,
 `View single result`, `Platform switch`, `View AI response`,
 `View info box`, `Browsing`, and `Experiment ended` (a per-task end marker,
-not a search action). 5 annotators coded the sessions. Two columns added
+not a search action). 4 annotators coded the sessions. Two columns added
 later (`action_details_clean`, `action_details_num_tokens` — destination
 platform/source site and query/text length; see §8) enrich `Query`,
 `Platform switch`, and `View single result` rows specifically.
@@ -127,16 +127,13 @@ splits three ways (reformulate, drill into a result, or switch platform).
 into* the loop rather than endpoints — over half of platform switches and
 40%+ of AI-response views are immediately followed by another `Query`.
 
+![Overall action transition graph](../results/rq2/transition_graph_overall.png)
+
 Top overall bigrams (`results/rq2/top_bigrams_overall.csv`): `Query → View
 result list` (195), `Platform switch → Query` (130), `View result list →
 Query` (109), `View result list → View single result` (103).
 
 ### 3.2 What "typical" looks like per game
-
-Full graphs: [`transition_graph_bestbuds.png`](../results/rq2/transition_graph_bestbuds.png),
-[`transition_graph_townscaper.png`](../results/rq2/transition_graph_townscaper.png).
-Interactive first-6-step flow diagrams: [`sankey_bestbuds.html`](../results/rq2/sankey_bestbuds.html),
-[`sankey_townscaper.html`](../results/rq2/sankey_townscaper.html).
 
 The clearest signal is in the *exit* probabilities — how likely each action
 is to be followed by `Experiment ended`:
@@ -148,8 +145,13 @@ is to be followed by `Experiment ended`:
 | View AI response | 6.3% | 11.1% |
 | (all other actions) | ≤3.6% | ≤3.4% |
 
+![Best Buds vs Bad Guys action transition graph](../results/rq2/transition_graph_bestbuds.png)
+
 Best Buds has **no strong exit path at all** — every action's probability
 of ending the session is small, consistent with 0/21 sessions resolving.
+
+![Townscaper action transition graph](../results/rq2/transition_graph_townscaper.png)
+
 Townscaper has two clear "closing moves": viewing the info box or
 re-viewing a single result is, more often than not on the Townscaper side,
 how a session actually ends. Townscaper's top-5 trigrams
@@ -157,6 +159,10 @@ how a session actually ends. Townscaper's top-5 trigrams
 View single result → View single result` (12 occurrences) — a
 repeat-to-confirm pattern that doesn't appear in Best Buds' top trigrams at
 all. This is a first concrete answer to RQ3, developed further there.
+
+Interactive first-6-step flow diagrams (Sankey) and the full bigram/trigram/PrefixSpan
+pattern tables are in [`results/rq2/`](../results/rq2/) — not embedded here
+since they're interactive Plotly pages.
 
 ## 4. RQ3 — How do search strategies differ between the two games?
 
@@ -199,14 +205,14 @@ a shared backbone plus a different ending.
 | Query rate | 0.28 | 0.25 | 0.229 |
 | Platform-switch rate | 0.19 | 0.20 | 0.288 |
 
+![Paired session-level features by participant](../results/rq3/paired_features.png)
+
 Length aside (expected — Best Buds runs the full clock, see §2.3), **query
 rate and platform-switch rate don't differ between games**: participants
 query and switch platforms at similar rates regardless of whether they're
 going to succeed. Entropy trends slightly *higher* for Best Buds, not
 lower — the opposite of a naive "unresolved search looks more repetitive"
-prediction. That's addressed directly in §4.3. See
-[`results/rq3/paired_features.png`](../results/rq3/paired_features.png) for
-the full paired plot.
+prediction. That's addressed directly in §4.3.
 
 ### 4.3 Inside an unresolved search: does Best Buds plateau or keep exploring?
 
@@ -253,6 +259,8 @@ exactly which 21 people happened to be sampled.
 | 0 — "list-browsers" | 14 | 27% | **35%** | 3% | 1% | 2.11 | 49 |
 | 1 — "AI-assisted" | 7 | 29% | 14% | **20%** | **12%** | 2.33 | 32 |
 
+![Best Buds cluster profiles](../results/rq4/cluster_profiles_bestbuds.png)
+
 Feature-based k=2, silhouette 0.27, **LOO mean ARI = 1.00** (perfectly
 stable across all 21 leave-one-out folds). One subgroup (n=14) searches by
 repeatedly opening result lists; the other (n=7) leans heavily on
@@ -269,6 +277,8 @@ duplicating the same signal.
 |---|---:|---:|---:|---:|---:|
 | 0 — typical | 17 | 24% | 2% | 4% | 18 |
 | 1 — "AI-quick" | 4 | 31% | **28%** | 0% | **7** |
+
+![Townscaper cluster profiles](../results/rq4/cluster_profiles_townscaper.png)
 
 Feature-based k=2, LOO mean ARI = 0.84 (moderate-to-good — less stable
 than Best Buds, expected given Townscaper sessions are much shorter and
@@ -303,28 +313,34 @@ proportions used to build the cluster.
 
 ## 6. RQ5 — Does the annotator influence how a search process is coded?
 
-Uses the dedicated four-annotator agreement sample (`data/agreement/`):
-participant ID13, both games, independently segmented and labeled by
-annotator1–4. `annotator4` is the annotator who coded ID13 in the main
-dataset, so it doubles as the reference sequence. Full outputs in
-[`results/rq5/`](../results/rq5/).
+Two parts. **6.1–6.2 are the primary analysis**: the dedicated agreement
+sample (`data/agreement/`) — participant ID13, both games, independently
+segmented and labeled by six annotators (annotator1–6; annotator5/6 were
+added 2026-09-07, expanded from an original four). `annotator4` is the
+annotator who coded ID13 in the main dataset, so it doubles as the
+reference sequence. This is the only place multiple annotators coded the
+*same* recording, so it's the only place an annotator effect is actually
+identifiable. **6.3 is a secondary, confounded check** on the 21
+individually-annotated participants, added at the researcher's request —
+read its caveats before its numbers. Full outputs in
+[`results/rq5/`](../results/rq5/) and [`results/rq5b/`](../results/rq5b/).
 
-**Method note — this couldn't be a plain Cohen's kappa.** The four
-annotators' files have different row counts (17/13/17/17 events for Best
-Buds; 37/19/37/45 for Townscaper) — they independently *segmented* the
-recording, not just labeled a shared fixed set of events. So there's no
-common "item" to rate until the sequences are aligned. Method: (1) align
-annotators 1–3 against the annotator4 reference via minimum-edit-distance
-sequence alignment; (2) Krippendorff's alpha (nominal) on the aligned
-matrix; (3) pairwise alignment-free sequence similarity as a complementary
-view; (4) a pooled confusion table and per-action count comparison.
+**Method note — this couldn't be a plain Cohen's kappa.** The six
+annotators' files have different row counts — they independently
+*segmented* the recording, not just labeled a shared fixed set of events.
+So there's no common "item" to rate until the sequences are aligned.
+Method: (1) align annotators 1–3, 5, 6 against the annotator4 reference
+via minimum-edit-distance sequence alignment; (2) Krippendorff's alpha
+(nominal) on the aligned matrix; (3) pairwise alignment-free sequence
+similarity (all 15 pairs) as a complementary view; (4) a pooled confusion
+table and per-action count comparison.
 
 ### 6.1 Labels agree almost perfectly — when annotators agree an event happened at all
 
 | Game | Krippendorff's α (aligned) |
 |---|---:|
-| Best Buds vs Bad Guys | 0.96 |
-| Townscaper | 0.93 |
+| Best Buds vs Bad Guys | 0.97 |
+| Townscaper | 0.91 |
 
 Taken alone, these look excellent. But α only scores positions where
 annotators aligned to the *same* event — it treats an unmatched
@@ -336,28 +352,126 @@ hides the real story:
 | annotator1 | 94% | 94% | 78% | 94% |
 | annotator2 | **77%** | 100% | **42%** | 100% |
 | annotator3 | 100% | 100% | 82% | 92% |
+| annotator5 | 82% | 100% | 56% | 88% |
+| annotator6 | 82% | 100% | 56% | 96% |
 
 *Coverage* = share of the reference annotator's (annotator4's) events that
 this annotator also identified at all. **When annotators do align on the
-same event, they almost always label it identically** (92–100%) — the
-labeling scheme itself isn't the problem. The problem is *segmentation*:
-`annotator2` only identified 42% of the events `annotator4` did in
-Townscaper — well under half. Looking at raw per-action counts
-(`results/rq5/action_counts_by_annotator.csv`) confirms it's not one
-category — annotator2 undercounts `View result list` (5 vs. 10–13),
-`Platform switch` (2 vs. 4–8), `Browsing` (1 vs. 4–6), across the board,
-worse for the longer Townscaper sessions than the shorter Best Buds ones.
-annotator3 and annotator4, by contrast, are nearly identical (similarity
-1.00 on Best Buds, 0.76 on Townscaper) — see
-[`results/rq5/similarity_heatmaps.png`](../results/rq5/similarity_heatmaps.png).
+same event, they almost always label it identically** (88–100%) — the
+labeling scheme itself isn't the problem. The problem is *segmentation*,
+and it's not just one outlier: `annotator2` is the extreme case (42%
+Townscaper coverage), but `annotator5`/`annotator6` sit in a moderate
+band below `annotator1`/`annotator3` (56% vs. 78–82%) — coding
+granularity looks more like a spectrum than a single bad apple, worse
+for the longer, more repetitive Townscaper sessions across the board.
+`annotator5` and `annotator6` are, however, nearly identical *to each
+other* (similarity 1.00 on Best Buds, 0.81 on Townscaper).
 
-**Practical implication:** in the main 21-participant dataset, annotator2
-coded ID6–ID10 (§2). If annotator2's coarser segmentation style shown here
-generalizes, those 5 participants' session lengths/action counts in
-RQ1–RQ4 are likely *undercounts* relative to how the other annotators
-would have coded the same recordings — a real, if modest (5/21
-participants), source of noise layered on top of the genuine
-between-participant variation those analyses report.
+![Pairwise annotator similarity heatmaps, six annotators](../results/rq5/similarity_heatmaps.png)
+
+### 6.2 Practical implication for the main dataset
+
+In the main 21-participant dataset, annotator2 coded ID6–ID10 (§2). If
+annotator2's coarser segmentation style shown above generalizes, those 5
+participants' session lengths/action counts in RQ1–RQ4 are likely
+*undercounts* relative to how the other annotators would have coded the
+same recordings — a real, if modest (5/21 participants), source of noise
+layered on top of the genuine between-participant variation those
+analyses report. §6.3 checks this directly.
+
+### 6.3 Secondary check on the main dataset — confounded, read the caveat first
+
+Every result in this subsection compares *blocks of participants*, not
+annotators in isolation: `annotator1`→ID1–5, `annotator2`→ID6–10,
+`annotator4`→ID11–15, `annotator3`→ID16–21. Annotator and "which five/six
+participants" are the same partition of the data, so anything found here
+could be genuine annotator style, or it could just be that those
+particular people behave differently — this dataset alone cannot tell
+the two apart. Treat everything below as descriptive, cross-checked
+against 6.1's unconfounded finding where possible, not as independent
+proof of an annotator effect. Every feature is computed per (participant,
+game) first and normalized within that session *before* averaging within
+an annotator's block, so one long session can't dominate its annotator's
+average.
+
+**The corroboration is real but partial.** Comparing annotator2's
+profile against the other three's average:
+
+| Action | annotator2 | other annotators | difference |
+|---|---:|---:|---:|
+| View result list | 22.1% | 26.2% | **−4.1pp** |
+| View single result | 10.5% | 15.1% | **−4.6pp** |
+| Platform switch | 17.0% | 19.7% | **−2.7pp** |
+| Browsing | 2.4% | 3.0% | −0.6pp |
+| View AI response | 12.2% | 6.9% | **+5.3pp** |
+| View info box | 8.0% | 3.3% | **+4.7pp** |
+
+![Action-rate profile by annotator, main dataset](../results/rq5b/annotator_action_profiles.png)
+
+The three actions RQ5's agreement sample flagged as undercounted
+(`View result list`, `Platform switch`, and — closely related —
+`View single result`) are all lower for annotator2's block here too,
+consistent with the coarser-segmentation finding. But `View AI response`
+and `View info box` are *higher*, not lower — the opposite of a simple
+"undercounts everything" story. The likely mechanism: if annotator2
+tends to merge or miss quick, routine actions (successive result-list
+glances) while reliably catching the more salient, memorable ones
+(opening an AI response or info panel), the *proportion* going to those
+salient actions would mechanically inflate even without any real
+behavioral difference — segmentation coarseness distorting a rate
+measure, not a labeling error (6.1 already showed labels are correct 88%+
+of the time on aligned events). This is a plausible mechanism, not a
+demonstrated one.
+
+**Where the confound bites, not just caveats it:** annotator2's block has
+the *longest* recorded Townscaper sessions of any annotator (mean 23.2
+events vs. 10.6–16.2 for the others) — the opposite direction from what
+"coarser segmenter" would predict on its own. Read at face value this
+looks like it contradicts 6.1; more likely it just reflects that ID6–10
+happened to be a slower-searching group in Townscaper, a genuine
+participant effect swamping any segmentation-style signal in this
+particular measure. That's the confound doing exactly what the plan
+said it would do, not a new finding.
+
+**A random-intercept model** (annotator as the grouping factor, game as
+a fixed effect) gives the intraclass correlation — how much of the
+between-session variance in each action's rate sits "within annotator
+block" — as a summary of how much clustering-by-block exists at all,
+independent of cause:
+
+| Feature | ICC (annotator block) |
+|---|---:|
+| View info box | 0.13 |
+| View AI response | 0.13 |
+| View single result | 0.07 |
+| entropy | 0.04 |
+| Query | 0.00 |
+| Browsing | 0.00 |
+
+(`View result list` and `Platform switch` are omitted — their models hit
+a boundary solution and didn't converge; treat their near-zero point
+estimates as "no detectable block clustering," not precise numbers.)
+Every ICC is low. Most of the variation in how a session looks is
+between individual people, not between annotator blocks — reassuring for
+RQ1–RQ4's between-participant comparisons generally. `View AI response`
+and `View info box` cluster the most (13% each), which lines up with the
+same two actions standing out in the corroboration check above.
+
+**Checked directly, because those two actions matter a lot to RQ4:**
+does the RQ4 "AI-assisted"/"AI-quick" cluster just track annotator
+block, given the AI-related actions cluster the most here? No —
+crosstabbing cluster membership against annotator: Best Buds is close to
+uniform (1/2/2/2 "AI-assisted" members across the four annotators);
+Townscaper is 0/2/1/1 (annotator1's block has none, small enough to be
+chance at n=5). The cluster cuts across annotator blocks rather than
+tracking one of them, which is a real (if partial) reassurance that
+RQ4's individual-style finding isn't primarily an annotator artifact.
+
+Bigram rates (`results/rq5b/annotator_bigram_profiles.csv`) show the
+same broad pattern as the single-action rates — annotator2/annotator4
+lean toward `Query → View AI response`-adjacent patterns more than
+annotator1/annotator3 — but with only 4 block-level rows to compare,
+this is offered as raw data for inspection rather than a further claim.
 
 ## 7. RQ6 — Does game order affect strategy, and do people carry a strategy over? (added at researcher's request)
 
@@ -510,6 +624,8 @@ slightly more common in Best Buds (10%) than Townscaper (6%), and
 community sites (mostly Reddit, including the aptly-named
 r/tipofmyjoystick) more common in Townscaper (6%) than Best Buds (2%).
 
+![Platform-switch destination category by game](../results/rq7/platform_categories_by_game.png)
+
 The sharper result is **by RQ4 cluster**:
 
 | Game | Cluster | AI-assistant share of platform switches |
@@ -606,16 +722,21 @@ The **order** is the more interesting part:
 | Storefront | 3 | 1 | 0 | 0 |
 | Community | 2 | 0 | 0 | 0 |
 
+![Townscaper platform-category transition heatmap](../results/rq8/platform_transitions_townscaper.png)
+
 Storefronts and community sites only ever connect *back to* a search
 engine — never to each other directly, and search engine is by far the
 most common state to switch *into* from anywhere. That's a hub-and-spoke
 pattern: search engines are the hub participants keep returning to;
 Steam/Reddit/etc. are spokes visited and left, not a chain (e.g. never
-Steam → Reddit directly). Best Buds shows the identical structure
-(see [`results/rq8/platform_transitions_bestbuds.png`](../results/rq8/platform_transitions_bestbuds.png)),
-just with more AI-assistant traffic through the hub — the *shape* of
-platform navigation, like the action-level backbone in RQ2, doesn't
-depend on which game or whether it gets solved.
+Steam → Reddit directly).
+
+![Best Buds platform-category transition heatmap](../results/rq8/platform_transitions_bestbuds.png)
+
+Best Buds shows the identical structure, just with more AI-assistant
+traffic through the hub — the *shape* of platform navigation, like the
+action-level backbone in RQ2, doesn't depend on which game or whether it
+gets solved.
 
 This also shows up as *where sessions open and close*: 85% of Townscaper
 sessions make their first platform switch to a search engine, and 80%
@@ -785,6 +906,7 @@ No outstanding data-quality items — the `ID12` duplicate marker and the
 [`analysis/rq3_game_differences.py`](../analysis/rq3_game_differences.py),
 [`analysis/rq4_clustering.py`](../analysis/rq4_clustering.py),
 [`analysis/rq5_annotator_agreement.py`](../analysis/rq5_annotator_agreement.py),
+[`analysis/rq5b_annotator_confound.py`](../analysis/rq5b_annotator_confound.py),
 [`analysis/rq6_order_effects.py`](../analysis/rq6_order_effects.py),
 [`analysis/rq6_4_order_within_game.py`](../analysis/rq6_4_order_within_game.py),
 [`analysis/rq7_platform_details.py`](../analysis/rq7_platform_details.py),
@@ -792,5 +914,6 @@ No outstanding data-quality items — the `ID12` duplicate marker and the
 Full output tables in [`results/rq1/`](../results/rq1/),
 [`results/rq2/`](../results/rq2/), [`results/rq3/`](../results/rq3/),
 [`results/rq4/`](../results/rq4/), [`results/rq5/`](../results/rq5/),
-[`results/rq6/`](../results/rq6/), [`results/rq6_4/`](../results/rq6_4/),
-[`results/rq7/`](../results/rq7/), and [`results/rq8/`](../results/rq8/).*
+[`results/rq5b/`](../results/rq5b/), [`results/rq6/`](../results/rq6/),
+[`results/rq6_4/`](../results/rq6_4/), [`results/rq7/`](../results/rq7/),
+and [`results/rq8/`](../results/rq8/).*
