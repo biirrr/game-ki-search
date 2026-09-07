@@ -1,0 +1,22 @@
+participant_id,first_category,last_category,n_switches
+ID1,Search engine,Search engine,8
+ID10,Search engine,Storefront,15
+ID11,Search engine,Search engine,1
+ID12,Search engine,Search engine,14
+ID13,Search engine,AI assistant,4
+ID14,Search engine,Game database,14
+ID15,AI assistant,AI assistant,4
+ID16,Search engine,AI assistant,19
+ID17,Search engine,Search engine,3
+ID18,Search engine,Search engine,1
+ID19,Search engine,AI assistant,16
+ID2,Search engine,Search engine,8
+ID20,Search engine,AI assistant,8
+ID21,Search engine,Search engine,7
+ID3,Search engine,Search engine,3
+ID4,Search engine,Search engine,11
+ID5,Search engine,AI assistant,10
+ID6,Search engine,Search engine,8
+ID7,Search engine,Search engine,7
+ID8,Search engine,Search engine,6
+ID9,Search engine,Community,5

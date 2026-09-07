@@ -1,0 +1,54 @@
+participant_id	rank	annotator	game	language	action
+ID13	1	annotator1	Townscaper		Platform switch
+ID13	2	annotator1	Townscaper	DE	Query
+ID13	3	annotator1	Townscaper		View AI response
+ID13	4	annotator1	Townscaper	DE	Query
+ID13	5	annotator1	Townscaper		View AI response
+ID13	6	annotator1	Townscaper		View result list
+ID13	7	annotator1	Townscaper		View result list
+ID13	8	annotator1	Townscaper		View single result
+ID13	9	annotator1	Townscaper		View result list
+ID13	10	annotator1	Townscaper		View single result
+ID13	11	annotator1	Townscaper		View result list
+ID13	12	annotator1	Townscaper		View result list
+ID13	13	annotator1	Townscaper		View single result
+ID13	14	annotator1	Townscaper		View result list
+ID13	15	annotator1	Townscaper		View single result
+ID13	16	annotator1	Townscaper		Platform switch
+ID13	17	annotator1	Townscaper	DE	Query
+ID13	18	annotator1	Townscaper		View result list
+ID13	19	annotator1	Townscaper	DE	Browsing
+ID13	20	annotator1	Townscaper	DE	Browsing
+ID13	21	annotator1	Townscaper	DE	Browsing
+ID13	22	annotator1	Townscaper	DE	Browsing
+ID13	22	annotator1	Townscaper		Platform switch
+ID13	23	annotator1	Townscaper		View result list
+ID13	24	annotator1	Townscaper		View result list
+ID13	25	annotator1	Townscaper	DE	View AI response
+ID13	26	annotator1	Townscaper		View result list
+ID13	27	annotator1	Townscaper		View single result
+ID13	28	annotator1	Townscaper		View result list
+ID13	29	annotator1	Townscaper	DE	View AI response
+ID13	30	annotator1	Townscaper		View result list
+ID13	31	annotator1	Townscaper		View single result
+ID13	32	annotator1	Townscaper		Platform switch
+ID13	33	annotator1	Townscaper	DE	Query
+ID13	34	annotator1	Townscaper		View result list
+ID13	35	annotator1	Townscaper		View single result
+ID13	36	annotator1	Townscaper		Experiment ended
+ID13	37	annotator1	Best Buds vs Bad Guys		Platform switch
+ID13	38	annotator1	Best Buds vs Bad Guys	DE	Query
+ID13	39	annotator1	Best Buds vs Bad Guys		View result list
+ID13	40	annotator1	Best Buds vs Bad Guys		View single result
+ID13	41	annotator1	Best Buds vs Bad Guys		View result list
+ID13	42	annotator1	Best Buds vs Bad Guys	DE	View result list
+ID13	43	annotator1	Best Buds vs Bad Guys		Platform switch
+ID13	44	annotator1	Best Buds vs Bad Guys		View result list
+ID13	45	annotator1	Best Buds vs Bad Guys		Platform switch
+ID13	46	annotator1	Best Buds vs Bad Guys	DE	Query
+ID13	47	annotator1	Best Buds vs Bad Guys	DE	View AI response
+ID13	48	annotator1	Best Buds vs Bad Guys	DE	Query
+ID13	49	annotator1	Best Buds vs Bad Guys	DE	View AI response
+ID13	50	annotator1	Best Buds vs Bad Guys	DE	Query
+ID13	51	annotator1	Best Buds vs Bad Guys	DE	View AI response
+ID13	52	annotator1	Best Buds vs Bad Guys		Experiment ended

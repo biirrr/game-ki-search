@@ -1,0 +1,65 @@
+from,to,count
+Query,Query,10
+Query,View result list,196
+Query,View single result,5
+Query,Platform switch,51
+Query,View AI response,59
+Query,View info box,2
+Query,Browsing,1
+Query,Experiment ended,2
+View result list,Query,109
+View result list,View result list,8
+View result list,View single result,105
+View result list,Platform switch,85
+View result list,View AI response,12
+View result list,View info box,21
+View result list,Browsing,8
+View result list,Experiment ended,11
+View single result,Query,30
+View single result,View result list,40
+View single result,View single result,27
+View single result,Platform switch,33
+View single result,View AI response,2
+View single result,View info box,0
+View single result,Browsing,10
+View single result,Experiment ended,16
+Platform switch,Query,130
+Platform switch,View result list,85
+Platform switch,View single result,1
+Platform switch,Platform switch,7
+Platform switch,View AI response,5
+Platform switch,View info box,0
+Platform switch,Browsing,8
+Platform switch,Experiment ended,0
+View AI response,Query,34
+View AI response,View result list,13
+View AI response,View single result,6
+View AI response,Platform switch,8
+View AI response,View AI response,1
+View AI response,View info box,13
+View AI response,Browsing,0
+View AI response,Experiment ended,6
+View info box,Query,5
+View info box,View result list,6
+View info box,View single result,9
+View info box,Platform switch,8
+View info box,View AI response,2
+View info box,View info box,16
+View info box,Browsing,0
+View info box,Experiment ended,6
+Browsing,Query,6
+Browsing,View result list,11
+Browsing,View single result,5
+Browsing,Platform switch,4
+Browsing,View AI response,0
+Browsing,View info box,0
+Browsing,Browsing,17
+Browsing,Experiment ended,1
+Experiment ended,Query,0
+Experiment ended,View result list,0
+Experiment ended,View single result,0
+Experiment ended,Platform switch,0
+Experiment ended,View AI response,0
+Experiment ended,View info box,0
+Experiment ended,Browsing,0
+Experiment ended,Experiment ended,0

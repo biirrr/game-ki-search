@@ -1,0 +1,16 @@
+pattern,support
+Platform switch -> Experiment ended,21
+Platform switch -> Query -> Experiment ended,21
+Platform switch -> Query -> Query -> Experiment ended,21
+Platform switch -> Query -> Query -> Query -> Experiment ended,21
+Platform switch -> Query -> Query -> Query -> Query -> Experiment ended,21
+Platform switch -> Query -> View result list -> Experiment ended,21
+Platform switch -> Query -> View result list -> View result list -> Experiment ended,21
+Platform switch -> View result list -> Experiment ended,21
+Platform switch -> View result list -> View result list -> Experiment ended,21
+Platform switch -> Query -> Query -> Query -> View result list -> Experiment ended,20
+Platform switch -> Query -> Query -> View result list -> Experiment ended,20
+Platform switch -> Query -> Query -> View result list -> View result list -> Experiment ended,20
+Platform switch -> Query -> View result list -> Query -> Experiment ended,20
+Platform switch -> Query -> View result list -> Query -> Query -> Experiment ended,20
+Platform switch -> Query -> View result list -> View result list -> Query -> Experiment ended,20

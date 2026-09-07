@@ -1,0 +1,218 @@
+participant_id,game,action,count,rate
+ID1,Best Buds vs Bad Guys,Platform switch,8,0.16666666666666666
+ID1,Best Buds vs Bad Guys,Query,16,0.3333333333333333
+ID1,Best Buds vs Bad Guys,View result list,19,0.3958333333333333
+ID1,Best Buds vs Bad Guys,View single result,5,0.10416666666666667
+ID1,Townscaper,Platform switch,2,0.25
+ID1,Townscaper,Query,2,0.25
+ID1,Townscaper,View result list,2,0.25
+ID1,Townscaper,View single result,2,0.25
+ID10,Best Buds vs Bad Guys,Browsing,4,0.06779661016949153
+ID10,Best Buds vs Bad Guys,Platform switch,15,0.2542372881355932
+ID10,Best Buds vs Bad Guys,Query,13,0.22033898305084745
+ID10,Best Buds vs Bad Guys,View AI response,3,0.05084745762711865
+ID10,Best Buds vs Bad Guys,View result list,22,0.3728813559322034
+ID10,Best Buds vs Bad Guys,View single result,2,0.03389830508474576
+ID10,Townscaper,Browsing,1,0.045454545454545456
+ID10,Townscaper,Platform switch,6,0.2727272727272727
+ID10,Townscaper,Query,5,0.22727272727272727
+ID10,Townscaper,View info box,1,0.045454545454545456
+ID10,Townscaper,View result list,7,0.3181818181818182
+ID10,Townscaper,View single result,2,0.09090909090909091
+ID11,Best Buds vs Bad Guys,Browsing,1,0.03571428571428571
+ID11,Best Buds vs Bad Guys,Platform switch,1,0.03571428571428571
+ID11,Best Buds vs Bad Guys,Query,10,0.35714285714285715
+ID11,Best Buds vs Bad Guys,View AI response,3,0.10714285714285714
+ID11,Best Buds vs Bad Guys,View result list,10,0.35714285714285715
+ID11,Best Buds vs Bad Guys,View single result,3,0.10714285714285714
+ID11,Townscaper,Platform switch,1,0.2
+ID11,Townscaper,Query,1,0.2
+ID11,Townscaper,View result list,1,0.2
+ID11,Townscaper,View single result,2,0.4
+ID12,Best Buds vs Bad Guys,Platform switch,14,0.2641509433962264
+ID12,Best Buds vs Bad Guys,Query,13,0.24528301886792453
+ID12,Best Buds vs Bad Guys,View AI response,4,0.07547169811320754
+ID12,Best Buds vs Bad Guys,View info box,1,0.018867924528301886
+ID12,Best Buds vs Bad Guys,View result list,19,0.3584905660377358
+ID12,Best Buds vs Bad Guys,View single result,2,0.03773584905660377
+ID12,Townscaper,Platform switch,1,0.06666666666666667
+ID12,Townscaper,Query,5,0.3333333333333333
+ID12,Townscaper,View AI response,2,0.13333333333333333
+ID12,Townscaper,View result list,5,0.3333333333333333
+ID12,Townscaper,View single result,2,0.13333333333333333
+ID13,Best Buds vs Bad Guys,Browsing,1,0.0625
+ID13,Best Buds vs Bad Guys,Platform switch,4,0.25
+ID13,Best Buds vs Bad Guys,Query,4,0.25
+ID13,Best Buds vs Bad Guys,View AI response,3,0.1875
+ID13,Best Buds vs Bad Guys,View result list,3,0.1875
+ID13,Best Buds vs Bad Guys,View single result,1,0.0625
+ID13,Townscaper,Browsing,6,0.13636363636363635
+ID13,Townscaper,Platform switch,8,0.18181818181818182
+ID13,Townscaper,Query,4,0.09090909090909091
+ID13,Townscaper,View AI response,4,0.09090909090909091
+ID13,Townscaper,View result list,10,0.22727272727272727
+ID13,Townscaper,View single result,12,0.2727272727272727
+ID14,Best Buds vs Bad Guys,Browsing,2,0.03278688524590164
+ID14,Best Buds vs Bad Guys,Platform switch,14,0.22950819672131148
+ID14,Best Buds vs Bad Guys,Query,14,0.22950819672131148
+ID14,Best Buds vs Bad Guys,View result list,19,0.3114754098360656
+ID14,Best Buds vs Bad Guys,View single result,12,0.19672131147540983
+ID14,Townscaper,Platform switch,2,0.4
+ID14,Townscaper,Query,1,0.2
+ID14,Townscaper,View result list,1,0.2
+ID14,Townscaper,View single result,1,0.2
+ID15,Best Buds vs Bad Guys,Platform switch,4,0.16666666666666666
+ID15,Best Buds vs Bad Guys,Query,7,0.2916666666666667
+ID15,Best Buds vs Bad Guys,View AI response,8,0.3333333333333333
+ID15,Best Buds vs Bad Guys,View result list,2,0.08333333333333333
+ID15,Best Buds vs Bad Guys,View single result,3,0.125
+ID15,Townscaper,Platform switch,1,0.2
+ID15,Townscaper,Query,1,0.2
+ID15,Townscaper,View AI response,2,0.4
+ID15,Townscaper,View single result,1,0.2
+ID16,Best Buds vs Bad Guys,Browsing,3,0.04225352112676056
+ID16,Best Buds vs Bad Guys,Platform switch,19,0.2676056338028169
+ID16,Best Buds vs Bad Guys,Query,17,0.23943661971830985
+ID16,Best Buds vs Bad Guys,View AI response,1,0.014084507042253521
+ID16,Best Buds vs Bad Guys,View info box,4,0.056338028169014086
+ID16,Best Buds vs Bad Guys,View result list,18,0.2535211267605634
+ID16,Best Buds vs Bad Guys,View single result,9,0.1267605633802817
+ID16,Townscaper,Browsing,4,0.21052631578947367
+ID16,Townscaper,Platform switch,5,0.2631578947368421
+ID16,Townscaper,Query,3,0.15789473684210525
+ID16,Townscaper,View AI response,1,0.05263157894736842
+ID16,Townscaper,View info box,1,0.05263157894736842
+ID16,Townscaper,View result list,4,0.21052631578947367
+ID16,Townscaper,View single result,1,0.05263157894736842
+ID17,Best Buds vs Bad Guys,Platform switch,3,0.09375
+ID17,Best Buds vs Bad Guys,Query,9,0.28125
+ID17,Best Buds vs Bad Guys,View result list,14,0.4375
+ID17,Best Buds vs Bad Guys,View single result,6,0.1875
+ID17,Townscaper,Platform switch,6,0.35294117647058826
+ID17,Townscaper,Query,3,0.17647058823529413
+ID17,Townscaper,View info box,1,0.058823529411764705
+ID17,Townscaper,View result list,5,0.29411764705882354
+ID17,Townscaper,View single result,2,0.11764705882352941
+ID18,Best Buds vs Bad Guys,Platform switch,1,0.07692307692307693
+ID18,Best Buds vs Bad Guys,Query,4,0.3076923076923077
+ID18,Best Buds vs Bad Guys,View AI response,3,0.23076923076923078
+ID18,Best Buds vs Bad Guys,View info box,2,0.15384615384615385
+ID18,Best Buds vs Bad Guys,View result list,2,0.15384615384615385
+ID18,Best Buds vs Bad Guys,View single result,1,0.07692307692307693
+ID18,Townscaper,Platform switch,1,0.25
+ID18,Townscaper,Query,1,0.25
+ID18,Townscaper,View AI response,1,0.25
+ID18,Townscaper,View single result,1,0.25
+ID19,Best Buds vs Bad Guys,Platform switch,16,0.25396825396825395
+ID19,Best Buds vs Bad Guys,Query,14,0.2222222222222222
+ID19,Best Buds vs Bad Guys,View AI response,2,0.031746031746031744
+ID19,Best Buds vs Bad Guys,View info box,4,0.06349206349206349
+ID19,Best Buds vs Bad Guys,View result list,21,0.3333333333333333
+ID19,Best Buds vs Bad Guys,View single result,6,0.09523809523809523
+ID19,Townscaper,Platform switch,2,0.11764705882352941
+ID19,Townscaper,Query,6,0.35294117647058826
+ID19,Townscaper,View info box,1,0.058823529411764705
+ID19,Townscaper,View result list,7,0.4117647058823529
+ID19,Townscaper,View single result,1,0.058823529411764705
+ID2,Best Buds vs Bad Guys,Platform switch,8,0.2
+ID2,Best Buds vs Bad Guys,Query,9,0.225
+ID2,Best Buds vs Bad Guys,View AI response,1,0.025
+ID2,Best Buds vs Bad Guys,View result list,14,0.35
+ID2,Best Buds vs Bad Guys,View single result,8,0.2
+ID2,Townscaper,Platform switch,2,0.2222222222222222
+ID2,Townscaper,Query,2,0.2222222222222222
+ID2,Townscaper,View result list,2,0.2222222222222222
+ID2,Townscaper,View single result,3,0.3333333333333333
+ID20,Best Buds vs Bad Guys,Browsing,4,0.08163265306122448
+ID20,Best Buds vs Bad Guys,Platform switch,8,0.16326530612244897
+ID20,Best Buds vs Bad Guys,Query,16,0.32653061224489793
+ID20,Best Buds vs Bad Guys,View AI response,5,0.10204081632653061
+ID20,Best Buds vs Bad Guys,View info box,4,0.08163265306122448
+ID20,Best Buds vs Bad Guys,View result list,10,0.20408163265306123
+ID20,Best Buds vs Bad Guys,View single result,2,0.04081632653061224
+ID20,Townscaper,Platform switch,2,0.25
+ID20,Townscaper,Query,2,0.25
+ID20,Townscaper,View info box,1,0.125
+ID20,Townscaper,View result list,2,0.25
+ID20,Townscaper,View single result,1,0.125
+ID21,Best Buds vs Bad Guys,Browsing,4,0.0975609756097561
+ID21,Best Buds vs Bad Guys,Platform switch,7,0.17073170731707318
+ID21,Best Buds vs Bad Guys,Query,12,0.2926829268292683
+ID21,Best Buds vs Bad Guys,View info box,1,0.024390243902439025
+ID21,Best Buds vs Bad Guys,View result list,14,0.34146341463414637
+ID21,Best Buds vs Bad Guys,View single result,3,0.07317073170731707
+ID21,Townscaper,Browsing,4,0.125
+ID21,Townscaper,Platform switch,5,0.15625
+ID21,Townscaper,Query,10,0.3125
+ID21,Townscaper,View result list,11,0.34375
+ID21,Townscaper,View single result,2,0.0625
+ID3,Best Buds vs Bad Guys,Browsing,2,0.046511627906976744
+ID3,Best Buds vs Bad Guys,Platform switch,3,0.06976744186046512
+ID3,Best Buds vs Bad Guys,Query,9,0.20930232558139536
+ID3,Best Buds vs Bad Guys,View result list,17,0.3953488372093023
+ID3,Best Buds vs Bad Guys,View single result,12,0.27906976744186046
+ID3,Townscaper,Platform switch,4,0.19047619047619047
+ID3,Townscaper,Query,5,0.23809523809523808
+ID3,Townscaper,View info box,2,0.09523809523809523
+ID3,Townscaper,View result list,5,0.23809523809523808
+ID3,Townscaper,View single result,5,0.23809523809523808
+ID4,Best Buds vs Bad Guys,Platform switch,11,0.2
+ID4,Best Buds vs Bad Guys,Query,20,0.36363636363636365
+ID4,Best Buds vs Bad Guys,View info box,1,0.01818181818181818
+ID4,Best Buds vs Bad Guys,View result list,19,0.34545454545454546
+ID4,Best Buds vs Bad Guys,View single result,4,0.07272727272727272
+ID4,Townscaper,Platform switch,2,0.2857142857142857
+ID4,Townscaper,Query,2,0.2857142857142857
+ID4,Townscaper,View info box,1,0.14285714285714285
+ID4,Townscaper,View result list,2,0.2857142857142857
+ID5,Best Buds vs Bad Guys,Platform switch,10,0.2
+ID5,Best Buds vs Bad Guys,Query,16,0.32
+ID5,Best Buds vs Bad Guys,View AI response,7,0.14
+ID5,Best Buds vs Bad Guys,View info box,8,0.16
+ID5,Best Buds vs Bad Guys,View result list,9,0.18
+ID5,Townscaper,Browsing,1,0.125
+ID5,Townscaper,Platform switch,1,0.125
+ID5,Townscaper,Query,2,0.25
+ID5,Townscaper,View result list,2,0.25
+ID5,Townscaper,View single result,2,0.25
+ID6,Best Buds vs Bad Guys,Platform switch,8,0.2222222222222222
+ID6,Best Buds vs Bad Guys,Query,11,0.3055555555555556
+ID6,Best Buds vs Bad Guys,View AI response,9,0.25
+ID6,Best Buds vs Bad Guys,View info box,5,0.1388888888888889
+ID6,Best Buds vs Bad Guys,View result list,3,0.08333333333333333
+ID6,Townscaper,Platform switch,1,0.16666666666666666
+ID6,Townscaper,Query,3,0.5
+ID6,Townscaper,View AI response,1,0.16666666666666666
+ID6,Townscaper,View info box,1,0.16666666666666666
+ID7,Best Buds vs Bad Guys,Platform switch,7,0.1891891891891892
+ID7,Best Buds vs Bad Guys,Query,9,0.24324324324324326
+ID7,Best Buds vs Bad Guys,View AI response,6,0.16216216216216217
+ID7,Best Buds vs Bad Guys,View info box,11,0.2972972972972973
+ID7,Best Buds vs Bad Guys,View result list,3,0.08108108108108109
+ID7,Best Buds vs Bad Guys,View single result,1,0.02702702702702703
+ID7,Townscaper,Platform switch,2,0.15384615384615385
+ID7,Townscaper,Query,4,0.3076923076923077
+ID7,Townscaper,View AI response,4,0.3076923076923077
+ID7,Townscaper,View info box,2,0.15384615384615385
+ID7,Townscaper,View result list,1,0.07692307692307693
+ID8,Best Buds vs Bad Guys,Browsing,7,0.12962962962962962
+ID8,Best Buds vs Bad Guys,Platform switch,6,0.1111111111111111
+ID8,Best Buds vs Bad Guys,Query,11,0.2037037037037037
+ID8,Best Buds vs Bad Guys,View AI response,5,0.09259259259259259
+ID8,Best Buds vs Bad Guys,View result list,18,0.3333333333333333
+ID8,Best Buds vs Bad Guys,View single result,7,0.12962962962962962
+ID8,Townscaper,Platform switch,1,0.05
+ID8,Townscaper,Query,5,0.25
+ID8,Townscaper,View AI response,2,0.1
+ID8,Townscaper,View result list,7,0.35
+ID8,Townscaper,View single result,5,0.25
+ID9,Best Buds vs Bad Guys,Platform switch,5,0.11627906976744186
+ID9,Best Buds vs Bad Guys,Query,12,0.27906976744186046
+ID9,Best Buds vs Bad Guys,View AI response,3,0.06976744186046512
+ID9,Best Buds vs Bad Guys,View result list,14,0.32558139534883723
+ID9,Best Buds vs Bad Guys,View single result,9,0.20930232558139536
+ID9,Townscaper,Platform switch,9,0.16363636363636364
+ID9,Townscaper,Query,13,0.23636363636363636
+ID9,Townscaper,View AI response,1,0.01818181818181818
+ID9,Townscaper,View result list,15,0.2727272727272727
+ID9,Townscaper,View single result,17,0.3090909090909091

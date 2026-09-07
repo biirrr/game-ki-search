@@ -1,0 +1,327 @@
+participant_id,game,step,action_details_num_tokens
+ID1,Best Buds vs Bad Guys,2,4
+ID1,Best Buds vs Bad Guys,5,4
+ID1,Best Buds vs Bad Guys,7,6
+ID1,Best Buds vs Bad Guys,9,8
+ID1,Best Buds vs Bad Guys,11,7
+ID1,Best Buds vs Bad Guys,13,9
+ID1,Best Buds vs Bad Guys,15,8
+ID1,Best Buds vs Bad Guys,17,9
+ID1,Best Buds vs Bad Guys,21,8
+ID1,Best Buds vs Bad Guys,23,9
+ID1,Best Buds vs Bad Guys,27,11
+ID1,Best Buds vs Bad Guys,32,11
+ID1,Best Buds vs Bad Guys,35,3
+ID1,Best Buds vs Bad Guys,40,6
+ID1,Best Buds vs Bad Guys,45,2
+ID1,Best Buds vs Bad Guys,47,4
+ID1,Townscaper,2,1
+ID1,Townscaper,4,5
+ID10,Best Buds vs Bad Guys,1,5
+ID10,Best Buds vs Bad Guys,4,7
+ID10,Best Buds vs Bad Guys,8,2
+ID10,Best Buds vs Bad Guys,10,5
+ID10,Best Buds vs Bad Guys,13,8
+ID10,Best Buds vs Bad Guys,17,8
+ID10,Best Buds vs Bad Guys,22,9
+ID10,Best Buds vs Bad Guys,26,9
+ID10,Best Buds vs Bad Guys,29,6
+ID10,Best Buds vs Bad Guys,36,5
+ID10,Best Buds vs Bad Guys,43,8
+ID10,Best Buds vs Bad Guys,49,1
+ID10,Best Buds vs Bad Guys,52,2
+ID10,Townscaper,2,3
+ID10,Townscaper,3,2
+ID10,Townscaper,12,4
+ID10,Townscaper,15,5
+ID10,Townscaper,20,1
+ID11,Best Buds vs Bad Guys,2,3
+ID11,Best Buds vs Bad Guys,6,4
+ID11,Best Buds vs Bad Guys,8,5
+ID11,Best Buds vs Bad Guys,10,4
+ID11,Best Buds vs Bad Guys,12,8
+ID11,Best Buds vs Bad Guys,16,5
+ID11,Best Buds vs Bad Guys,19,6
+ID11,Best Buds vs Bad Guys,23,5
+ID11,Best Buds vs Bad Guys,25,6
+ID11,Best Buds vs Bad Guys,27,6
+ID11,Townscaper,2,6
+ID12,Best Buds vs Bad Guys,2,3
+ID12,Best Buds vs Bad Guys,6,6
+ID12,Best Buds vs Bad Guys,10,7
+ID12,Best Buds vs Bad Guys,13,6
+ID12,Best Buds vs Bad Guys,15,7
+ID12,Best Buds vs Bad Guys,17,2
+ID12,Best Buds vs Bad Guys,23,7
+ID12,Best Buds vs Bad Guys,25,120
+ID12,Best Buds vs Bad Guys,28,1
+ID12,Best Buds vs Bad Guys,36,4
+ID12,Best Buds vs Bad Guys,43,2
+ID12,Best Buds vs Bad Guys,47,5
+ID12,Best Buds vs Bad Guys,52,5
+ID12,Townscaper,2,4
+ID12,Townscaper,7,3
+ID12,Townscaper,9,3
+ID12,Townscaper,11,8
+ID12,Townscaper,14,1
+ID13,Best Buds vs Bad Guys,2,16
+ID13,Best Buds vs Bad Guys,11,16
+ID13,Best Buds vs Bad Guys,13,59
+ID13,Best Buds vs Bad Guys,15,7
+ID13,Townscaper,2,7
+ID13,Townscaper,4,13
+ID13,Townscaper,18,11
+ID13,Townscaper,42,1
+ID14,Best Buds vs Bad Guys,2,5
+ID14,Best Buds vs Bad Guys,5,6
+ID14,Best Buds vs Bad Guys,8,9
+ID14,Best Buds vs Bad Guys,14,1
+ID14,Best Buds vs Bad Guys,20,5
+ID14,Best Buds vs Bad Guys,24,6
+ID14,Best Buds vs Bad Guys,26,3
+ID14,Best Buds vs Bad Guys,30,3
+ID14,Best Buds vs Bad Guys,33,5
+ID14,Best Buds vs Bad Guys,36,1
+ID14,Best Buds vs Bad Guys,39,3
+ID14,Best Buds vs Bad Guys,46,2
+ID14,Best Buds vs Bad Guys,49,3
+ID14,Best Buds vs Bad Guys,60,8
+ID14,Townscaper,2,4
+ID15,Best Buds vs Bad Guys,2,239
+ID15,Best Buds vs Bad Guys,4,101
+ID15,Best Buds vs Bad Guys,8,10
+ID15,Best Buds vs Bad Guys,12,82
+ID15,Best Buds vs Bad Guys,14,28
+ID15,Best Buds vs Bad Guys,16,14
+ID15,Best Buds vs Bad Guys,19,7
+ID15,Townscaper,2,189
+ID16,Best Buds vs Bad Guys,2,4
+ID16,Best Buds vs Bad Guys,6,1
+ID16,Best Buds vs Bad Guys,13,3
+ID16,Best Buds vs Bad Guys,16,5
+ID16,Best Buds vs Bad Guys,22,4
+ID16,Best Buds vs Bad Guys,27,8
+ID16,Best Buds vs Bad Guys,30,8
+ID16,Best Buds vs Bad Guys,31,6
+ID16,Best Buds vs Bad Guys,35,1
+ID16,Best Buds vs Bad Guys,39,6
+ID16,Best Buds vs Bad Guys,42,7
+ID16,Best Buds vs Bad Guys,43,7
+ID16,Best Buds vs Bad Guys,47,4
+ID16,Best Buds vs Bad Guys,56,3
+ID16,Best Buds vs Bad Guys,63,6
+ID16,Best Buds vs Bad Guys,68,1
+ID16,Best Buds vs Bad Guys,70,13
+ID16,Townscaper,2,4
+ID16,Townscaper,6,1
+ID16,Townscaper,17,14
+ID17,Best Buds vs Bad Guys,2,7
+ID17,Best Buds vs Bad Guys,6,5
+ID17,Best Buds vs Bad Guys,12,7
+ID17,Best Buds vs Bad Guys,14,6
+ID17,Best Buds vs Bad Guys,16,8
+ID17,Best Buds vs Bad Guys,18,5
+ID17,Best Buds vs Bad Guys,23,4
+ID17,Best Buds vs Bad Guys,26,5
+ID17,Best Buds vs Bad Guys,29,6
+ID17,Townscaper,2,5
+ID17,Townscaper,6,7
+ID17,Townscaper,13,7
+ID18,Best Buds vs Bad Guys,2,15
+ID18,Best Buds vs Bad Guys,4,21
+ID18,Best Buds vs Bad Guys,8,34
+ID18,Best Buds vs Bad Guys,10,35
+ID18,Townscaper,2,15
+ID19,Best Buds vs Bad Guys,2,6
+ID19,Best Buds vs Bad Guys,6,1
+ID19,Best Buds vs Bad Guys,11,2
+ID19,Best Buds vs Bad Guys,12,3
+ID19,Best Buds vs Bad Guys,14,12
+ID19,Best Buds vs Bad Guys,21,11
+ID19,Best Buds vs Bad Guys,23,8
+ID19,Best Buds vs Bad Guys,32,2
+ID19,Best Buds vs Bad Guys,39,9
+ID19,Best Buds vs Bad Guys,42,1
+ID19,Best Buds vs Bad Guys,47,9
+ID19,Best Buds vs Bad Guys,52,8
+ID19,Best Buds vs Bad Guys,56,2
+ID19,Best Buds vs Bad Guys,60,8
+ID19,Townscaper,2,3
+ID19,Townscaper,6,4
+ID19,Townscaper,8,4
+ID19,Townscaper,10,3
+ID19,Townscaper,12,4
+ID19,Townscaper,14,5
+ID2,Best Buds vs Bad Guys,2,7
+ID2,Best Buds vs Bad Guys,6,4
+ID2,Best Buds vs Bad Guys,9,4
+ID2,Best Buds vs Bad Guys,11,3
+ID2,Best Buds vs Bad Guys,15,3
+ID2,Best Buds vs Bad Guys,17,5
+ID2,Best Buds vs Bad Guys,24,7
+ID2,Best Buds vs Bad Guys,30,6
+ID2,Best Buds vs Bad Guys,36,3
+ID2,Townscaper,2,2
+ID2,Townscaper,6,3
+ID20,Best Buds vs Bad Guys,2,5
+ID20,Best Buds vs Bad Guys,5,6
+ID20,Best Buds vs Bad Guys,7,5
+ID20,Best Buds vs Bad Guys,9,6
+ID20,Best Buds vs Bad Guys,12,8
+ID20,Best Buds vs Bad Guys,15,10
+ID20,Best Buds vs Bad Guys,25,5
+ID20,Best Buds vs Bad Guys,27,7
+ID20,Best Buds vs Bad Guys,30,9
+ID20,Best Buds vs Bad Guys,34,5
+ID20,Best Buds vs Bad Guys,41,2
+ID20,Best Buds vs Bad Guys,43,1
+ID20,Best Buds vs Bad Guys,44,21
+ID20,Best Buds vs Bad Guys,45,8
+ID20,Best Buds vs Bad Guys,47,10
+ID20,Best Buds vs Bad Guys,49,12
+ID20,Townscaper,2,5
+ID20,Townscaper,5,6
+ID21,Best Buds vs Bad Guys,2,5
+ID21,Best Buds vs Bad Guys,5,6
+ID21,Best Buds vs Bad Guys,7,8
+ID21,Best Buds vs Bad Guys,9,6
+ID21,Best Buds vs Bad Guys,11,7
+ID21,Best Buds vs Bad Guys,16,1
+ID21,Best Buds vs Bad Guys,19,1
+ID21,Best Buds vs Bad Guys,27,3
+ID21,Best Buds vs Bad Guys,31,7
+ID21,Best Buds vs Bad Guys,33,4
+ID21,Best Buds vs Bad Guys,36,5
+ID21,Best Buds vs Bad Guys,38,7
+ID21,Townscaper,2,1
+ID21,Townscaper,3,5
+ID21,Townscaper,5,6
+ID21,Townscaper,9,6
+ID21,Townscaper,11,1
+ID21,Townscaper,15,1
+ID21,Townscaper,22,2
+ID21,Townscaper,25,2
+ID21,Townscaper,28,3
+ID21,Townscaper,30,8
+ID3,Best Buds vs Bad Guys,2,5
+ID3,Best Buds vs Bad Guys,7,6
+ID3,Best Buds vs Bad Guys,11,3
+ID3,Best Buds vs Bad Guys,19,8
+ID3,Best Buds vs Bad Guys,28,10
+ID3,Best Buds vs Bad Guys,30,8
+ID3,Best Buds vs Bad Guys,35,8
+ID3,Best Buds vs Bad Guys,38,10
+ID3,Best Buds vs Bad Guys,41,1
+ID3,Townscaper,2,7
+ID3,Townscaper,8,8
+ID3,Townscaper,11,8
+ID3,Townscaper,16,10
+ID3,Townscaper,19,10
+ID4,Best Buds vs Bad Guys,2,5
+ID4,Best Buds vs Bad Guys,4,5
+ID4,Best Buds vs Bad Guys,6,3
+ID4,Best Buds vs Bad Guys,9,3
+ID4,Best Buds vs Bad Guys,11,7
+ID4,Best Buds vs Bad Guys,14,7
+ID4,Best Buds vs Bad Guys,17,7
+ID4,Best Buds vs Bad Guys,21,4
+ID4,Best Buds vs Bad Guys,24,4
+ID4,Best Buds vs Bad Guys,29,3
+ID4,Best Buds vs Bad Guys,31,4
+ID4,Best Buds vs Bad Guys,33,5
+ID4,Best Buds vs Bad Guys,36,5
+ID4,Best Buds vs Bad Guys,38,7
+ID4,Best Buds vs Bad Guys,41,7
+ID4,Best Buds vs Bad Guys,43,6
+ID4,Best Buds vs Bad Guys,46,7
+ID4,Best Buds vs Bad Guys,49,7
+ID4,Best Buds vs Bad Guys,52,7
+ID4,Best Buds vs Bad Guys,55,2
+ID4,Townscaper,2,6
+ID4,Townscaper,5,6
+ID5,Best Buds vs Bad Guys,2,1
+ID5,Best Buds vs Bad Guys,5,41
+ID5,Best Buds vs Bad Guys,7,3
+ID5,Best Buds vs Bad Guys,9,16
+ID5,Best Buds vs Bad Guys,12,4
+ID5,Best Buds vs Bad Guys,14,4
+ID5,Best Buds vs Bad Guys,16,2
+ID5,Best Buds vs Bad Guys,20,8
+ID5,Best Buds vs Bad Guys,23,5
+ID5,Best Buds vs Bad Guys,27,7
+ID5,Best Buds vs Bad Guys,30,9
+ID5,Best Buds vs Bad Guys,32,3
+ID5,Best Buds vs Bad Guys,34,3
+ID5,Best Buds vs Bad Guys,38,2
+ID5,Best Buds vs Bad Guys,42,26
+ID5,Best Buds vs Bad Guys,46,16
+ID5,Townscaper,3,4
+ID5,Townscaper,6,4
+ID6,Best Buds vs Bad Guys,2,2
+ID6,Best Buds vs Bad Guys,4,64
+ID6,Best Buds vs Bad Guys,6,21
+ID6,Best Buds vs Bad Guys,8,15
+ID6,Best Buds vs Bad Guys,13,0
+ID6,Best Buds vs Bad Guys,15,6
+ID6,Best Buds vs Bad Guys,17,15
+ID6,Best Buds vs Bad Guys,21,13
+ID6,Best Buds vs Bad Guys,24,17
+ID6,Best Buds vs Bad Guys,26,12
+ID6,Best Buds vs Bad Guys,35,4
+ID6,Townscaper,1,2
+ID6,Townscaper,3,39
+ID6,Townscaper,5,1
+ID7,Best Buds vs Bad Guys,2,4
+ID7,Best Buds vs Bad Guys,4,5
+ID7,Best Buds vs Bad Guys,8,31
+ID7,Best Buds vs Bad Guys,10,22
+ID7,Best Buds vs Bad Guys,12,35
+ID7,Best Buds vs Bad Guys,23,3
+ID7,Best Buds vs Bad Guys,31,3
+ID7,Best Buds vs Bad Guys,34,1
+ID7,Best Buds vs Bad Guys,36,2
+ID7,Townscaper,2,5
+ID7,Townscaper,4,1
+ID7,Townscaper,7,28
+ID7,Townscaper,11,23
+ID8,Best Buds vs Bad Guys,2,6
+ID8,Best Buds vs Bad Guys,9,10
+ID8,Best Buds vs Bad Guys,16,8
+ID8,Best Buds vs Bad Guys,18,10
+ID8,Best Buds vs Bad Guys,30,3
+ID8,Best Buds vs Bad Guys,32,14
+ID8,Best Buds vs Bad Guys,36,3
+ID8,Best Buds vs Bad Guys,38,4
+ID8,Best Buds vs Bad Guys,41,9
+ID8,Best Buds vs Bad Guys,50,7
+ID8,Best Buds vs Bad Guys,52,7
+ID8,Townscaper,2,1
+ID8,Townscaper,3,3
+ID8,Townscaper,7,4
+ID8,Townscaper,15,3
+ID8,Townscaper,17,8
+ID9,Best Buds vs Bad Guys,2,2
+ID9,Best Buds vs Bad Guys,3,4
+ID9,Best Buds vs Bad Guys,6,6
+ID9,Best Buds vs Bad Guys,9,7
+ID9,Best Buds vs Bad Guys,11,6
+ID9,Best Buds vs Bad Guys,13,6
+ID9,Best Buds vs Bad Guys,16,1
+ID9,Best Buds vs Bad Guys,20,1
+ID9,Best Buds vs Bad Guys,24,3
+ID9,Best Buds vs Bad Guys,26,3
+ID9,Best Buds vs Bad Guys,30,5
+ID9,Best Buds vs Bad Guys,34,5
+ID9,Townscaper,2,2
+ID9,Townscaper,3,4
+ID9,Townscaper,6,1
+ID9,Townscaper,9,2
+ID9,Townscaper,24,2
+ID9,Townscaper,26,7
+ID9,Townscaper,28,1
+ID9,Townscaper,30,1
+ID9,Townscaper,34,5
+ID9,Townscaper,42,2
+ID9,Townscaper,46,2
+ID9,Townscaper,48,1
+ID9,Townscaper,50,2

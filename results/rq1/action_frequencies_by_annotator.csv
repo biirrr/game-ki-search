@@ -1,0 +1,33 @@
+annotator,action,count,proportion
+annotator1,View result list,91,0.30434782608695654
+annotator1,Query,83,0.27759197324414714
+annotator1,Platform switch,51,0.1705685618729097
+annotator1,View single result,41,0.13712374581939799
+annotator1,View info box,12,0.04013377926421405
+annotator1,Experiment ended,10,0.033444816053511704
+annotator1,View AI response,8,0.026755852842809364
+annotator1,Browsing,3,0.010033444816053512
+annotator2,View result list,90,0.2535211267605634
+annotator2,Query,86,0.24225352112676057
+annotator2,Platform switch,60,0.16901408450704225
+annotator2,View single result,43,0.12112676056338029
+annotator2,View AI response,34,0.09577464788732394
+annotator2,View info box,20,0.056338028169014086
+annotator2,Browsing,12,0.03380281690140845
+annotator2,Experiment ended,10,0.028169014084507043
+annotator3,View result list,108,0.2857142857142857
+annotator3,Query,97,0.2566137566137566
+annotator3,Platform switch,75,0.1984126984126984
+annotator3,View single result,35,0.09259259259259259
+annotator3,Browsing,19,0.05026455026455026
+annotator3,View info box,19,0.05026455026455026
+annotator3,View AI response,13,0.03439153439153439
+annotator3,Experiment ended,12,0.031746031746031744
+annotator4,View result list,70,0.2631578947368421
+annotator4,Query,60,0.22556390977443608
+annotator4,Platform switch,50,0.18796992481203006
+annotator4,View single result,39,0.14661654135338345
+annotator4,View AI response,26,0.09774436090225563
+annotator4,Browsing,10,0.03759398496240601
+annotator4,Experiment ended,10,0.03759398496240601
+annotator4,View info box,1,0.0037593984962406013

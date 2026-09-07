@@ -1,0 +1,67 @@
+participant_id	rank	annotator	game	language	action	action_details_clean	action_details_num_tokens
+ID3	1	annotator1	Best Buds vs Bad Guys		Platform switch	Google	1
+ID3	2	annotator1	Best Buds vs Bad Guys	EN	Query		5
+ID3	3	annotator1	Best Buds vs Bad Guys		View result list		2
+ID3	4	annotator1	Best Buds vs Bad Guys		View single result	subreddit tipofmyjoystick thread	18
+ID3	5	annotator1	Best Buds vs Bad Guys		View single result	"Moby Games page on ""Bernard & Hank"""	14
+ID3	6	annotator1	Best Buds vs Bad Guys		Browsing		7
+ID3	7	annotator1	Best Buds vs Bad Guys	EN	Query		6
+ID3	8	annotator1	Best Buds vs Bad Guys		View result list		4
+ID3	9	annotator1	Best Buds vs Bad Guys		View single result	subreddit shouldibuythisgame	12
+ID3	10	annotator1	Best Buds vs Bad Guys		View result list		10
+ID3	11	annotator1	Best Buds vs Bad Guys	NE	Query		3
+ID3	12	annotator1	Best Buds vs Bad Guys		View result list		8
+ID3	13	annotator1	Best Buds vs Bad Guys		View result list		6
+ID3	14	annotator1	Best Buds vs Bad Guys		View single result	"Steam page on ""The Last Night"""	20
+ID3	15	annotator1	Best Buds vs Bad Guys		View result list		14
+ID3	16	annotator1	Best Buds vs Bad Guys		View single result	"Moby Games page on ""Bernard & Hank"" screenshots"	9
+ID3	17	annotator1	Best Buds vs Bad Guys	EN	Browsing		16
+ID3	18	annotator1	Best Buds vs Bad Guys		View single result	subreddit tipofmyjoystick thread	11
+ID3	19	annotator1	Best Buds vs Bad Guys	EN	Query		8
+ID3	20	annotator1	Best Buds vs Bad Guys		View result list		8
+ID3	21	annotator1	Best Buds vs Bad Guys		View single result	subreddit tipofmyjoystick thread	11
+ID3	22	annotator1	Best Buds vs Bad Guys		View single result	www.petermorphose.de	8
+ID3	23	annotator1	Best Buds vs Bad Guys		View result list		6
+ID3	24	annotator1	Best Buds vs Bad Guys		View single result	Steampeek	15
+ID3	25	annotator1	Best Buds vs Bad Guys		View result list		4
+ID3	26	annotator1	Best Buds vs Bad Guys		View single result	"Famiboards page on ""The best-looking sidescrollers ever made"""	28
+ID3	27	annotator1	Best Buds vs Bad Guys		View result list		2
+ID3	28	annotator1	Best Buds vs Bad Guys	EN	Query		10
+ID3	29	annotator1	Best Buds vs Bad Guys		View result list		2
+ID3	30	annotator1	Best Buds vs Bad Guys	EN	Query		8
+ID3	31	annotator1	Best Buds vs Bad Guys		View result list		10
+ID3	32	annotator1	Best Buds vs Bad Guys		View single result	subreddit typofmyjoystick thread	7
+ID3	33	annotator1	Best Buds vs Bad Guys		View result list		5
+ID3	34	annotator1	Best Buds vs Bad Guys		Platform switch	Google Image Search	3
+ID3	35	annotator1	Best Buds vs Bad Guys	EN	Query		8
+ID3	36	annotator1	Best Buds vs Bad Guys		View result list		5
+ID3	37	annotator1	Best Buds vs Bad Guys		Platform switch	Google	1
+ID3	38	annotator1	Best Buds vs Bad Guys	EN	Query		10
+ID3	39	annotator1	Best Buds vs Bad Guys		View result list		11
+ID3	40	annotator1	Best Buds vs Bad Guys		View single result	subreddit typofmyjoystick thread	16
+ID3	41	annotator1	Best Buds vs Bad Guys	EN	Query		1
+ID3	42	annotator1	Best Buds vs Bad Guys		View result list		7
+ID3	43	annotator1	Best Buds vs Bad Guys		View result list		2
+ID3	44	annotator1	Best Buds vs Bad Guys		Experiment ended		3
+ID3	45	annotator1	Townscaper		Platform switch	Google	1
+ID3	46	annotator1	Townscaper	EN	Query		7
+ID3	47	annotator1	Townscaper		View result list		8
+ID3	48	annotator1	Townscaper		View single result	subreddit cozygames thread	12
+ID3	49	annotator1	Townscaper		View single result	"Steam page on ""Carto"""	14
+ID3	50	annotator1	Townscaper		View single result	subreddit cozygames thread	8
+ID3	51	annotator1	Townscaper		View single result	"Steampeek page on ""Dorfromantik"""	31
+ID3	52	annotator1	Townscaper	EN	Query		8
+ID3	53	annotator1	Townscaper		View result list		14
+ID3	54	annotator1	Townscaper		Platform switch	Google Image Search	3
+ID3	55	annotator1	Townscaper	EN	Query		8
+ID3	56	annotator1	Townscaper		View result list		6
+ID3	57	annotator1	Townscaper		View info box		9
+ID3	58	annotator1	Townscaper		View single result	subreddit IndieGaming thread	10
+ID3	59	annotator1	Townscaper		Platform switch	Google	1
+ID3	60	annotator1	Townscaper	EN	Query		10
+ID3	61	annotator1	Townscaper		View result list		12
+ID3	62	annotator1	Townscaper		Platform switch	Google Image Search	3
+ID3	63	annotator1	Townscaper	EN	Query		10
+ID3	64	annotator1	Townscaper		View result list		8
+ID3	65	annotator1	Townscaper		View info box		8
+ID3	66	annotator1	Townscaper		Experiment ended		3

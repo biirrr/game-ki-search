@@ -1,0 +1,22 @@
+participant_id,closing_action,source
+ID1,View single result,Google Image
+ID10,View result list,
+ID11,View single result,Steam
+ID12,View result list,
+ID13,View single result,Steam
+ID14,View single result,videospielgeschichten.de
+ID15,View AI response,
+ID16,View info box,
+ID17,View single result,Townscaper
+ID18,View single result,Steampowered.com
+ID19,View single result,Ratgeber-videospiele.dk
+ID2,View single result,The Cozy Gaming Nook
+ID20,View single result,gamestar.de
+ID21,View single result,Gamers-place
+ID3,View info box,
+ID4,View info box,
+ID5,View single result,TikTok video
+ID6,View info box,
+ID7,View AI response,
+ID8,View single result,Youtube
+ID9,View result list,

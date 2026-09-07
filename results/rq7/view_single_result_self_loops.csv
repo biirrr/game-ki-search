@@ -1,0 +1,28 @@
+participant_id,game,source_a,source_b,same_source,position
+ID1,Best Buds vs Bad Guys,Google Image,minireview.io,False,second
+ID11,Townscaper,YouTube,Steam,False,second
+ID13,Townscaper,Steam,Steam,True,first
+ID14,Best Buds vs Bad Guys,Reddit,Steam,False,first
+ID14,Best Buds vs Bad Guys,Dosgames,Dosgames,True,first
+ID15,Best Buds vs Bad Guys,Youtube,Youtube,True,second
+ID2,Best Buds vs Bad Guys,Wikipedia,Wikipedia,True,first
+ID2,Best Buds vs Bad Guys,Google Image,Wikipedia,False,first
+ID2,Townscaper,Google Image,The Cozy Gaming Nook,False,second
+ID3,Best Buds vs Bad Guys,subreddit tipofmyjoystick thread,"Moby Games page on ""Bernard & Hank""",False,first
+ID3,Best Buds vs Bad Guys,subreddit tipofmyjoystick thread,www.petermorphose.de,False,first
+ID3,Townscaper,subreddit cozygames thread,"Steam page on ""Carto""",False,second
+ID3,Townscaper,"Steam page on ""Carto""",subreddit cozygames thread,False,second
+ID3,Townscaper,subreddit cozygames thread,"Steampeek page on ""Dorfromantik""",False,second
+ID4,Best Buds vs Bad Guys,subreddit tipofmyjoystick thread,subreddit retrogaming thread,False,second
+ID9,Best Buds vs Bad Guys,Reddit,Youtube,False,first
+ID9,Townscaper,Steam,Steam,True,second
+ID9,Townscaper,Steam,Steam,True,second
+ID9,Townscaper,Steam,Steam,True,second
+ID9,Townscaper,Steam,Steam,True,second
+ID9,Townscaper,Steam,Steam,True,second
+ID9,Townscaper,Steam,Steam,True,second
+ID9,Townscaper,Steam,Steam,True,second
+ID9,Townscaper,Steam,Steam,True,second
+ID9,Townscaper,Steam,Steam,True,second
+ID9,Townscaper,Steam,Steam,True,second
+ID9,Townscaper,Steam,Steam: GRIS,False,second

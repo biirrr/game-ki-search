@@ -1,0 +1,65 @@
+from,to,count
+Query,Query,6
+Query,View result list,147
+Query,View single result,4
+Query,Platform switch,39
+Query,View AI response,47
+Query,View info box,1
+Query,Browsing,0
+Query,Experiment ended,2
+View result list,Query,86
+View result list,View result list,8
+View result list,View single result,73
+View result list,Platform switch,67
+View result list,View AI response,8
+View result list,View info box,14
+View result list,Browsing,6
+View result list,Experiment ended,8
+View single result,Query,24
+View single result,View result list,31
+View single result,View single result,10
+View single result,Platform switch,20
+View single result,View AI response,1
+View single result,View info box,0
+View single result,Browsing,6
+View single result,Experiment ended,4
+Platform switch,Query,92
+Platform switch,View result list,63
+Platform switch,View single result,0
+Platform switch,Platform switch,6
+Platform switch,View AI response,5
+Platform switch,View info box,0
+Platform switch,Browsing,6
+Platform switch,Experiment ended,0
+View AI response,Query,28
+View AI response,View result list,9
+View AI response,View single result,3
+View AI response,Platform switch,8
+View AI response,View AI response,0
+View AI response,View info box,11
+View AI response,Browsing,0
+View AI response,Experiment ended,4
+View info box,Query,4
+View info box,View result list,6
+View info box,View single result,4
+View info box,Platform switch,8
+View info box,View AI response,2
+View info box,View info box,15
+View info box,Browsing,0
+View info box,Experiment ended,2
+Browsing,Query,5
+Browsing,View result list,6
+Browsing,View single result,2
+Browsing,Platform switch,4
+Browsing,View AI response,0
+Browsing,View info box,0
+Browsing,Browsing,10
+Browsing,Experiment ended,1
+Experiment ended,Query,0
+Experiment ended,View result list,0
+Experiment ended,View single result,0
+Experiment ended,Platform switch,0
+Experiment ended,View AI response,0
+Experiment ended,View info box,0
+Experiment ended,Browsing,0
+Experiment ended,Experiment ended,0

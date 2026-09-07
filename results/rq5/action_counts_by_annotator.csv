@@ -1,0 +1,65 @@
+annotator,game,action,count
+annotator1,Best Buds vs Bad Guys,Query,4
+annotator1,Best Buds vs Bad Guys,View result list,4
+annotator1,Best Buds vs Bad Guys,View single result,1
+annotator1,Best Buds vs Bad Guys,Platform switch,3
+annotator1,Best Buds vs Bad Guys,View AI response,3
+annotator1,Best Buds vs Bad Guys,View info box,0
+annotator1,Best Buds vs Bad Guys,Browsing,0
+annotator1,Best Buds vs Bad Guys,Experiment ended,1
+annotator1,Townscaper,Query,4
+annotator1,Townscaper,View result list,13
+annotator1,Townscaper,View single result,7
+annotator1,Townscaper,Platform switch,4
+annotator1,Townscaper,View AI response,4
+annotator1,Townscaper,View info box,0
+annotator1,Townscaper,Browsing,4
+annotator1,Townscaper,Experiment ended,1
+annotator2,Best Buds vs Bad Guys,Query,3
+annotator2,Best Buds vs Bad Guys,View result list,2
+annotator2,Best Buds vs Bad Guys,View single result,1
+annotator2,Best Buds vs Bad Guys,Platform switch,3
+annotator2,Best Buds vs Bad Guys,View AI response,3
+annotator2,Best Buds vs Bad Guys,View info box,0
+annotator2,Best Buds vs Bad Guys,Browsing,0
+annotator2,Best Buds vs Bad Guys,Experiment ended,1
+annotator2,Townscaper,Query,4
+annotator2,Townscaper,View result list,5
+annotator2,Townscaper,View single result,4
+annotator2,Townscaper,Platform switch,2
+annotator2,Townscaper,View AI response,2
+annotator2,Townscaper,View info box,0
+annotator2,Townscaper,Browsing,1
+annotator2,Townscaper,Experiment ended,1
+annotator3,Best Buds vs Bad Guys,Query,4
+annotator3,Best Buds vs Bad Guys,View result list,3
+annotator3,Best Buds vs Bad Guys,View single result,1
+annotator3,Best Buds vs Bad Guys,Platform switch,4
+annotator3,Best Buds vs Bad Guys,View AI response,3
+annotator3,Best Buds vs Bad Guys,View info box,0
+annotator3,Best Buds vs Bad Guys,Browsing,1
+annotator3,Best Buds vs Bad Guys,Experiment ended,1
+annotator3,Townscaper,Query,5
+annotator3,Townscaper,View result list,11
+annotator3,Townscaper,View single result,6
+annotator3,Townscaper,Platform switch,6
+annotator3,Townscaper,View AI response,4
+annotator3,Townscaper,View info box,0
+annotator3,Townscaper,Browsing,4
+annotator3,Townscaper,Experiment ended,1
+annotator4,Best Buds vs Bad Guys,Query,4
+annotator4,Best Buds vs Bad Guys,View result list,3
+annotator4,Best Buds vs Bad Guys,View single result,1
+annotator4,Best Buds vs Bad Guys,Platform switch,4
+annotator4,Best Buds vs Bad Guys,View AI response,3
+annotator4,Best Buds vs Bad Guys,View info box,0
+annotator4,Best Buds vs Bad Guys,Browsing,1
+annotator4,Best Buds vs Bad Guys,Experiment ended,1
+annotator4,Townscaper,Query,4
+annotator4,Townscaper,View result list,10
+annotator4,Townscaper,View single result,12
+annotator4,Townscaper,Platform switch,8
+annotator4,Townscaper,View AI response,4
+annotator4,Townscaper,View info box,0
+annotator4,Townscaper,Browsing,6
+annotator4,Townscaper,Experiment ended,1

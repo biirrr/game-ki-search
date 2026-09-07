@@ -1,0 +1,16 @@
+pattern,count
+View result list -> Query -> View result list,18
+Query -> View result list -> View single result,17
+Platform switch -> Query -> View result list,16
+Query -> View result list -> Query,13
+View single result -> View single result -> View single result,12
+Query -> View result list -> Platform switch,11
+Query -> Platform switch -> View result list,11
+View result list -> Platform switch -> Query,10
+Platform switch -> Query -> Platform switch,9
+View result list -> View single result -> View result list,9
+View result list -> Platform switch -> View result list,8
+View single result -> Platform switch -> Query,8
+Platform switch -> Query -> View AI response,7
+View result list -> View single result -> Platform switch,7
+View single result -> Query -> View result list,6

@@ -1,0 +1,36 @@
+participant_id	rank	annotator	game	language	action	action_details_clean	action_details_num_tokens
+ID11	1	annotator4	Best Buds vs Bad Guys		Platform switch	Google	1
+ID11	2	annotator4	Best Buds vs Bad Guys	DE	Query		3
+ID11	3	annotator4	Best Buds vs Bad Guys		View AI response		1
+ID11	4	annotator4	Best Buds vs Bad Guys		View result list		2
+ID11	5	annotator4	Best Buds vs Bad Guys		View AI response		1
+ID11	6	annotator4	Best Buds vs Bad Guys	DE	Query		4
+ID11	7	annotator4	Best Buds vs Bad Guys		View result list		2
+ID11	8	annotator4	Best Buds vs Bad Guys	MU	Query		5
+ID11	9	annotator4	Best Buds vs Bad Guys		View result list		2
+ID11	10	annotator4	Best Buds vs Bad Guys	EN	Query		4
+ID11	11	annotator4	Best Buds vs Bad Guys		View single result	Steam	7
+ID11	12	annotator4	Best Buds vs Bad Guys	EN	Query		8
+ID11	13	annotator4	Best Buds vs Bad Guys		View result list		2
+ID11	14	annotator4	Best Buds vs Bad Guys		View single result	Reddit	9
+ID11	15	annotator4	Best Buds vs Bad Guys		View result list		2
+ID11	16	annotator4	Best Buds vs Bad Guys	MU	Query		5
+ID11	17	annotator4	Best Buds vs Bad Guys		View result list		2
+ID11	18	annotator4	Best Buds vs Bad Guys		View AI response		1
+ID11	19	annotator4	Best Buds vs Bad Guys	EN	Query		6
+ID11	20	annotator4	Best Buds vs Bad Guys		View result list		2
+ID11	21	annotator4	Best Buds vs Bad Guys		View single result	Reddit	11
+ID11	22	annotator4	Best Buds vs Bad Guys		Browsing		14
+ID11	23	annotator4	Best Buds vs Bad Guys	EN	Query		5
+ID11	24	annotator4	Best Buds vs Bad Guys		View result list		2
+ID11	25	annotator4	Best Buds vs Bad Guys	EN	Query		6
+ID11	26	annotator4	Best Buds vs Bad Guys		View result list		2
+ID11	27	annotator4	Best Buds vs Bad Guys	EN	Query		6
+ID11	28	annotator4	Best Buds vs Bad Guys		View result list		2
+ID11	29	annotator4	Best Buds vs Bad Guys		Experiment ended		3
+ID11	30	annotator4	Townscaper		Platform switch	Google	1
+ID11	31	annotator4	Townscaper	EN	Query		6
+ID11	32	annotator4	Townscaper		View result list		2
+ID11	33	annotator4	Townscaper		View single result	YouTube	7
+ID11	34	annotator4	Townscaper		View single result	Steam	7
+ID11	35	annotator4	Townscaper		Experiment ended		2

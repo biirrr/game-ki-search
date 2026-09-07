@@ -1,0 +1,21 @@
+participant_id,first_category,last_category,n_switches
+ID1,Search engine,Search engine,2
+ID10,Search engine,Search engine,6
+ID11,Search engine,Search engine,1
+ID13,Search engine,Storefront,8
+ID14,Search engine,Search engine,2
+ID15,AI assistant,AI assistant,1
+ID16,Search engine,AI assistant,5
+ID17,Search engine,Search engine,6
+ID18,Search engine,Search engine,1
+ID19,Search engine,Search engine,2
+ID2,Search engine,Search engine,2
+ID20,Search engine,Search engine,2
+ID21,Search engine,Search engine,5
+ID3,Search engine,Search engine,4
+ID4,Search engine,Search engine,2
+ID5,Community,Community,1
+ID6,AI assistant,AI assistant,1
+ID7,Search engine,AI assistant,2
+ID8,Search engine,Search engine,1
+ID9,Search engine,Community,9

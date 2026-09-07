@@ -1,0 +1,63 @@
+participant_id	rank	annotator	game	language	action	action_details_clean	action_details_num_tokens
+ID13	1	annotator4	Townscaper		Platform switch	Google	1
+ID13	2	annotator4	Townscaper	DE	Query		7
+ID13	3	annotator4	Townscaper		View AI response		1
+ID13	4	annotator4	Townscaper	DE	Query		13
+ID13	5	annotator4	Townscaper		View result list		2
+ID13	6	annotator4	Townscaper		View AI response		1
+ID13	7	annotator4	Townscaper		View result list		2
+ID13	8	annotator4	Townscaper		View single result	Stern.de	8
+ID13	9	annotator4	Townscaper		Platform switch	Stern.de	2
+ID13	10	annotator4	Townscaper		View single result	Stern.de	8
+ID13	11	annotator4	Townscaper		Platform switch	Google	1
+ID13	12	annotator4	Townscaper		View result list		2
+ID13	13	annotator4	Townscaper		View single result	pcgameshardware.de	7
+ID13	14	annotator4	Townscaper		View result list		2
+ID13	15	annotator4	Townscaper		View single result	Steam	12
+ID13	16	annotator4	Townscaper		View single result	Steam	12
+ID13	17	annotator4	Townscaper		Platform switch	Steam	1
+ID13	18	annotator4	Townscaper	DE	Query		11
+ID13	19	annotator4	Townscaper		View result list		2
+ID13	20	annotator4	Townscaper		View single result	Steam	12
+ID13	21	annotator4	Townscaper	DE	Browsing		1
+ID13	22	annotator4	Townscaper	DE	Browsing		0
+ID13	23	annotator4	Townscaper	DE	Browsing		1
+ID13	24	annotator4	Townscaper	DE	Browsing		1
+ID13	25	annotator4	Townscaper		View single result	Extensive	2
+ID13	26	annotator4	Townscaper	DE	Browsing		1
+ID13	27	annotator4	Townscaper		View single result	Steam	8
+ID13	28	annotator4	Townscaper	DE	Browsing		1
+ID13	29	annotator4	Townscaper		View single result	Steam	12
+ID13	30	annotator4	Townscaper		Platform switch	Google	1
+ID13	31	annotator4	Townscaper		View result list		2
+ID13	32	annotator4	Townscaper		View AI response		2
+ID13	33	annotator4	Townscaper		View result list		2
+ID13	34	annotator4	Townscaper		View single result	Steam	12
+ID13	35	annotator4	Townscaper		Platform switch	Steam	1
+ID13	36	annotator4	Townscaper		Platform switch	Google	1
+ID13	37	annotator4	Townscaper		View result list		2
+ID13	38	annotator4	Townscaper		View AI response		2
+ID13	39	annotator4	Townscaper		View result list		2
+ID13	40	annotator4	Townscaper		View single result	Steam	12
+ID13	41	annotator4	Townscaper		Platform switch	Steam	1
+ID13	42	annotator4	Townscaper	NE	Query		1
+ID13	43	annotator4	Townscaper		View result list		2
+ID13	44	annotator4	Townscaper		View single result	Steam	7
+ID13	45	annotator4	Townscaper		Experiment ended		2
+ID13	46	annotator4	Best Buds vs Bad Guys		Platform switch	Google	1
+ID13	47	annotator4	Best Buds vs Bad Guys	DE	Query		16
+ID13	48	annotator4	Best Buds vs Bad Guys		View result list		2
+ID13	49	annotator4	Best Buds vs Bad Guys		View single result	Classic Videogames	10
+ID13	50	annotator4	Best Buds vs Bad Guys		View result list		2
+ID13	51	annotator4	Best Buds vs Bad Guys		Browsing		0
+ID13	52	annotator4	Best Buds vs Bad Guys		Platform switch	Google Image Search	3
+ID13	53	annotator4	Best Buds vs Bad Guys		View result list		2
+ID13	54	annotator4	Best Buds vs Bad Guys		Platform switch	Google	1
+ID13	55	annotator4	Best Buds vs Bad Guys		Platform switch	Google AI Mode	3
+ID13	56	annotator4	Best Buds vs Bad Guys	DE	Query		16
+ID13	57	annotator4	Best Buds vs Bad Guys		View AI response		1
+ID13	58	annotator4	Best Buds vs Bad Guys	DE	Query		59
+ID13	59	annotator4	Best Buds vs Bad Guys		View AI response		1
+ID13	60	annotator4	Best Buds vs Bad Guys	DE	Query		7
+ID13	61	annotator4	Best Buds vs Bad Guys		View AI response		1
+ID13	62	annotator4	Best Buds vs Bad Guys		Experiment ended		3

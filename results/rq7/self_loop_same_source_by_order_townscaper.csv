@@ -1,0 +1,3 @@
+position,n_same_source,n_self_loops,share_same_source
+first,1,1,1.0
+second,10,16,0.625

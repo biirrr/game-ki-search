@@ -1,0 +1,170 @@
+from,to,count
+Query,Query,4
+Query,View result list,49
+Query,View single result: Storefront,0
+Query,View single result: Community,0
+Query,View single result: Other site,1
+Query,Platform switch: Search engine,11
+Query,Platform switch: AI assistant,1
+Query,Platform switch: Storefront,0
+Query,Platform switch: Other,0
+Query,View AI response,12
+Query,View info box,1
+Query,Browsing,1
+Query,Experiment ended,0
+View result list,Query,23
+View result list,View result list,0
+View result list,View single result: Storefront,9
+View result list,View single result: Community,6
+View result list,View single result: Other site,17
+View result list,Platform switch: Search engine,14
+View result list,Platform switch: AI assistant,2
+View result list,Platform switch: Storefront,0
+View result list,Platform switch: Other,2
+View result list,View AI response,4
+View result list,View info box,7
+View result list,Browsing,2
+View result list,Experiment ended,3
+View single result: Storefront,Query,1
+View single result: Storefront,View result list,0
+View single result: Storefront,View single result: Storefront,12
+View single result: Storefront,View single result: Community,1
+View single result: Storefront,View single result: Other site,0
+View single result: Storefront,Platform switch: Search engine,2
+View single result: Storefront,Platform switch: AI assistant,0
+View single result: Storefront,Platform switch: Storefront,5
+View single result: Storefront,Platform switch: Other,0
+View single result: Storefront,View AI response,0
+View single result: Storefront,View info box,0
+View single result: Storefront,Browsing,3
+View single result: Storefront,Experiment ended,3
+View single result: Community,Query,1
+View single result: Community,View result list,2
+View single result: Community,View single result: Storefront,2
+View single result: Community,View single result: Community,0
+View single result: Community,View single result: Other site,0
+View single result: Community,Platform switch: Search engine,2
+View single result: Community,Platform switch: AI assistant,0
+View single result: Community,Platform switch: Storefront,0
+View single result: Community,Platform switch: Other,1
+View single result: Community,View AI response,0
+View single result: Community,View info box,0
+View single result: Community,Browsing,0
+View single result: Community,Experiment ended,0
+View single result: Other site,Query,4
+View single result: Other site,View result list,7
+View single result: Other site,View single result: Storefront,1
+View single result: Other site,View single result: Community,0
+View single result: Other site,View single result: Other site,1
+View single result: Other site,Platform switch: Search engine,2
+View single result: Other site,Platform switch: AI assistant,0
+View single result: Other site,Platform switch: Storefront,0
+View single result: Other site,Platform switch: Other,1
+View single result: Other site,View AI response,1
+View single result: Other site,View info box,0
+View single result: Other site,Browsing,1
+View single result: Other site,Experiment ended,9
+Platform switch: Search engine,Query,28
+Platform switch: Search engine,View result list,21
+Platform switch: Search engine,View single result: Storefront,0
+Platform switch: Search engine,View single result: Community,0
+Platform switch: Search engine,View single result: Other site,0
+Platform switch: Search engine,Platform switch: Search engine,0
+Platform switch: Search engine,Platform switch: AI assistant,0
+Platform switch: Search engine,Platform switch: Storefront,0
+Platform switch: Search engine,Platform switch: Other,0
+Platform switch: Search engine,View AI response,0
+Platform switch: Search engine,View info box,0
+Platform switch: Search engine,Browsing,0
+Platform switch: Search engine,Experiment ended,0
+Platform switch: AI assistant,Query,4
+Platform switch: AI assistant,View result list,0
+Platform switch: AI assistant,View single result: Storefront,0
+Platform switch: AI assistant,View single result: Community,0
+Platform switch: AI assistant,View single result: Other site,0
+Platform switch: AI assistant,Platform switch: Search engine,0
+Platform switch: AI assistant,Platform switch: AI assistant,0
+Platform switch: AI assistant,Platform switch: Storefront,0
+Platform switch: AI assistant,Platform switch: Other,0
+Platform switch: AI assistant,View AI response,0
+Platform switch: AI assistant,View info box,0
+Platform switch: AI assistant,Browsing,0
+Platform switch: AI assistant,Experiment ended,0
+Platform switch: Storefront,Query,3
+Platform switch: Storefront,View result list,0
+Platform switch: Storefront,View single result: Storefront,0
+Platform switch: Storefront,View single result: Community,0
+Platform switch: Storefront,View single result: Other site,0
+Platform switch: Storefront,Platform switch: Search engine,1
+Platform switch: Storefront,Platform switch: AI assistant,0
+Platform switch: Storefront,Platform switch: Storefront,0
+Platform switch: Storefront,Platform switch: Other,0
+Platform switch: Storefront,View AI response,0
+Platform switch: Storefront,View info box,0
+Platform switch: Storefront,Browsing,1
+Platform switch: Storefront,Experiment ended,0
+Platform switch: Other,Query,3
+Platform switch: Other,View result list,1
+Platform switch: Other,View single result: Storefront,0
+Platform switch: Other,View single result: Community,0
+Platform switch: Other,View single result: Other site,1
+Platform switch: Other,Platform switch: Search engine,0
+Platform switch: Other,Platform switch: AI assistant,0
+Platform switch: Other,Platform switch: Storefront,0
+Platform switch: Other,Platform switch: Other,0
+Platform switch: Other,View AI response,0
+Platform switch: Other,View info box,0
+Platform switch: Other,Browsing,1
+Platform switch: Other,Experiment ended,0
+View AI response,Query,6
+View AI response,View result list,4
+View AI response,View single result: Storefront,1
+View AI response,View single result: Community,0
+View AI response,View single result: Other site,2
+View AI response,Platform switch: Search engine,0
+View AI response,Platform switch: AI assistant,0
+View AI response,Platform switch: Storefront,0
+View AI response,Platform switch: Other,0
+View AI response,View AI response,1
+View AI response,View info box,2
+View AI response,Browsing,0
+View AI response,Experiment ended,2
+View info box,Query,1
+View info box,View result list,0
+View info box,View single result: Storefront,0
+View info box,View single result: Community,1
+View info box,View single result: Other site,4
+View info box,Platform switch: Search engine,0
+View info box,Platform switch: AI assistant,0
+View info box,Platform switch: Storefront,0
+View info box,Platform switch: Other,0
+View info box,View AI response,0
+View info box,View info box,1
+View info box,Browsing,0
+View info box,Experiment ended,4
+Browsing,Query,1
+Browsing,View result list,5
+Browsing,View single result: Storefront,2
+Browsing,View single result: Community,0
+Browsing,View single result: Other site,1
+Browsing,Platform switch: Search engine,0
+Browsing,Platform switch: AI assistant,0
+Browsing,Platform switch: Storefront,0
+Browsing,Platform switch: Other,0
+Browsing,View AI response,0
+Browsing,View info box,0
+Browsing,Browsing,7
+Browsing,Experiment ended,0
+Experiment ended,Query,0
+Experiment ended,View result list,0
+Experiment ended,View single result: Storefront,0
+Experiment ended,View single result: Community,0
+Experiment ended,View single result: Other site,0
+Experiment ended,Platform switch: Search engine,0
+Experiment ended,Platform switch: AI assistant,0
+Experiment ended,Platform switch: Storefront,0
+Experiment ended,Platform switch: Other,0
+Experiment ended,View AI response,0
+Experiment ended,View info box,0
+Experiment ended,Browsing,0
+Experiment ended,Experiment ended,0

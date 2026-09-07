@@ -1,0 +1,7 @@
+game,annotator,n_reference_positions,coverage,agreement_on_covered,agreement_overall
+Best Buds vs Bad Guys,annotator1,17,0.941,0.938,0.882
+Best Buds vs Bad Guys,annotator2,17,0.765,1.0,0.765
+Best Buds vs Bad Guys,annotator3,17,1.0,1.0,1.0
+Townscaper,annotator1,45,0.778,0.943,0.733
+Townscaper,annotator2,45,0.422,1.0,0.422
+Townscaper,annotator3,45,0.822,0.919,0.756

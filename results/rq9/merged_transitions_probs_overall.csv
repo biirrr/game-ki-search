@@ -1,0 +1,13 @@
+from,Query,View result list,View single result: Storefront,View single result: Community,Other site,Platform switch: Search engine,Platform switch: AI assistant,Platform switch: Storefront,View AI response,View info box,Browsing,Experiment ended
+Query,0.031,0.601,0.006,0.003,0.006,0.141,0.015,0.0,0.181,0.006,0.003,0.006
+View result list,0.304,0.022,0.053,0.086,0.164,0.198,0.025,0.003,0.033,0.058,0.022,0.031
+View single result: Storefront,0.098,0.073,0.293,0.024,0.0,0.049,0.0,0.293,0.0,0.0,0.073,0.098
+View single result: Community,0.25,0.361,0.083,0.028,0.167,0.083,0.0,0.0,0.0,0.0,0.028,0.0
+Other site,0.25,0.292,0.01,0.0,0.115,0.083,0.01,0.01,0.021,0.0,0.083,0.125
+Platform switch: Search engine,0.538,0.429,0.0,0.0,0.0,0.005,0.005,0.011,0.011,0.0,0.0,0.0
+Platform switch: AI assistant,0.81,0.0,0.0,0.0,0.0,0.048,0.0,0.0,0.143,0.0,0.0,0.0
+Platform switch: Storefront,0.438,0.125,0.0,0.0,0.0,0.062,0.0,0.0,0.0,0.0,0.375,0.0
+View AI response,0.42,0.16,0.012,0.0,0.086,0.074,0.0,0.0,0.012,0.16,0.0,0.074
+View info box,0.096,0.115,0.019,0.019,0.135,0.096,0.058,0.0,0.038,0.308,0.0,0.115
+Browsing,0.136,0.25,0.045,0.023,0.045,0.091,0.0,0.0,0.0,0.0,0.386,0.023
+Experiment ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
