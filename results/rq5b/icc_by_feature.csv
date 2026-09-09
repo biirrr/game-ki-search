@@ -1,9 +1,9 @@
 feature,icc_annotator,var_annotator,var_residual,converged
 Query,0.0,0.0,0.005,True
-View result list,0.06,0.001,0.013,False
-View single result,0.065,0.001,0.009,True
-Platform switch,0.0,0.0,0.006,False
+View result list,0.0,0.0,0.013,True
+View single result,0.063,0.001,0.009,True
+Platform switch,0.0,0.0,0.006,True
 View AI response,0.125,0.001,0.01,True
 View info box,0.127,0.001,0.004,True
 Browsing,0.0,0.0,0.003,True
-entropy,0.038,0.001,0.036,True
+entropy,0.046,0.002,0.035,False

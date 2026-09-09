@@ -1,3 +1,4 @@
+<a id="top"></a>
 # Finding the Game — Search Process Study
 
 **CHIIR 2027 · Post-play game identification · Report generated 2026-08-19**
@@ -8,6 +9,12 @@ Full methodological detail and literature comparisons live in
 analysis code lives in [`analysis/`](../analysis); raw outputs in
 [`results/`](../results).
 
+**Jump to:** [Study & method](#study) · [RQ1](#rq1) · [RQ2](#rq2) ·
+[RQ3](#rq3) · [RQ4](#rq4) · [RQ5](#rq5) · [RQ6](#rq6) · [RQ7](#rq7) ·
+[RQ8](#rq8) · [RQ10](#rq10) · [RQ11](#rq11) · [Discussion](#discussion) ·
+[Status & next steps](#status)
+
+<a id="study"></a>
 ## 1. Study & method
 
 21 participants each played two games (order rotated) and were then given up
@@ -29,20 +36,25 @@ also now fixed at the source (`analysis/data.py` still carries a
 fallback repair for any future recurrence, see
 [`docs/planning_and_background.md`](../docs/planning_and_background.md)
 §4.7). `ID1` and `ID20`'s added events are confirmed genuine
-re-annotation corrections. This is now the final, stable dataset: **1,298
-events** across 21 participants × 2 games, and every table below reflects
-it — no further data-refresh caveats.
+re-annotation corrections. `ID3`'s Best Buds session gained 4 further
+`Platform switch` events in a later annotation pass. This is now the
+final, stable dataset: **1,302 events** across 21 participants × 2
+games, and every table below reflects it — no further data-refresh
+caveats.
 
+[↑ Back to top](#top)
+
+<a id="rq1"></a>
 ## 2. RQ1 — How common are the actions individually?
 
 ### 2.1 Overall frequency
 
 | Action | Count | Share |
 |---|---:|---:|
-| View result list | 359 | 27.7% |
-| Query | 326 | 25.1% |
-| Platform switch | 236 | 18.2% |
-| View single result | 158 | 12.2% |
+| View result list | 359 | 27.6% |
+| Query | 326 | 25.0% |
+| Platform switch | 240 | 18.4% |
+| View single result | 158 | 12.1% |
 | View AI response | 81 | 6.2% |
 | View info box | 52 | 4.0% |
 | Browsing | 44 | 3.4% |
@@ -60,9 +72,9 @@ surface.
 
 | Action | Best Buds vs Bad Guys | Townscaper |
 |---|---:|---:|
-| View result list | 28.8% | 24.7% |
-| Query | 26.3% | 22.2% |
-| Platform switch | 18.4% | 17.7% |
+| View result list | 28.7% | 24.7% |
+| Query | 26.1% | 22.2% |
+| Platform switch | 18.7% | 17.7% |
 | View single result | 10.2% | 17.2% |
 | View AI response | 6.7% | 5.0% |
 | View info box | 4.4% | 3.0% |
@@ -83,7 +95,7 @@ Search-only event counts per participant (excludes `Experiment ended`):
 
 | Game | Mean | Median | Min | Max |
 |---|---:|---:|---:|---:|
-| Best Buds vs Bad Guys | 43.5 | 43 | 13 | 71 |
+| Best Buds vs Bad Guys | 43.8 | 47 | 13 | 71 |
 | Townscaper | 16.2 | 13 | 4 | 55 |
 
 **Success split: 20 of 21 participants found Townscaper (usually quickly);
@@ -97,6 +109,9 @@ unresolved-search regime. (One Townscaper outlier ran to 55 events despite
 the task usually being solved fast — worth a closer look when we get to
 per-participant analysis.)
 
+[↑ Back to top](#top)
+
+<a id="rq2"></a>
 ## 3. RQ2 — Typical action patterns or sequences?
 
 **Data fix found along the way:** building the transition matrix assumes
@@ -104,7 +119,7 @@ per-participant analysis.)
 session (`ID10`, Townscaper) had a `Platform switch` recorded *after*
 `Experiment ended` — likely a stray post-task event. `analysis/data.py` now
 truncates anything after the end marker per (participant, game), dropping 1
-event from the pipeline (the 1,298-event total in §1 already reflects this).
+event from the pipeline (the 1,302-event total in §1 already reflects this).
 See
 [`docs/planning_and_background.md`](../docs/planning_and_background.md) §6.
 
@@ -116,7 +131,7 @@ visualized in [`results/rq2/transition_graph_overall.png`](../results/rq2/transi
 | From → | Most likely next action(s) |
 |---|---|
 | Query | View result list (60%) |
-| View result list | Query (31%) · View single result (29%) · Platform switch (24%) |
+| View result list | Query (30%) · View single result (29%) · Platform switch (24%) |
 | Platform switch | Query (55%) · View result list (35%) |
 | View AI response | Query (42%) |
 | Experiment ended | *(none — confirmed absorbing)* |
@@ -129,9 +144,9 @@ into* the loop rather than endpoints — over half of platform switches and
 
 ![Overall action transition graph](../results/rq2/transition_graph_overall.png)
 
-Top overall bigrams (`results/rq2/top_bigrams_overall.csv`): `Query → View
-result list` (195), `Platform switch → Query` (130), `View result list →
-Query` (109), `View result list → View single result` (103).
+Top overall bigrams (`results/rq2/top_2-grams_overall.csv`): `Query → View
+result list` (196), `Platform switch → Query` (131), `View result list →
+Query` (109), `View result list → View single result` (105).
 
 ### 3.2 What "typical" looks like per game
 
@@ -155,7 +170,7 @@ of ending the session is small, consistent with 0/21 sessions resolving.
 Townscaper has two clear "closing moves": viewing the info box or
 re-viewing a single result is, more often than not on the Townscaper side,
 how a session actually ends. Townscaper's top-5 trigrams
-(`results/rq2/top_trigrams_townscaper.csv`) include `View single result →
+(`results/rq2/top_3-grams_townscaper.csv`) include `View single result →
 View single result → View single result` (12 occurrences) — a
 repeat-to-confirm pattern that doesn't appear in Best Buds' top trigrams at
 all. This is a first concrete answer to RQ3, developed further there.
@@ -164,6 +179,9 @@ Interactive first-6-step flow diagrams (Sankey) and the full bigram/trigram/Pref
 pattern tables are in [`results/rq2/`](../results/rq2/) — not embedded here
 since they're interactive Plotly pages.
 
+[↑ Back to top](#top)
+
+<a id="rq3"></a>
 ## 4. RQ3 — How do search strategies differ between the two games?
 
 This formalizes the resolved-vs-unresolved contrast previewed in §3.2.
@@ -178,13 +196,13 @@ depend on chi-square's sparse-cell assumptions:
 
 | From | χ² | p | JS divergence |
 |---|---:|---:|---:|
-| View info box | 20.27 | **0.002** | 0.669 |
-| View single result | 25.43 | **<0.001** | 0.351 |
+| View info box | 20.27 | **0.003** | 0.669 |
+| View single result | 24.86 | **<0.001** | 0.346 |
 | View AI response | 10.21 | 0.116 | 0.372 |
-| Browsing | 5.63 | 0.344 | 0.373 |
-| View result list | 7.02 | 0.427 | 0.163 |
-| Query | 8.54 | 0.288 | 0.147 |
-| Platform switch | 2.83 | 0.726 | 0.137 |
+| Browsing | 7.72 | 0.172 | 0.432 |
+| View result list | 7.18 | 0.411 | 0.163 |
+| Query | 6.38 | 0.496 | 0.132 |
+| Platform switch | 3.54 | 0.617 | 0.145 |
 
 Only two states show a statistically robust difference (both survive a
 Bonferroni correction across the 7 tests, α=0.0071): **`View info box`**
@@ -200,10 +218,10 @@ a shared backbone plus a different ending.
 
 | Feature | Median (Best Buds) | Median (Townscaper) | Wilcoxon p |
 |---|---:|---:|---:|
-| Session length | 43 | 13 | **0.0003** |
-| Action entropy | 2.16 bits | 2.08 bits | 0.076 |
-| Query rate | 0.28 | 0.25 | 0.229 |
-| Platform-switch rate | 0.19 | 0.20 | 0.288 |
+| Session length | 47 | 13 | **0.0003** |
+| Action entropy | 2.16 bits | 2.08 bits | 0.050 |
+| Query rate | 0.28 | 0.25 | 0.243 |
+| Platform-switch rate | 0.19 | 0.20 | 0.338 |
 
 ![Paired session-level features by participant](../results/rq3/paired_features.png)
 
@@ -218,8 +236,8 @@ prediction. That's addressed directly in §4.3.
 
 Splitting each Best Buds session at its midpoint and comparing halves:
 
-- **Entropy rises**, not falls, from the first half (2.05 bits) to the
-  second half (2.23 bits), Wilcoxon p=0.038 — participants broaden their
+- **Entropy rises**, not falls, from the first half (2.06 bits) to the
+  second half (2.23 bits), Wilcoxon p=0.042 — participants broaden their
   action mix as the session goes on, rather than narrowing into a tight
   loop.
 - But only **36% of second-half bigrams are genuinely new** (not seen in
@@ -235,6 +253,9 @@ action type** (e.g. finally opening `View info box` or `Browsing` late in
 the session) — broadening the action *mix* slightly without making
 much headway on genuinely new *combinations*.
 
+[↑ Back to top](#top)
+
+<a id="rq4"></a>
 ## 5. RQ4 — Are there clusters of users with similar search processes?
 
 Run separately per game (21 sessions each — pooling both games would
@@ -256,12 +277,12 @@ exactly which 21 people happened to be sampled.
 
 | Cluster | n | Query | View result list | View AI response | View info box | Entropy | Length |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| 0 — "list-browsers" | 14 | 27% | **35%** | 3% | 1% | 2.11 | 49 |
+| 0 — "list-browsers" | 14 | 26% | **35%** | 3% | 1% | 2.12 | 50 |
 | 1 — "AI-assisted" | 7 | 29% | 14% | **20%** | **12%** | 2.33 | 32 |
 
 ![Best Buds cluster profiles](../results/rq4/cluster_profiles_bestbuds.png)
 
-Feature-based k=2, silhouette 0.27, **LOO mean ARI = 1.00** (perfectly
+Feature-based k=2, silhouette 0.28, **LOO mean ARI = 1.00** (perfectly
 stable across all 21 leave-one-out folds). One subgroup (n=14) searches by
 repeatedly opening result lists; the other (n=7) leans heavily on
 `View AI response` and `View info box` instead, with shorter, higher-entropy
@@ -311,6 +332,9 @@ this cluster's platform switches actually go to AI assistants, and its
 queries are markedly longer — not just an artifact of the action-type
 proportions used to build the cluster.
 
+[↑ Back to top](#top)
+
+<a id="rq5"></a>
 ## 6. RQ5 — Does the annotator influence how a search process is coded?
 
 Two parts. **6.1–6.2 are the primary analysis**: the dedicated agreement
@@ -399,9 +423,9 @@ profile against the other three's average:
 
 | Action | annotator2 | other annotators | difference |
 |---|---:|---:|---:|
-| View result list | 22.1% | 26.2% | **−4.1pp** |
-| View single result | 10.5% | 15.1% | **−4.6pp** |
-| Platform switch | 17.0% | 19.7% | **−2.7pp** |
+| View result list | 22.1% | 26.1% | **−4.0pp** |
+| View single result | 10.5% | 15.0% | **−4.5pp** |
+| Platform switch | 17.0% | 20.0% | **−3.0pp** |
 | Browsing | 2.4% | 3.0% | −0.6pp |
 | View AI response | 12.2% | 6.9% | **+5.3pp** |
 | View info box | 8.0% | 3.3% | **+4.7pp** |
@@ -443,14 +467,15 @@ independent of cause:
 |---|---:|
 | View info box | 0.13 |
 | View AI response | 0.13 |
-| View single result | 0.07 |
-| entropy | 0.04 |
+| View single result | 0.06 |
 | Query | 0.00 |
+| View result list | 0.00 |
+| Platform switch | 0.00 |
 | Browsing | 0.00 |
 
-(`View result list` and `Platform switch` are omitted — their models hit
-a boundary solution and didn't converge; treat their near-zero point
-estimates as "no detectable block clustering," not precise numbers.)
+(`entropy` is omitted — its model hits a boundary solution and doesn't
+converge; treat its near-zero point estimate as "no detectable block
+clustering," not a precise number.)
 Every ICC is low. Most of the variation in how a session looks is
 between individual people, not between annotator blocks — reassuring for
 RQ1–RQ4's between-participant comparisons generally. `View AI response`
@@ -473,6 +498,9 @@ lean toward `Query → View AI response`-adjacent patterns more than
 annotator1/annotator3 — but with only 4 block-level rows to compare,
 this is offered as raw data for inspection rather than a further claim.
 
+[↑ Back to top](#top)
+
+<a id="rq6"></a>
 ## 7. RQ6 — Does game order affect strategy, and do people carry a strategy over? (added at researcher's request)
 
 Motivating idea: participants who played Townscaper first started on a
@@ -489,7 +517,7 @@ games per participant. Full outputs in
 Splitting each game's 21 sessions by whether it was played first or
 second and comparing length/entropy/query-rate/platform-switch-rate
 (Mann-Whitney U, unpaired): **no feature reaches significance in either
-game** (all p ≥ 0.27, most ≥ 0.6). Playing Best Buds after already having
+game** (all p ≥ 0.24, most ≥ 0.5). Playing Best Buds after already having
 searched once (win or lose) doesn't measurably change how much someone
 queries, switches platforms, or how long they take. The frustration/
 positive-note hypothesis isn't supported at the level of these
@@ -548,7 +576,7 @@ differently after Best Buds frustration? Full outputs in
 [`results/rq6_4/`](../results/rq6_4/).
 
 **Aggregate action mix: still no order effect in either game**
-(Best Buds χ²=9.65, p=0.14; Townscaper χ²=4.31, p=0.63) — confirms §7.1
+(Best Buds χ²=9.51, p=0.15; Townscaper χ²=4.13, p=0.66) — confirms §7.1
 at the level of the full action-count table, not just 4 derived features.
 
 **But two specific, well-supported effects show up underneath that:**
@@ -579,8 +607,8 @@ at the level of the full action-count table, not just 4 derived features.
 
   | Best Buds order | First-half entropy | Second-half entropy | Wilcoxon p | Novel-bigram rate (2nd half) |
   |---|---:|---:|---:|---:|
-  | Played first (n=10) | 2.14 | 2.25 | 0.557 | 28% |
-  | Played second, after Townscaper win (n=11) | 1.97 | 2.22 | **0.032** | **44%** |
+  | Played first (n=10) | 2.16 | 2.25 | 0.625 | 28% |
+  | Played second, after Townscaper win (n=11) | 1.96 | 2.22 | **0.032** | **44%** |
 
   When Best Buds is a participant's first task, there's no significant
   broadening and few genuinely new bigrams late in the session — closer
@@ -605,6 +633,9 @@ from session length, not a ground-truth outcome label) belongs to `ID9`,
 who played Best Buds first. Consistent with, though certainly not proof
 of, the frustration-carryover story — n=1.
 
+[↑ Back to top](#top)
+
+<a id="rq7"></a>
 ## 8. RQ7 — Enriching the analyses with destination and query-length data
 
 Two new columns (added by the researcher, 2026-08-19): `action_details_clean`
@@ -694,6 +725,9 @@ story.) This sharpens "hesitancy/double-checking" from §7.4 into
 something more literal: re-opening the same Steam page or Reddit thread
 repeatedly, not sampling a wider set of sources before deciding.
 
+[↑ Back to top](#top)
+
+<a id="rq8"></a>
 ## 9. RQ8 — Which platforms are involved in finding Townscaper, and in what order?
 
 Follow-up to RQ7, requested by the researcher: not just *where* platform
@@ -709,7 +743,7 @@ Full outputs in [`results/rq8/`](../results/rq8/); code:
 Categorizing every `Platform switch` destination in Townscaper sessions
 (n=63): search engines account for 78% (Google/DuckDuckGo variants),
 storefronts (Steam) 8%, AI assistants and community sites (Reddit) 6%
-each. Best Buds looks almost identical in proportion (79% search engine)
+each. Best Buds looks almost identical in proportion (78% search engine)
 but leans harder on AI assistants (10% vs. Townscaper's 6%) — consistent
 with RQ7 §8.1's cluster-level finding, just visible here in the raw
 game-level totals too.
@@ -771,7 +805,214 @@ Townscaper session, the one inferred non-solver from RQ3/RQ6.4, closes
 on `View result list`, not `View single result`, so it's correctly
 excluded from this "closing move" tally rather than contaminating it.)
 
-## 10. Discussion
+[↑ Back to top](#top)
+
+<a id="rq10"></a>
+## 10. RQ10 — Does a finer platform breakdown surface image-search reliance?
+
+Researcher-provided `data/platform_map.json` splits RQ7/RQ8's coarse
+"Platform switch" destination categories (search engine / AI assistant /
+storefront / community) into finer ones — Web search, Image search,
+Conversational search, Game search, and several rarer categories —
+motivated by an impression that participants relied heavily on image
+search specifically, which the coarser buckets couldn't distinguish from
+ordinary web search. Applied via a new `context` column
+(`analysis/data.py`) that reconstructs which platform/website each action
+happens on by forward-filling the most recent `Platform switch`
+destination within a session. Full methodology in
+[`docs/planning_and_background.md`](../docs/planning_and_background.md)
+§4.9; code in
+[`analysis/rq10_finer_platform_categories.py`](../analysis/rq10_finer_platform_categories.py);
+outputs in [`results/rq10/`](../results/rq10/).
+
+### 10.1 Image search is the second most-used category overall
+
+| Category | Count | Share |
+|---|---:|---:|
+| Web search | 502 | 39% |
+| **Image search** | **312** | **24%** |
+| Conversational search | 128 | 10% |
+| Game search | 117 | 9% |
+| (6 rarer categories combined) | 24 | 2% |
+
+![Finer platform category by game](../results/rq10/category_by_game.png)
+
+The motivating impression holds up: image search is a clear second to
+web search, well ahead of conversational (AI-assistant) search, in both
+games — 240/823 events (29%) in Best Buds vs Bad Guys, 72/263 (27%) in
+Townscaper.
+
+![Best Buds vs Bad Guys finer-platform transitions](../results/rq10/transition_graph_bestbuds.png)
+
+![Townscaper finer-platform transitions](../results/rq10/transition_graph_townscaper.png)
+
+Both transition graphs use the *same* fixed 13-state layout (7 base
+actions plus 6 platform-switch categories that actually occur in the
+data), so a state's position is identical across the two games —
+comparable at a glance rather than needing to hunt for which circle moved.
+`Platform switch: Image search` behaves like a normal search hub in
+both: mostly followed by `View result list` (77–84%), occasionally by
+another `Query`.
+
+### 10.2 Image-search reliance and AI-assistant reliance are separate styles
+
+Cross-checked against RQ4's clusters (§5), since it turned out to be a
+striking result: in Townscaper, the 4-member "AI-quick" feature-cluster
+(`ID6`, `ID7`, `ID15`, `ID18` — high `View AI response` share) uses image
+search **0% of the time, unanimously**, while the 16-member majority
+cluster averages **35.2%** (individual range 0–81%). Best Buds shows the
+same direction, more weakly: 15.4% vs. 29.7%. Read next to RQ4's original
+AI-vs-majority split, this suggests image-search reliance and
+AI-assistant reliance are two distinct, largely mutually exclusive search
+styles — leaning on an assistant to shortcut the search, or leaning on
+reverse image search to visually match the game — rather than something
+people mix.
+
+**Two data-quality flags**, normalized in code rather than fixed at the
+source: `data/platform_map.json` has a `"Meta.AI": "Conservational
+search"` typo (should be "Conversational"), and the raw data contains
+both `"Moby Games"` and `"MobyGames"` as distinct `Platform switch`
+destinations, only the latter of which is in the map — 4 events fall
+through to "Uncategorized" as a result.
+
+[↑ Back to top](#top)
+
+<a id="rq11"></a>
+## 11. RQ11 — Search tactics as recurring action sub-sequences
+
+Researcher-proposed, inspired by Wildemuth, Oh & Marchionini (2010), who
+derived named search "tactics" from Maximal Repeating Patterns (MRP) in
+coded action sequences, then manually discarded any MRP occurrence
+subsumed by (contained within) a longer one before grouping the
+survivors by hand. Two automated, complementary takes on that idea, run
+per game on the coded action sequences (`Experiment ended` excluded — a
+fixed bookkeeping marker, not a search move). Full methodology in
+[`docs/planning_and_background.md`](../docs/planning_and_background.md)
+§4.8; code in
+[`analysis/rq11_maximal_repeats.py`](../analysis/rq11_maximal_repeats.py);
+outputs in [`results/rq11/`](../results/rq11/).
+
+### 11.1 The flat view: supermaximal repeats
+
+A **supermaximal repeat** is a maximal repeated sub-sequence with no
+single occurrence contained inside an occurrence of another, longer
+repeat — found via a suffix array and LCP array, and verified against a
+brute-force reference implementation. That occurrence-level containment
+check is the automated equivalent of Wildemuth's manual dedup step.
+
+**How to read the figure below.** Each strip is one recurring tactic;
+each colored box is one step, left to right, colored by action (same
+palette as RQ2). The number after each strip is how many *distinct
+participants* used that exact tactic at least once — not the raw count
+of occurrences, which can overstate things if one participant repeats a
+tactic within their own session (see the callout below the figure for a
+concrete case). A tactic is only reported here once it clears length ≥3
+(bigrams are already covered by RQ2's n-gram tables) **and** is used by
+≥3 distinct participants — a much lower bar than Wildemuth's count-≥5 on
+141 sequences, since this dataset has only 13–21 sequences per game.
+Every tactic that clears the bar in this data happens to be used by
+*exactly* 3 participants — nothing reaches 4 or more — so there's no
+frequency variation left to rank by; rows are then ordered by length,
+longest first, which is why the strips read top-to-bottom as "longest
+first" rather than "most common first."
+
+**Best Buds vs Bad Guys** (unsolved, 0/21) has 143 supermaximal repeats
+overall, of which **9** clear the bar (longest: 7 steps); **Townscaper**
+(solved, 20/21) has 48 overall, but **none** reach 3 participants — its
+best candidate, a 4-step check-and-move-on pattern, is used by only 2.
+
+![Best Buds vs Bad Guys recurring tactics](../results/rq11/tactics_catalog_bestbuds.png)
+
+Since the strips alone don't make it obvious which short steps recur
+*across* several of the 9 tactics, here's that directly: for each 2-step
+sub-pattern, in how many of the 9 tactics it appears at least once
+(counted once per tactic, not per raw occurrence):
+
+| Building block | In how many of the 9 tactics |
+|---|---:|
+| `Query → View result list` | 7 |
+| `View result list → Query` | 6 |
+| `Platform switch → Query` | 4 |
+| `Platform switch → View result list` | 4 |
+| `View result list → Platform switch` | 3 |
+| `View single result → View result list` | 3 |
+| `View result list → View single result` | 3 |
+
+`Query ↔ View result list` — the core loop from RQ2 §3.1 — is the
+backbone of nearly every tactic here; what makes a *tactic* rather than
+just that loop is which detour (`Platform switch` or `View single
+result`) gets threaded through it, and in what order.
+
+Townscaper produces no report-worthy flat tactics at all — a second,
+independent confirmation (after §11.2 below) that its sessions don't
+develop recurring multi-step habits the way Best Buds' do.
+
+### 11.2 The hierarchical view: a RE-PAIR grammar
+
+The flat list above can't show a repeated pattern that's itself built
+out of a smaller repeated pattern, and (as just shown) can undercount
+badly if a "repeat" is really one participant looping within their own
+session. A **RE-PAIR grammar** (Larsson & Moffat, 1999 — a Sequitur-family
+algorithm, chosen over implementing Sequitur directly since its offline
+"replace the most frequent adjacent pair, then repeat" loop is much
+easier to verify correctly at this scale than Sequitur's cascading
+online bookkeeping) fixes both: every rule has exactly two symbols on
+its right-hand side, so a rule referencing another rule *is* a tactic
+built from smaller tactics, and every node — not just the whole tree —
+gets its own participant count.
+
+**How to read the figure below.** Each panel is one RE-PAIR rule,
+picked as one of the 5 most composite (longest fully-expanded) rules for
+that game, regardless of how many participants use it — this set is
+*not* filtered the way §11.1's tactics are, so it can and does surface
+rarer, longer structures. Colored circles are terminal actions (leaf of
+the tree); grey circles are sub-rules, each labeled with how many
+distinct participants have that exact sub-pattern somewhere in their
+session. The panel title gives the *whole* rule's participant count and
+length; every other grey circle in the tree is a smaller "sub-tactic" in
+its own right, with its own, usually much higher, participant count.
+
+![Best Buds vs Bad Guys grammar trees](../results/rq11/grammar_trees_bestbuds.png)
+
+Reading `R42` (leftmost, 2 participants, 12 steps): its right child
+decomposes down through a sub-rule that is `Query → View result list`
+repeated twice — that specific 4-step doubled loop alone is used by
+**11** participants, over half the game, even though the full 12-step
+`R42` it sits inside is used by only 2. That's the point of annotating
+every node: `Query → View result list` itself (the smallest sub-rule
+visible, bottom of several branches) is used by all **21** participants
+— near-universal — so what's actually rare about `R42` isn't any of its
+pieces, it's this *specific 12-step chaining* of very common pieces.
+
+The clearest single example of the occurrence-vs-participant gap from
+§11.1 shows up in the second panel, `R41` (1 participant, 10 steps):
+raw occurrence count is 2, but both occurrences belong to the same
+participant, `ID4`, who performed this exact 10-step `Platform
+switch`/`Query`/`View result list` sequence twice in a row (27 actions
+apart) within their own Best Buds session — a genuine stuck-in-a-loop
+moment, not a tactic shared across participants at all.
+
+![Townscaper grammar trees](../results/rq11/grammar_trees_townscaper.png)
+
+Townscaper's top-5 most composite rules max out at **2 participants
+each** — the same ceiling §11.1's flat view found, now confirmed by a
+completely independent method starting from the opposite end (longest
+structures first, rather than most-shared first). Its trees are also
+shallower: mostly one level of nesting (a `Platform switch → Query` or
+`Query → View result list` pair, occasionally paired with itself once
+more) rather than Best Buds' multi-level chains.
+
+This is a third, independent line pointing at the same conclusion as
+RQ3's plateau finding (§4.3) and RQ4's clustering: Best Buds sessions
+loop and backtrack in ways Townscaper sessions mostly don't — not just
+*more often*, but *more compositionally*, with small, very common loops
+getting chained into longer, much rarer ones rather than the session
+just ending.
+
+[↑ Back to top](#top)
+
+<a id="discussion"></a>
+## 12. Discussion
 
 Seven RQs, read separately, are seven answers. Read together, they
 converge on a smaller number of claims about what a post-play game
@@ -780,14 +1021,14 @@ them to the literature framing in
 [`docs/planning_and_background.md`](../docs/planning_and_background.md) §3,
 and states plainly what would and wouldn't survive a larger sample.
 
-### 10.1 One search grammar, one game-specific ending
+### 12.1 One search grammar, one game-specific ending
 
 The single clearest result across RQ2, RQ3, and RQ6.4 is that **the
 process and the outcome are separable**. RQ2 found a tight, near-universal
 loop — `Query → View result list`, splitting into reformulate / drill in
 / switch platform — that RQ3 then showed is *statistically indistinguishable*
 between a game nobody solves and a game almost everyone solves (§4.1: 5 of
-7 states, p ≥ 0.29). The two games don't diverge in how people search.
+7 states, p ≥ 0.12). The two games don't diverge in how people search.
 They diverge in exactly one place: what happens after `View single
 result`, i.e. whether looking closely at a candidate result turns into a
 closing move or not (§3.2, §4.1). RQ6.4 then found that even *this*
@@ -815,7 +1056,7 @@ games, regardless of outcome. The grammar RQ2 describes at the action
 level and the grammar RQ8 describes at the platform level are the same
 grammar, described twice.
 
-### 10.2 A personal search style, orthogonal to whether the task succeeds
+### 12.2 A personal search style, orthogonal to whether the task succeeds
 
 RQ4 found a consistent subgroup in both games (Best Buds n=7, Townscaper
 n=4, overlapping — §5.3, ARI=0.47) defined by reliance on `View AI
@@ -836,17 +1077,17 @@ and stores) — search-tactic transition studies from the 2000s/2010s
 (Goodrum et al. 2003; Jansen et al. 2007) had no AI-assistant state to
 find a cluster around.
 
-### 10.3 Prior experience leaves a targeted mark, not a diffuse one
+### 12.3 Prior experience leaves a targeted mark, not a diffuse one
 
 RQ6 asked the researcher's order question broadly and found nothing at
-the level of aggregate session features (§7.1: all p ≥ 0.27) — order
+the level of aggregate session features (§7.1: all p ≥ 0.24) — order
 doesn't make people query more, switch platforms more, or take longer.
 RQ6.4 then asked the sharper version and found two specific, well-supported
 effects hiding under that null: Townscaper's closing-move state behaves
 differently by order (§7.4, survives Bonferroni, *strengthens* after
 removing the opening-move confound), and Best Buds' second-half
 exploration only broadens significantly when Best Buds is played *after*
-a Townscaper win (§7.4, entropy p=0.032 vs. p=0.557). RQ6 §7.2's
+a Townscaper win (§7.4, entropy p=0.032 vs. p=0.625). RQ6 §7.2's
 opening-carryover result (own-pair distance below chance, p=0.029, stronger
 after Best-Buds-first) is the same pattern one level up: prior experience
 doesn't rewrite the whole session, it recolors specific, identifiable
@@ -855,7 +1096,7 @@ and more falsifiable claim than "frustration/confidence carries over,"
 and it's the reason RQ6.4 was worth doing as a follow-up to RQ6 rather
 than stopping at the null in §7.1.
 
-### 10.4 What the measurement caveats change, and what they don't
+### 12.4 What the measurement caveats change, and what they don't
 
 RQ5's finding — annotators agree almost perfectly on *labels* (92–100%
 when aligned) but vary substantially on *segmentation* (annotator2's
@@ -871,7 +1112,7 @@ participants, so this doesn't overturn anything — but it's the reason
 this report keeps saying "treat as descriptive" rather than asserting
 population-level session-length values with false precision.
 
-### 10.5 What a larger sample would (and wouldn't) buy
+### 12.5 What a larger sample would (and wouldn't) buy
 
 Three results are directional and plausible but didn't clear conventional
 significance at this N, and are worth naming together rather than
@@ -887,17 +1128,22 @@ AI-cluster split, RQ7 §8.1's platform-category confirmation) — but a
 replication with a larger or unbalanced-by-design sample (e.g.
 deliberately oversampling one play order) is what would turn "suggestive"
 into "confirmed" for these three specifically. The core-loop/closing-move
-distinction (§10.1) and the annotator-segmentation gap (§10.4), by
+distinction (§12.1) and the annotator-segmentation gap (§12.4), by
 contrast, are both well-powered as reported and unlikely to move with
 more data of the same kind.
 
-## 11. Status & next steps
+[↑ Back to top](#top)
 
-RQ1–RQ8, including RQ6.4, are all complete, and §10 ties them together.
-Full methodology and related-work grounding in
+<a id="status"></a>
+## 13. Status & next steps
+
+RQ1–RQ8, RQ10, and RQ11, including RQ6.4, are all complete, and §12 ties
+RQ1–RQ8 together. Full methodology and related-work grounding in
 [`docs/planning_and_background.md`](../docs/planning_and_background.md).
 No outstanding data-quality items — the `ID12` duplicate marker and the
 `#REF!` `rank` values are both resolved (§1).
+
+[↑ Back to top](#top)
 
 ---
 *Analysis code: [`analysis/data.py`](../analysis/data.py),
@@ -910,10 +1156,11 @@ No outstanding data-quality items — the `ID12` duplicate marker and the
 [`analysis/rq6_order_effects.py`](../analysis/rq6_order_effects.py),
 [`analysis/rq6_4_order_within_game.py`](../analysis/rq6_4_order_within_game.py),
 [`analysis/rq7_platform_details.py`](../analysis/rq7_platform_details.py),
-[`analysis/rq8_platform_sequence.py`](../analysis/rq8_platform_sequence.py).
+[`analysis/rq8_platform_sequence.py`](../analysis/rq8_platform_sequence.py),
+[`analysis/rq11_maximal_repeats.py`](../analysis/rq11_maximal_repeats.py).
 Full output tables in [`results/rq1/`](../results/rq1/),
 [`results/rq2/`](../results/rq2/), [`results/rq3/`](../results/rq3/),
 [`results/rq4/`](../results/rq4/), [`results/rq5/`](../results/rq5/),
 [`results/rq5b/`](../results/rq5b/), [`results/rq6/`](../results/rq6/),
 [`results/rq6_4/`](../results/rq6_4/), [`results/rq7/`](../results/rq7/),
-and [`results/rq8/`](../results/rq8/).*
+[`results/rq8/`](../results/rq8/), and [`results/rq11/`](../results/rq11/).*

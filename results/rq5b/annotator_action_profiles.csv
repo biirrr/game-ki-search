@@ -1,5 +1,5 @@
 annotator,Query,View result list,View single result,Platform switch,View AI response,View info box,Browsing
-annotator1,0.27,0.291,0.173,0.191,0.016,0.042,0.017
+annotator1,0.268,0.288,0.17,0.199,0.016,0.042,0.017
 annotator2,0.277,0.221,0.105,0.17,0.122,0.08,0.024
 annotator3,0.264,0.269,0.106,0.201,0.057,0.056,0.046
 annotator4,0.24,0.226,0.174,0.199,0.133,0.002,0.027

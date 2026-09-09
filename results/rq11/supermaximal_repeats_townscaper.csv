@@ -1,0 +1,49 @@
+pattern,length,n_occurrences,n_participants
+View result list -> View single result -> View result list -> Query,4,3,2
+Query -> View result list -> Platform switch -> View result list -> Query -> View result list -> Query -> View result list,8,2,2
+Platform switch -> Query -> Platform switch -> View result list -> Platform switch -> Query -> View result list,7,2,2
+Platform switch -> Query -> View result list -> Platform switch -> Query -> View result list -> View info box,7,2,2
+Platform switch -> Query -> View result list -> View single result -> View single result -> View single result -> View single result,7,2,2
+Query -> Platform switch -> View result list -> Query -> View result list -> View info box -> View single result,7,2,2
+Query -> View result list -> Query -> View result list -> View single result -> Platform switch -> Query,7,2,2
+Query -> View result list -> View single result -> View result list -> View single result -> View result list -> View single result,7,2,2
+Platform switch -> Query -> Platform switch -> View result list -> Query -> View result list,6,2,2
+Query -> View result list -> Platform switch -> View result list -> Platform switch -> View result list,6,2,2
+Query -> View result list -> Query -> View result list -> Platform switch -> View result list,6,2,2
+Query -> View result list -> View info box -> View single result -> Platform switch -> Query,6,2,2
+View result list -> View single result -> Platform switch -> Query -> View result list -> View single result,6,2,2
+View single result -> Query -> View result list -> Platform switch -> Query -> View result list,6,2,2
+Platform switch -> Query -> Platform switch -> View result list -> View single result,5,2,2
+Platform switch -> Query -> Query -> View result list -> View single result,5,2,2
+Platform switch -> Query -> View AI response -> Query -> View result list,5,2,2
+Platform switch -> Query -> View result list -> View single result -> View result list,5,2,2
+Platform switch -> View result list -> Platform switch -> View result list -> View single result,5,2,2
+Query -> View result list -> View single result -> Query -> View result list,5,2,2
+View AI response -> Query -> View result list -> Query -> View result list,5,2,2
+View result list -> Platform switch -> Query -> Platform switch -> View result list,5,2,2
+View result list -> Platform switch -> Query -> View AI response -> View info box,5,2,2
+View result list -> Platform switch -> Query -> View result list -> View single result,5,2,2
+View result list -> View single result -> Query -> View result list -> View single result,5,2,2
+View single result -> Platform switch -> Query -> Platform switch -> View result list,5,2,2
+View single result -> View single result -> Platform switch -> Query -> View result list,5,2,2
+Browsing -> Browsing -> Browsing -> View result list,4,2,2
+Platform switch -> Query -> Query -> View result list,4,2,2
+Platform switch -> Query -> View AI response -> View single result,4,2,2
+Platform switch -> View result list -> View single result -> View result list,4,2,2
+Query -> View result list -> Platform switch -> Query,4,2,2
+Query -> View result list -> Query -> View AI response,4,2,2
+View result list -> Query -> Platform switch -> View result list,4,2,2
+View result list -> Query -> View AI response -> Query,4,2,2
+Browsing -> View result list -> Browsing,3,2,2
+Browsing -> View result list -> Query,3,2,2
+View result list -> View single result -> Browsing,3,2,2
+Platform switch -> Browsing,2,2,2
+Query -> View AI response,2,2,2
+View single result -> View single result -> View single result -> View single result -> View single result -> View single result -> View single result -> View single result -> View single result -> View single result -> View single result,11,2,1
+View result list -> Query -> View result list -> Query -> View result list -> Query -> View result list -> Query -> View result list,9,2,1
+Platform switch -> View result list -> Query -> View result list -> Query -> View result list -> View single result,7,2,1
+Platform switch -> View result list -> View AI response -> View result list -> View single result -> Platform switch,6,2,1
+Browsing -> View single result -> Browsing -> View single result,4,2,1
+Platform switch -> Query -> View result list -> Query,4,2,1
+Browsing -> Browsing -> Browsing,3,2,1
+View single result -> Platform switch -> View result list,3,2,1

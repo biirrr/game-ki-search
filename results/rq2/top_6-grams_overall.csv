@@ -1,0 +1,51 @@
+pattern,count
+Query -> View result list -> Query -> View result list -> Query -> View result list,16
+View result list -> Query -> View result list -> Query -> View result list -> Query,15
+Platform switch -> View result list -> Query -> View result list -> Query -> View result list,8
+Query -> View result list -> Platform switch -> View result list -> Query -> View result list,8
+View result list -> Query -> View result list -> Query -> View result list -> View single result,7
+Platform switch -> Query -> View result list -> Platform switch -> View result list -> Query,7
+Query -> View result list -> Query -> View result list -> Platform switch -> Query,7
+View single result -> View single result -> View single result -> View single result -> View single result -> View single result,7
+Platform switch -> Query -> Platform switch -> View result list -> Query -> View result list,6
+Query -> View result list -> Query -> View result list -> View single result -> Platform switch,6
+View result list -> Query -> View result list -> View single result -> Platform switch -> Query,6
+Query -> View result list -> View single result -> Platform switch -> Query -> View result list,6
+Query -> View result list -> Platform switch -> Query -> View result list -> View single result,6
+View result list -> Platform switch -> Query -> View result list -> Query -> View result list,6
+Platform switch -> Query -> View result list -> Query -> View result list -> Platform switch,6
+View result list -> Query -> View result list -> Platform switch -> Query -> View result list,6
+Platform switch -> Query -> View result list -> Platform switch -> Query -> View result list,6
+View result list -> Query -> View result list -> Query -> View result list -> Platform switch,5
+Platform switch -> Query -> Platform switch -> View result list -> Platform switch -> Query,5
+View result list -> View single result -> Platform switch -> Query -> View result list -> View single result,5
+View result list -> Query -> View result list -> View single result -> View result list -> View single result,5
+Query -> View result list -> View single result -> View result list -> View single result -> View result list,5
+Query -> Platform switch -> View result list -> Query -> View result list -> Query,4
+Query -> View result list -> Query -> View result list -> Platform switch -> View result list,4
+View result list -> Query -> View result list -> Platform switch -> View result list -> Query,4
+View result list -> Platform switch -> View result list -> Query -> View result list -> Query,4
+Query -> View result list -> Platform switch -> View result list -> Platform switch -> View result list,4
+Query -> View result list -> View single result -> View result list -> Query -> View result list,4
+Platform switch -> View result list -> Platform switch -> Query -> View result list -> Platform switch,4
+View result list -> Platform switch -> Query -> View result list -> Platform switch -> View result list,4
+Query -> View AI response -> Query -> View AI response -> Query -> View AI response,4
+Query -> View result list -> View single result -> Query -> View result list -> View single result,4
+View single result -> View result list -> Query -> View result list -> Query -> View result list,4
+Query -> View result list -> Platform switch -> Query -> View result list -> Query,4
+View result list -> Platform switch -> Query -> View result list -> Platform switch -> Query,4
+Query -> View result list -> Platform switch -> Query -> View result list -> View info box,4
+View result list -> View single result -> View result list -> View single result -> View result list -> View single result,4
+Platform switch -> Query -> View result list -> Platform switch -> View result list -> Platform switch,3
+View result list -> Platform switch -> Query -> View result list -> View single result -> Query,3
+View single result -> Query -> View result list -> Platform switch -> View result list -> View single result,3
+Query -> Platform switch -> View result list -> Query -> View result list -> Platform switch,3
+Platform switch -> View result list -> Query -> View result list -> Platform switch -> View result list,3
+Platform switch -> View result list -> Platform switch -> Query -> Platform switch -> View result list,3
+View result list -> View single result -> View result list -> Query -> Platform switch -> View result list,3
+Platform switch -> View result list -> Platform switch -> View result list -> View single result -> View result list,3
+View result list -> Platform switch -> View result list -> View single result -> View result list -> Query,3
+Query -> Platform switch -> View result list -> Platform switch -> Query -> View result list,3
+Query -> View AI response -> Query -> View AI response -> Platform switch -> Query,3
+View result list -> Platform switch -> View result list -> Query -> Platform switch -> View result list,3
+Platform switch -> Query -> View AI response -> Query -> View AI response -> Query,3

@@ -1,0 +1,14 @@
+from,Query,View result list,View single result,View AI response,View info box,Browsing,Experiment ended,Platform switch,Platform switch: Conversational search,Platform switch: Game search,Platform switch: Image search,Platform switch: Other,Platform switch: Web search
+Query,0.05,0.612,0.012,0.15,0.012,0.012,0.0,0.0,0.012,0.0,0.138,0.0,0.0
+View result list,0.258,0.0,0.36,0.045,0.079,0.022,0.034,0.0,0.022,0.011,0.09,0.011,0.067
+View single result,0.097,0.145,0.274,0.016,0.0,0.065,0.194,0.0,0.0,0.097,0.0,0.016,0.097
+View AI response,0.333,0.222,0.167,0.056,0.111,0.0,0.111,0.0,0.0,0.0,0.0,0.0,0.0
+View info box,0.091,0.0,0.455,0.0,0.091,0.0,0.364,0.0,0.0,0.0,0.0,0.0,0.0
+Browsing,0.062,0.312,0.188,0.0,0.0,0.438,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Experiment ended,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Platform switch,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Platform switch: Conversational search,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Platform switch: Game search,0.714,0.0,0.0,0.0,0.0,0.143,0.0,0.0,0.0,0.0,0.0,0.0,0.143
+Platform switch: Image search,0.158,0.842,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Platform switch: Other,0.0,0.333,0.333,0.0,0.0,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Platform switch: Web search,0.833,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

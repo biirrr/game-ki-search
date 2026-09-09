@@ -446,6 +446,147 @@ majority cluster at this silhouette-optimal k) — everything downstream
 that cites that 3-way split (§4.4, §4.6 RQ6.3, RQ6.4) needs updating to
 the 2-cluster result.
 
+### 4.8 RQ11 — Search tactics as recurring action sub-sequences (added 2026-09-09)
+Researcher-proposed, inspired by Wildemuth, Oh & Marchionini (2010, in
+`literature/`), who derived named search "tactics" from Maximal Repeating
+Patterns (MRP) in coded action sequences — found with Siochi & Ehrich's
+(1991) suffix-based tool, then **manually** deduplicated so that any MRP
+occurrence subsumed by (contained within) a longer MRP at the same
+position was discarded, before grouping survivors into tactics by hand.
+The open methods question was whether that manual dedup step has an
+automatable, principled equivalent. Two complementary answers, both
+per-game, both built on the same sentinel-separated per-participant
+corpus (`Experiment ended` dropped first — it's a fixed absorbing
+bookkeeping marker, not a search move, and would otherwise generate a
+trivial "whatever preceded the end" pseudo-tactic in every session):
+
+- **Supermaximal repeats**, via a suffix array + LCP array. A repeat is
+  *maximal* if it's both right-maximal (can't extend right without
+  losing an occurrence — captured directly by the LCP-array-interval
+  structure) and left-maximal (can't extend left without losing one —
+  checked by comparing preceding characters); it's *supermaximal* if no
+  single occurrence is contained inside an occurrence of another, longer
+  maximal repeat. That occurrence-level containment check is the direct
+  automated analogue of Wildemuth's manual step — arguably closer to
+  what she actually did than a *pattern*-level supermaximal definition
+  would be, since she discarded specific instances, not whole patterns.
+  Verified against a brute-force reference implementation (exhaustive
+  substring enumeration + maximality checks) on a hand-worked example and
+  30 random trials — exact match throughout. Naive O(n² log n)
+  suffix-array construction (sorting all suffixes directly) is easily
+  fast enough at this scale (~340–920 actions per game after dropping
+  `Experiment ended`); a doubling algorithm would only be needed for a
+  much larger corpus.
+- **RE-PAIR grammar compression** (Larsson & Moffat, 1999), a
+  Sequitur-family algorithm: repeatedly replace the most frequent
+  adjacent symbol pair with a new grammar rule, until no pair repeats.
+  Chosen over implementing Sequitur itself — Sequitur's online algorithm
+  needs cascading digram-uniqueness repair bookkeeping on every insert,
+  which is easy to get subtly wrong, whereas RE-PAIR's offline
+  "replace-then-repeat" loop is simple to verify directly (checked by
+  reconstructing the original sequence from the grammar, and confirming
+  no rule's expansion crosses a sentinel). Every rule has exactly two
+  symbols on its right-hand side, so a rule referencing another rule *is*
+  the "tactic built from smaller tactics" structure the researcher was
+  after — this is the one thing supermaximal repeats can't show, since
+  they only return a flat list.
+
+**Occurrences vs. participants (correction, added 2026-09-09 same day)**:
+the first pass of this analysis ranked and filtered tactics by raw
+occurrence count — how many times a pattern survives subsumption in the
+corpus. That over-counts: if one participant's session happens to contain
+the same tactic twice, it counts twice even though only one person
+actually used it. Fixed by computing, for every repeat (both
+supermaximal repeats and RE-PAIR rules), the corpus positions of its
+occurrences (`session_of()`, mapping a corpus offset back to the
+participant whose sentinel-delimited span contains it) and reporting
+`n_participants` — the count of *distinct* participants — alongside the
+raw `n_occurrences`. The two are usually equal but not always: Best
+Buds' 8-step pattern `Platform switch → View result list → Platform
+switch → Query → View result list → Platform switch → View result list
+→ Query` has `n_occurrences=3` but `n_participants=2` (one participant
+repeated it within their own session). The reporting cutoff (below) now
+uses `n_participants`, which changed the headline numbers non-trivially
+— see Finding.
+
+**Reporting cutoff**: supermaximal repeats are reported as "tactics"
+only at length ≥3 (bigrams are already covered by RQ2's n-gram tables)
+and used by ≥3 distinct participants. This is far more conservative
+than Wildemuth's count-≥5 cutoff on 141 sequences, but this dataset has
+13–21 sequences per game, not 141 — a fixed absolute threshold from a
+~7x larger corpus would empty the table. In this data, every pattern
+that clears the length filter and reaches the participant cutoff turns
+out to have *exactly* 3 participants (nothing reaches 4+) — so the
+tactics table currently has no frequency variation to rank by; row order
+is then effectively by pattern length (longest first), which is worth
+being explicit about rather than implying a frequency ranking that isn't
+there. A **building-blocks** summary (`tactic_building_blocks()`)
+compensates for the flat list's main weakness — that "dominated by X"
+isn't visually obvious from strips alone — by counting, for each
+short (2-step) sub-pattern, in how many of the reported tactics it
+appears at least once (tactic-level coverage, not raw count): for Best
+Buds, `Query → View result list` appears in 7 of the 9 tactics and
+`View result list → Query` in 6, confirming the "grinding loop" reading
+quantitatively rather than by eyeballing the strips.
+
+**Finding**: the two games' tactic counts diverge sharply, and the
+participant-count correction *sharpened* rather than weakened this —
+Best Buds vs Bad Guys (unsolved, 0/21) has 143 supermaximal repeats
+overall (longest 16 actions), of which **9** are used by ≥3 distinct
+participants (longest such tactic: 7 actions); Townscaper (solved,
+20/21) has 48 supermaximal repeats overall, but **none** reach 3
+participants — its best candidate, a 4-step check-and-move-on pattern,
+tops out at 2. Read together with RQ3's plateau finding (§4.3) and RQ4's
+clustering, this is a third, independent signal that Best Buds sessions
+loop and backtrack in ways Townscaper sessions mostly don't — and unlike
+the pre-correction "12 vs. 1" reading, "9 vs. 0" no longer needs a caveat
+about what "1" actually meant.
+
+The RE-PAIR trees make the *composition* of that looping visible
+directly, now with a participant count on every internal node (not just
+the root), so a nested sub-tactic can be read on its own terms: Best
+Buds' rule `R25` factors "Query → View result list" repeated twice
+(n=11 participants at that sub-tactic level), itself nested two levels
+deeper inside `R42`, a 12-step grinding block (n=2 participants) — a
+loop built out of a much more common smaller loop. The clearest single
+example of within-session repetition surfaced by this fix is `R41`, a
+10-step pattern with `n_occurrences=2` but `n_participants=1`: participant
+`ID4` performed this exact 10-step sequence twice in a row (corpus
+positions 27 apart) within their own Best Buds session — a genuine
+stuck-in-a-loop moment, not a cross-participant tactic at all, which the
+old occurrence-only count would have silently folded into the same
+"used 3 times" bucket as genuinely shared tactics.
+
+### 4.9 RQ10 — Finer-grained platform categories (added 2026-09-09)
+Researcher-provided `data/platform_map.json` splits the RQ7/RQ8
+"Platform switch" destination into finer categories (Web search / Image
+search / Conversational search / Game search / etc.) instead of RQ7's
+coarser search-engine/AI-assistant/storefront/community buckets — motivated
+by an impression from re-watching sessions that image search specifically
+was doing a lot of work RQ7's coarser categories couldn't see. Implemented
+via a new `context` column in `analysis/data.py` (`add_platform_context`):
+for every action, the platform/website it happens on, reconstructed by
+forward-filling the most recent `Platform switch` destination within a
+(participant, game) session, except `View single result` rows, which
+take their own `action_details_clean` value as context since that's the
+one action where the participant is looking at a *different* site than
+the one they switched to. Two data-quality issues found and normalized
+(not fixed at the source): a `"Conservational search"` typo for
+`"Conversational search"` in the map, and a `"Moby Games"` (two words, in
+the raw data) vs. `"MobyGames"` (one word, the only form in the map)
+mismatch, leaving 4 events as "Uncategorized".
+
+**Finding**: image search is the second most-used category overall (312
+of 1,286 categorizable events, 24%, behind web search's 39%) — confirming
+the motivating impression. Cross-checked against RQ4's clusters: in
+Townscaper, the "AI-quick" feature-cluster (`n=4`: ID6, ID7, ID15, ID18)
+uses image search **0% of the time, unanimously**, while the majority
+cluster (`n=16`) averages 35.2%; Best Buds shows the same direction more
+weakly (15.4% vs. 29.7%). Read together with RQ4's original AI-vs-majority
+split (§5, main report), this suggests image-search reliance and
+AI-assistant reliance are two distinct, largely mutually exclusive search
+styles rather than something people mix.
+
 ## 5. Python toolkit shortlist
 
 | Purpose | Library |

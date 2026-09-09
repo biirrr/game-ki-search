@@ -1,0 +1,40 @@
+participant_id	rank	annotator	game	language	action
+ID13	1	annotator5	Townscaper		Platform switch
+ID13	2	annotator5	Townscaper	DE	Query
+ID13	3	annotator5	Townscaper		View AI response
+ID13	4	annotator5	Townscaper	DE	Query
+ID13	5	annotator5	Townscaper		View result list
+ID13	6	annotator5	Townscaper		View AI response
+ID13	7	annotator5	Townscaper		View result list
+ID13	8	annotator5	Townscaper		View single result
+ID13	9	annotator5	Townscaper		View result list
+ID13	10	annotator5	Townscaper		View single result
+ID13	11	annotator5	Townscaper		View result list
+ID13	12	annotator5	Townscaper		View result list
+ID13	13	annotator5	Townscaper		Platform switch
+ID13	14	annotator5	Townscaper		View single result
+ID13	15	annotator5	Townscaper	DE	Query
+ID13	16	annotator5	Townscaper		View result list
+ID13	17	annotator5	Townscaper		Browsing
+ID13	18	annotator5	Townscaper	?	Query
+ID13	19	annotator5	Townscaper		Platform switch
+ID13	20	annotator5	Townscaper		View result list
+ID13	21	annotator5	Townscaper		Platform switch
+ID13	22	annotator5	Townscaper	EN	Query
+ID13	23	annotator5	Townscaper		View result list
+ID13	24	annotator5	Townscaper		View single result
+ID13	25	annotator5	Townscaper		Experiment ended
+ID13	26	annotator5	Best Buds vs Bad Guys		Platform switch
+ID13	27	annotator5	Best Buds vs Bad Guys	DE	Query
+ID13	28	annotator5	Best Buds vs Bad Guys		View result list
+ID13	29	annotator5	Best Buds vs Bad Guys		View single result
+ID13	30	annotator5	Best Buds vs Bad Guys		View result list
+ID13	31	annotator5	Best Buds vs Bad Guys		Platform switch
+ID13	32	annotator5	Best Buds vs Bad Guys		View result list
+ID13	33	annotator5	Best Buds vs Bad Guys		Platform switch
+ID13	34	annotator5	Best Buds vs Bad Guys		View AI response
+ID13	35	annotator5	Best Buds vs Bad Guys	DE	Query
+ID13	36	annotator5	Best Buds vs Bad Guys		View AI response
+ID13	37	annotator5	Best Buds vs Bad Guys	DE	Query
+ID13	38	annotator5	Best Buds vs Bad Guys		View AI response
+ID13	39	annotator5	Best Buds vs Bad Guys		Experiment ended

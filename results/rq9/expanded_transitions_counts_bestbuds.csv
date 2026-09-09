@@ -59,15 +59,15 @@ View single result: Other site,View single result: Other site,5
 View single result: Other site,Platform switch: Search engine,6
 View single result: Other site,Platform switch: AI assistant,0
 View single result: Other site,Platform switch: Storefront,1
-View single result: Other site,Platform switch: Other,3
+View single result: Other site,Platform switch: Other,5
 View single result: Other site,View AI response,1
 View single result: Other site,View info box,0
-View single result: Other site,Browsing,5
+View single result: Other site,Browsing,3
 View single result: Other site,Experiment ended,3
-Platform switch: Search engine,Query,71
+Platform switch: Search engine,Query,72
 Platform switch: Search engine,View result list,58
 Platform switch: Search engine,View single result: Storefront,0
-Platform switch: Search engine,View single result: Community,0
+Platform switch: Search engine,View single result: Community,1
 Platform switch: Search engine,View single result: Other site,0
 Platform switch: Search engine,Platform switch: Search engine,1
 Platform switch: Search engine,Platform switch: AI assistant,1
@@ -114,7 +114,7 @@ Platform switch: Other,Platform switch: Storefront,0
 Platform switch: Other,Platform switch: Other,0
 Platform switch: Other,View AI response,0
 Platform switch: Other,View info box,0
-Platform switch: Other,Browsing,1
+Platform switch: Other,Browsing,3
 Platform switch: Other,Experiment ended,0
 View AI response,Query,28
 View AI response,View result list,9
@@ -142,12 +142,12 @@ View info box,View AI response,2
 View info box,View info box,15
 View info box,Browsing,0
 View info box,Experiment ended,2
-Browsing,Query,5
+Browsing,Query,4
 Browsing,View result list,6
 Browsing,View single result: Storefront,0
-Browsing,View single result: Community,1
+Browsing,View single result: Community,0
 Browsing,View single result: Other site,1
-Browsing,Platform switch: Search engine,4
+Browsing,Platform switch: Search engine,6
 Browsing,Platform switch: AI assistant,0
 Browsing,Platform switch: Storefront,0
 Browsing,Platform switch: Other,0

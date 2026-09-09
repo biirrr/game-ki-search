@@ -1,0 +1,41 @@
+pattern,count
+Query -> View result list,49
+Platform switch -> Query,38
+View result list -> View single result,32
+View result list -> Query,23
+Platform switch -> View result list,22
+View result list -> Platform switch,18
+View single result -> View single result,17
+View single result -> Platform switch,13
+View single result -> Experiment ended,12
+Query -> Platform switch,12
+Query -> View AI response,12
+View single result -> View result list,9
+View result list -> View info box,7
+Browsing -> Browsing,7
+View single result -> Query,6
+View AI response -> Query,6
+Browsing -> View result list,5
+View info box -> View single result,5
+Query -> Query,4
+View single result -> Browsing,4
+View result list -> View AI response,4
+View AI response -> View result list,4
+View info box -> Experiment ended,4
+View result list -> Experiment ended,3
+View AI response -> View single result,3
+Browsing -> View single result,3
+View AI response -> Experiment ended,2
+Platform switch -> Browsing,2
+View result list -> Browsing,2
+View AI response -> View info box,2
+Query -> View single result,1
+Platform switch -> View single result,1
+Platform switch -> Platform switch,1
+View single result -> View AI response,1
+Query -> Browsing,1
+Browsing -> Query,1
+Query -> View info box,1
+View info box -> View info box,1
+View info box -> Query,1
+View AI response -> View AI response,1

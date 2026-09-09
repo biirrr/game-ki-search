@@ -1,0 +1,51 @@
+pattern,count
+View result list -> Query -> View result list,18
+Query -> View result list -> View single result,17
+Platform switch -> Query -> View result list,16
+Query -> View result list -> Query,13
+View single result -> View single result -> View single result,12
+Query -> View result list -> Platform switch,11
+Query -> Platform switch -> View result list,11
+View result list -> Platform switch -> Query,10
+Platform switch -> Query -> Platform switch,9
+View result list -> View single result -> View result list,9
+View result list -> Platform switch -> View result list,8
+View single result -> Platform switch -> Query,8
+Platform switch -> Query -> View AI response,7
+View result list -> View single result -> Platform switch,7
+View single result -> Query -> View result list,6
+Platform switch -> View result list -> View single result,6
+View result list -> View single result -> Experiment ended,6
+Platform switch -> View result list -> Platform switch,6
+Query -> View result list -> View info box,6
+Platform switch -> View result list -> Query,5
+View result list -> View info box -> View single result,5
+View result list -> View single result -> View single result,5
+Query -> View AI response -> Query,5
+View single result -> View result list -> View single result,5
+Platform switch -> Query -> Query,4
+Query -> Query -> View result list,4
+View AI response -> Query -> View result list,4
+View AI response -> View result list -> View single result,4
+Browsing -> Browsing -> Browsing,4
+View result list -> Query -> View AI response,3
+Query -> View AI response -> View single result,3
+View result list -> View AI response -> View result list,3
+View single result -> View result list -> Query,3
+View info box -> View single result -> Experiment ended,3
+View result list -> View single result -> Query,3
+View result list -> View single result -> Browsing,2
+Browsing -> View result list -> Query,2
+View result list -> Query -> Platform switch,2
+View info box -> View single result -> Platform switch,2
+Platform switch -> View result list -> Experiment ended,2
+View single result -> View single result -> Experiment ended,2
+View single result -> Platform switch -> View result list,2
+View single result -> View single result -> Platform switch,2
+Browsing -> View single result -> Browsing,2
+View single result -> Browsing -> View single result,2
+Platform switch -> View result list -> View AI response,2
+Browsing -> Browsing -> View result list,2
+Browsing -> View result list -> Browsing,2
+Query -> View AI response -> View info box,2
+View result list -> View info box -> Experiment ended,2

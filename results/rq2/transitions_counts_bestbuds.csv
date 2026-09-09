@@ -18,18 +18,18 @@ View result list,Experiment ended,8
 View single result,Query,24
 View single result,View result list,31
 View single result,View single result,10
-View single result,Platform switch,20
+View single result,Platform switch,22
 View single result,View AI response,1
 View single result,View info box,0
-View single result,Browsing,6
+View single result,Browsing,4
 View single result,Experiment ended,4
-Platform switch,Query,92
+Platform switch,Query,93
 Platform switch,View result list,63
-Platform switch,View single result,0
+Platform switch,View single result,1
 Platform switch,Platform switch,6
 Platform switch,View AI response,5
 Platform switch,View info box,0
-Platform switch,Browsing,6
+Platform switch,Browsing,8
 Platform switch,Experiment ended,0
 View AI response,Query,28
 View AI response,View result list,9
@@ -47,10 +47,10 @@ View info box,View AI response,2
 View info box,View info box,15
 View info box,Browsing,0
 View info box,Experiment ended,2
-Browsing,Query,5
+Browsing,Query,4
 Browsing,View result list,6
-Browsing,View single result,2
-Browsing,Platform switch,4
+Browsing,View single result,1
+Browsing,Platform switch,6
 Browsing,View AI response,0
 Browsing,View info box,0
 Browsing,Browsing,10

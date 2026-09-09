@@ -1,7 +1,7 @@
 from,Search engine,AI assistant,Storefront,Community,Game database,Other
-Search engine,95,12,10,2,3,1
-AI assistant,7,2,0,1,1,0
+Search engine,95,12,10,2,3,3
+AI assistant,7,2,0,1,0,1
 Storefront,9,0,1,0,0,0
 Community,1,1,0,1,0,0
-Game database,2,1,0,0,0,0
-Other,1,0,0,0,0,0
+Game database,2,0,0,0,0,0
+Other,3,1,0,0,0,0

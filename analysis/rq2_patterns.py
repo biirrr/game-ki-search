@@ -209,11 +209,22 @@ def run_for(seqs: list[list[str]], label: str, slug: str) -> None:
     probs = probability_matrix(mat)
     probs.round(3).to_csv(out / f"transitions_probs_{slug}.csv")
 
-    plot_transition_graph(mat, probs, f"Action transitions — {label}", out / f"transition_graph_{slug}.png")
+    for min_prob in [0.05, 0.1, 0.2]:
+        plot_transition_graph(mat, probs, f"Action transitions — {label}",
+            out / f"transition_graph_{slug}-min_prob_{min_prob}.png", min_prob=min_prob)
+    # Canonical copy at the report's chosen threshold (0.2, the most legible),
+    # under the plain filename the report links to -- keeps that link valid
+    # and current without re-running min_prob=0.2 under two different names
+    # silently drifting apart.
+    plot_transition_graph(mat, probs, f"Action transitions — {label}",
+        out / f"transition_graph_{slug}.png", min_prob=0.2)
     plot_positional_sankey(seqs, f"First {SANKEY_STEPS} steps — {label}", out / f"sankey_{slug}.html")
 
-    top_ngrams(seqs, 2).to_csv(out / f"top_bigrams_{slug}.csv", index=False)
-    top_ngrams(seqs, 3).to_csv(out / f"top_trigrams_{slug}.csv", index=False)
+    top_ngrams(seqs, 2, k=50).to_csv(out / f"top_2-grams_{slug}.csv", index=False)
+    top_ngrams(seqs, 3, k=50).to_csv(out / f"top_3-grams_{slug}.csv", index=False)
+    top_ngrams(seqs, 4, k=50).to_csv(out / f"top_4-grams_{slug}.csv", index=False)
+    top_ngrams(seqs, 5, k=50).to_csv(out / f"top_5-grams_{slug}.csv", index=False)
+    top_ngrams(seqs, 6, k=50).to_csv(out / f"top_6-grams_{slug}.csv", index=False)
     top_prefixspan_patterns(seqs).to_csv(out / f"top_prefixspan_patterns_{slug}.csv", index=False)
 
     print(f"\n=== {label} ({len(seqs)} sessions) ===")

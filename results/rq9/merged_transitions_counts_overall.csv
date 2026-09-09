@@ -51,7 +51,7 @@ Other site,Query,24
 Other site,View result list,28
 Other site,View single result: Storefront,1
 Other site,View single result: Community,0
-Other site,Other site,11
+Other site,Other site,13
 Other site,Platform switch: Search engine,8
 Other site,Platform switch: AI assistant,1
 Other site,Platform switch: Storefront,1
@@ -59,10 +59,10 @@ Other site,View AI response,2
 Other site,View info box,0
 Other site,Browsing,8
 Other site,Experiment ended,12
-Platform switch: Search engine,Query,99
+Platform switch: Search engine,Query,100
 Platform switch: Search engine,View result list,79
 Platform switch: Search engine,View single result: Storefront,0
-Platform switch: Search engine,View single result: Community,0
+Platform switch: Search engine,View single result: Community,1
 Platform switch: Search engine,Other site,0
 Platform switch: Search engine,Platform switch: Search engine,1
 Platform switch: Search engine,Platform switch: AI assistant,1
@@ -119,12 +119,12 @@ View info box,View AI response,2
 View info box,View info box,16
 View info box,Browsing,0
 View info box,Experiment ended,6
-Browsing,Query,6
+Browsing,Query,5
 Browsing,View result list,11
 Browsing,View single result: Storefront,2
-Browsing,View single result: Community,1
+Browsing,View single result: Community,0
 Browsing,Other site,2
-Browsing,Platform switch: Search engine,4
+Browsing,Platform switch: Search engine,6
 Browsing,Platform switch: AI assistant,0
 Browsing,Platform switch: Storefront,0
 Browsing,View AI response,0

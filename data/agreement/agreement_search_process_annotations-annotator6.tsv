@@ -1,0 +1,41 @@
+participant_id	rank	annotator	game	language	action
+ID13	1	annotator6	Townscaper		Platform switch
+ID13	2	annotator6	Townscaper	de	Query
+ID13	3	annotator6	Townscaper		View AI response
+ID13	4	annotator6	Townscaper	de	Query
+ID13	5	annotator6	Townscaper		View result list
+ID13	6	annotator6	Townscaper		View AI response
+ID13	7	annotator6	Townscaper		View result list
+ID13	8	annotator6	Townscaper		View single result
+ID13	9	annotator6	Townscaper		View result list
+ID13	10	annotator6	Townscaper		View single result
+ID13	11	annotator6	Townscaper		View result list
+ID13	12	annotator6	Townscaper		View single result
+ID13	13	annotator6	Townscaper		Platform switch
+ID13	14	annotator6	Townscaper		Platform switch
+ID13	15	annotator6	Townscaper		Platform switch
+ID13	16	annotator6	Townscaper	de	Query
+ID13	17	annotator6	Townscaper		View result list
+ID13	18	annotator6	Townscaper		Browsing
+ID13	19	annotator6	Townscaper		Platform switch
+ID13	20	annotator6	Townscaper		View result list
+ID13	21	annotator6	Townscaper		Platform switch
+ID13	22	annotator6	Townscaper		Platform switch
+ID13	23	annotator6	Townscaper	en	Query
+ID13	24	annotator6	Townscaper		View result list
+ID13	25	annotator6	Townscaper		View single result
+ID13	26	annotator6	Townscaper		Experiment ended
+ID13	27	annotator6	Best Buds vs Bad Guys		Platform switch
+ID13	28	annotator6	Best Buds vs Bad Guys	de	Query
+ID13	29	annotator6	Best Buds vs Bad Guys		View result list
+ID13	30	annotator6	Best Buds vs Bad Guys		View single result
+ID13	31	annotator6	Best Buds vs Bad Guys		View result list
+ID13	32	annotator6	Best Buds vs Bad Guys		Platform switch
+ID13	33	annotator6	Best Buds vs Bad Guys		View result list
+ID13	34	annotator6	Best Buds vs Bad Guys		Platform switch
+ID13	35	annotator6	Best Buds vs Bad Guys		View AI response
+ID13	36	annotator6	Best Buds vs Bad Guys	de	Query
+ID13	37	annotator6	Best Buds vs Bad Guys		View AI response
+ID13	38	annotator6	Best Buds vs Bad Guys	de	Query
+ID13	39	annotator6	Best Buds vs Bad Guys		View AI response
+ID13	40	annotator6	Best Buds vs Bad Guys		Experiment ended

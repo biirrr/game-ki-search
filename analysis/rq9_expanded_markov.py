@@ -175,7 +175,10 @@ def plot_transition_graph(counts: pd.DataFrame, probs: pd.DataFrame, actions: li
             p, c = probs.loc[a, b], counts.loc[a, b]
             if c > 0 and p >= min_prob:
                 g.add_edge(a, b, weight=p, count=int(c))
-    g.remove_nodes_from(list(nx.isolates(g)))
+    # Isolated nodes (no edge clears min_prob) are kept, not dropped: dropping
+    # them would shrink the node count differently per game/threshold, which
+    # shifts circular_layout's angular spacing and makes the same action land
+    # in a different position across plots -- exactly what breaks comparability.
 
     pos = nx.circular_layout(g)
     fig, ax = plt.subplots(figsize=(11, 11))

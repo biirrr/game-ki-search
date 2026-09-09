@@ -1,12 +1,12 @@
 annotator,action,count,proportion
-annotator1,View result list,91,0.30434782608695654
-annotator1,Query,83,0.27759197324414714
-annotator1,Platform switch,51,0.1705685618729097
-annotator1,View single result,41,0.13712374581939799
-annotator1,View info box,12,0.04013377926421405
-annotator1,Experiment ended,10,0.033444816053511704
-annotator1,View AI response,8,0.026755852842809364
-annotator1,Browsing,3,0.010033444816053512
+annotator1,View result list,91,0.30033003300330036
+annotator1,Query,83,0.2739273927392739
+annotator1,Platform switch,55,0.18151815181518152
+annotator1,View single result,41,0.1353135313531353
+annotator1,View info box,12,0.039603960396039604
+annotator1,Experiment ended,10,0.033003300330033
+annotator1,View AI response,8,0.026402640264026403
+annotator1,Browsing,3,0.009900990099009901
 annotator2,View result list,90,0.2535211267605634
 annotator2,Query,86,0.24225352112676057
 annotator2,Platform switch,60,0.16901408450704225

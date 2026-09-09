@@ -1,0 +1,36 @@
+rule,expansion,fully_expanded,n_occurrences,expanded_length,n_participants
+R33,R32 -> View info box,Platform switch -> Query -> View result list -> Platform switch -> Query -> View result list -> View info box,2,7,2
+R32,R12 -> R12,Platform switch -> Query -> View result list -> Platform switch -> Query -> View result list,2,6,2
+R21,R1 -> R4,Query -> View result list -> Query -> View result list -> View single result,3,5,2
+R24,R10 -> R1,Platform switch -> Query -> View AI response -> Query -> View result list,2,5,2
+R28,R6 -> View single result,Platform switch -> Query -> Platform switch -> View result list -> View single result,2,5,2
+R34,R2 -> R4,Platform switch -> Query -> Query -> View result list -> View single result,2,5,2
+R6,R2 -> R3,Platform switch -> Query -> Platform switch -> View result list,9,4,8
+R7,Platform switch -> R4,Platform switch -> Query -> View result list -> View single result,8,4,6
+R8,R1 -> R1,Query -> View result list -> Query -> View result list,5,4,4
+R19,R1 -> R14,Query -> View result list -> View info box -> View single result,3,4,3
+R22,R1 -> R3,Query -> View result list -> Platform switch -> View result list,2,4,2
+R26,R16 -> View result list,Platform switch -> View result list -> View single result -> View result list,2,4,2
+R29,R10 -> View single result,Platform switch -> Query -> View AI response -> View single result,2,4,2
+R30,R11 -> R13,Browsing -> Browsing -> Browsing -> View result list,2,4,2
+R31,R10 -> View info box,Platform switch -> Query -> View AI response -> View info box,2,4,2
+R35,R9 -> R9,View result list -> View single result -> View result list -> View single result,2,4,2
+R17,R5 -> R5,View single result -> View single result -> View single result -> View single result,2,4,1
+R25,R20 -> Platform switch,View AI response -> View result list -> View single result -> Platform switch,2,4,1
+R4,R1 -> View single result,Query -> View result list -> View single result,17,3,10
+R10,R2 -> View AI response,Platform switch -> Query -> View AI response,7,3,6
+R12,Platform switch -> R1,Platform switch -> Query -> View result list,7,3,4
+R16,R3 -> View single result,Platform switch -> View result list -> View single result,4,3,4
+R18,View single result -> R1,View single result -> Query -> View result list,3,3,3
+R23,Query -> R3,Query -> Platform switch -> View result list,2,3,2
+R20,View AI response -> R9,View AI response -> View result list -> View single result,3,3,1
+R1,Query -> View result list,Query -> View result list,49,2,16
+R2,Platform switch -> Query,Platform switch -> Query,22,2,15
+R3,Platform switch -> View result list,Platform switch -> View result list,22,2,11
+R14,View info box -> View single result,View info box -> View single result,5,2,5
+R15,Query -> View AI response,Query -> View AI response,5,2,4
+R5,View single result -> View single result,View single result -> View single result,7,2,3
+R9,View result list -> View single result,View result list -> View single result,8,2,3
+R11,Browsing -> Browsing,Browsing -> Browsing,4,2,3
+R13,Browsing -> View result list,Browsing -> View result list,5,2,3
+R27,View single result -> Browsing,View single result -> Browsing,2,2,1

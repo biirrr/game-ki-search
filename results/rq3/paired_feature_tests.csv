@@ -1,5 +1,5 @@
 feature,median_bestbuds,median_townscaper,wilcoxon_stat,p_value
-length,43.0,13.0,12.0,0.0003
-entropy,2.1611,2.0784,63.0,0.0701
-query_rate,0.2791,0.25,79.0,0.2157
-platform_switch_rate,0.1892,0.2,83.0,0.2722
+length,47.0,13.0,12.0,0.0003
+entropy,2.1611,2.0784,59.0,0.0502
+query_rate,0.2791,0.25,81.0,0.2428
+platform_switch_rate,0.1892,0.2,87.0,0.3377

@@ -94,12 +94,43 @@ def add_session_step(events: pd.DataFrame) -> pd.DataFrame:
     return events
 
 
+def add_platform_context(events: pd.DataFrame) -> pd.DataFrame:
+    """Add a `context` column: which platform/website an action happens on.
+
+    Not directly annotated -- reconstructed under one assumption (the
+    researcher confirmed this is safe from looking at the raw annotation
+    files): most actions happen in the context of the most recent
+    `Platform switch` destination. `View single result` is the exception --
+    it's the action where the participant lands on a *different* site than
+    the platform they switched to, so its context is its own
+    `action_details_clean` value rather than the inherited platform.
+
+    Concretely: `Platform switch` rows seed the context with their own
+    destination; every row up to (but not including) the next
+    `Platform switch` in the same (participant, game) session inherits that
+    value by forward-fill; `View single result` rows override the inherited
+    value with their own `action_details_clean`. Rows before the first
+    `Platform switch` in a session (rare -- almost every session opens with
+    one) get a missing context rather than a guess.
+    """
+    events = events.sort_values(["participant_id", "game", "step"]).copy()
+    is_switch = events["action"] == "Platform switch"
+    is_view_single = events["action"] == "View single result"
+
+    events["_platform_seed"] = events["action_details_clean"].where(is_switch)
+    events["context"] = events.groupby(["participant_id", "game"])["_platform_seed"].ffill()
+    events.loc[is_view_single, "context"] = events.loc[is_view_single, "action_details_clean"]
+    return events.drop(columns="_platform_seed")
+
+
 def load_events(data_dir: Path = DATA_DIR) -> pd.DataFrame:
-    """Full pipeline: load, fix duplicate end-markers, add contiguous step."""
+    """Full pipeline: load, fix duplicate end-markers, add contiguous step,
+    add the reconstructed `context` (platform/website) column."""
     events = load_raw_events(data_dir)
     events = dedupe_experiment_ended(events)
     events = truncate_after_experiment_ended(events)
     events = add_session_step(events)
+    events = add_platform_context(events)
     return events
 
 

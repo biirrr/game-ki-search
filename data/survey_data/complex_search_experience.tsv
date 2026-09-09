@@ -1,0 +1,22 @@
+Response ID	I can usually find the information I need.	If I can't find what I'm looking for, I usually give up.	I manage to solve difficult problems encountered during an information search if I try hard enough.	If I can't find what I'm looking for, I keep trying until I find it.	When seeking information, I can solve most problems if I invest the necessary effort.	I can usually come up with alternative searching strategies if I am confronted with a problem during an information search.	I keep trying to find what I'm looking for, even if it takes a while.	I'm sure I can select the relevant information from the results of a search.
+ID1	2	-2	2	2	1	-1	2	1
+ID2	1	-2	1	2	1	1	2	1
+ID3	1	0	1	0	1	1	0	2
+ID4	1	2	2	0	1	2	0	1
+ID5	2	1	0	-1	1	0	-1	2
+ID6	2	1	0	-1	2	2	2	0
+ID7	2	-2	2	1	2	2	2	0
+ID8	2	1	2	0	1	2	-1	2
+ID9	1	-1	2	2	0	2	1	2
+ID10	1	-1	2	1	1	1	1	1
+ID11	2	0	2	0	2	2	0	2
+ID12	0	-1	2	0	2	1	0	-1
+ID13	1	-2	2	1	1	1	1	1
+ID14	1	2	1	0	1	-1	-2	1
+ID15	2	-1	1	1	1	1	1	1
+ID16	2	-1	2	2	1	1	1	1
+ID17	1	-1	1	2	1	2	1	2
+ID18	2	2	2	0	0	2	2	0
+ID19	2	-1	1	0	1	2	0	1
+ID20	2	-1	2	2	2	2	1	2
+ID21	-1	2	-1	0	2	0	1	2
