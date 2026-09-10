@@ -9,10 +9,23 @@ Full methodological detail and literature comparisons live in
 analysis code lives in [`analysis/`](../analysis); raw outputs in
 [`results/`](../results).
 
-**Jump to:** [Study & method](#study) · [RQ1](#rq1) · [RQ2](#rq2) ·
-[RQ3](#rq3) · [RQ4](#rq4) · [RQ5](#rq5) · [RQ6](#rq6) · [RQ7](#rq7) ·
-[RQ8](#rq8) · [RQ10](#rq10) · [RQ11](#rq11) · [RQ12](#rq12) ·
-[RQ13](#rq13) · [Discussion](#discussion) · [Status & next steps](#status)
+**Jump to:**
+
+- [Study & method](#study)
+- [RQ1](#rq1) — How common are the actions individually?
+- [RQ2](#rq2) — Typical action patterns or sequences?
+- [RQ3](#rq3) — How do search strategies differ between the two games?
+- [RQ4](#rq4) — Are there clusters of users with similar search processes?
+- [RQ5](#rq5) — Does the annotator influence how a search process is coded?
+- [RQ6](#rq6) — Does game order affect strategy, and do people carry a strategy over?
+- [RQ7](#rq7) — Enriching the analyses with destination and query-length data
+- [RQ8](#rq8) — Which platforms are involved in finding Townscaper, and in what order?
+- [RQ10](#rq10) — Does a finer platform breakdown surface image-search reliance?
+- [RQ11](#rq11) — Search tactics as recurring action sub-sequences
+- [RQ12](#rq12) — Tactics with `Platform switch` split by finer category
+- [RQ13](#rq13) — Does prior chatbot experience explain the AI-cluster?
+- [Discussion](#discussion)
+- [Status & next steps](#status)
 
 <a id="study"></a>
 ## 1. Study & method
