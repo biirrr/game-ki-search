@@ -1,0 +1,37 @@
+rule,expansion,fully_expanded,n_occurrences,expanded_length,n_participants
+R34,R33 -> R11,Platform switch: Web search -> Query -> View result list -> Platform switch: Image search -> Query -> View result list -> View info box,2,7,2
+R22,R1 -> R3,Query -> View result list -> Query -> View result list -> View single result,3,5,2
+R25,R21 -> R1,Platform switch: Web search -> Query -> View AI response -> Query -> View result list,2,5,2
+R30,R7 -> View single result,Platform switch: Web search -> Query -> Platform switch: Image search -> View result list -> View single result,2,5,2
+R35,R2 -> R3,Platform switch: Web search -> Query -> Query -> View result list -> View single result,2,5,2
+R7,R2 -> R4,Platform switch: Web search -> Query -> Platform switch: Image search -> View result list,9,4,8
+R9,R1 -> R1,Query -> View result list -> Query -> View result list,5,4,4
+R13,R1 -> R4,Query -> View result list -> Platform switch: Image search -> View result list,4,4,4
+R14,R11 -> View single result,Query -> View result list -> View info box -> View single result,4,4,4
+R19,Platform switch: Web search -> R3,Platform switch: Web search -> Query -> View result list -> View single result,3,4,3
+R15,Platform switch: Game search -> R3,Platform switch: Game search -> Query -> View result list -> View single result,4,4,2
+R26,R18 -> View result list,Platform switch: Web search -> View result list -> View single result -> View result list,2,4,2
+R31,R10 -> R12,Browsing -> Browsing -> Browsing -> View result list,2,4,2
+R32,R16 -> View info box,Platform switch: Conversational search -> Query -> View AI response -> View info box,2,4,2
+R33,Platform switch: Web search -> R23,Platform switch: Web search -> Query -> View result list -> Platform switch: Image search,2,4,2
+R36,R6 -> R6,View result list -> View single result -> View result list -> View single result,2,4,2
+R17,R5 -> R5,View single result -> View single result -> View single result -> View single result,2,4,1
+R29,R20 -> R6,View result list -> View AI response -> View result list -> View single result,2,4,1
+R3,R1 -> View single result,Query -> View result list -> View single result,17,3,10
+R11,R1 -> View info box,Query -> View result list -> View info box,6,3,5
+R16,Platform switch: Conversational search -> R8,Platform switch: Conversational search -> Query -> View AI response,4,3,4
+R18,Platform switch: Web search -> R6,Platform switch: Web search -> View result list -> View single result,3,3,3
+R21,R2 -> View AI response,Platform switch: Web search -> Query -> View AI response,3,3,3
+R23,R1 -> Platform switch: Image search,Query -> View result list -> Platform switch: Image search,3,3,2
+R24,Query -> R4,Query -> Platform switch: Image search -> View result list,2,3,2
+R1,Query -> View result list,Query -> View result list,49,2,16
+R2,Platform switch: Web search -> Query,Platform switch: Web search -> Query,17,2,13
+R4,Platform switch: Image search -> View result list,Platform switch: Image search -> View result list,16,2,10
+R8,Query -> View AI response,Query -> View AI response,9,2,7
+R6,View result list -> View single result,View result list -> View single result,11,2,5
+R5,View single result -> View single result,View single result -> View single result,7,2,3
+R10,Browsing -> Browsing,Browsing -> Browsing,4,2,3
+R12,Browsing -> View result list,Browsing -> View result list,5,2,3
+R20,View result list -> View AI response,View result list -> View AI response,3,2,2
+R28,View single result -> Platform switch: Web search,View single result -> Platform switch: Web search,2,2,2
+R27,View single result -> Browsing,View single result -> Browsing,2,2,1

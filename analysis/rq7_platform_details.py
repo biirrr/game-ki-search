@@ -40,8 +40,8 @@ from data import NON_SEARCH_ACTIONS, load_events
 from rq3_game_differences import BESTBUDS, TOWNSCAPER, shannon_entropy
 from rq6_order_effects import position_table
 
-RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq7"
-RQ4_DIR = Path(__file__).resolve().parent.parent / "results" / "rq4"
+RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq7_platform_details"
+RQ4_DIR = Path(__file__).resolve().parent.parent / "results" / "rq4_clustering"
 
 PLATFORM_CATEGORY = {
     "Google": "Search engine",

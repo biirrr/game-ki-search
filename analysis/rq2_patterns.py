@@ -28,7 +28,7 @@ from prefixspan import PrefixSpan
 
 from data import load_events
 
-RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq2"
+RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq2_patterns"
 
 ACTIONS = [
     "Query",

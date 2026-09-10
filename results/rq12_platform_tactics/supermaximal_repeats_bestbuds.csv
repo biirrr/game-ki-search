@@ -1,0 +1,139 @@
+pattern,length,n_occurrences,n_participants
+Platform switch: Conversational search -> Query -> View AI response -> Query -> View AI response -> Query -> View AI response,7,3,3
+View result list -> Query -> View result list -> View single result -> View result list -> View single result -> View result list,7,3,3
+View result list -> View single result -> View result list -> Query -> View result list -> Query -> View result list,7,3,3
+Query -> View result list -> View single result -> View result list -> Query -> View result list,6,3,3
+Query -> View result list -> Query -> Platform switch: Image search -> View result list,5,3,3
+View result list -> Query -> Platform switch: Web search -> View result list -> View single result,5,3,3
+View result list -> Query -> View result list -> Platform switch: Image search -> View result list,5,3,3
+Platform switch: Web search -> Query -> Platform switch: Image search -> View result list -> Query -> View result list -> Query -> View result list -> Query -> View result list -> Query -> View result list,12,2,2
+View result list -> Query -> View result list -> Query -> View result list -> Query -> View result list -> Query -> View result list -> View single result,10,2,2
+Browsing -> Query -> View result list -> Platform switch: Web search -> Query -> View result list -> View single result -> Platform switch: Game search -> Browsing,9,2,2
+Query -> View AI response -> Query -> View AI response -> Platform switch: Web search -> Query -> View result list -> Platform switch: Image search -> View result list,9,2,2
+View result list -> Platform switch: Image search -> Query -> View result list -> Platform switch: Web search -> Query -> View result list -> View single result -> Query,9,2,2
+View result list -> Query -> View result list -> Query -> View result list -> Platform switch: Web search -> Query -> View result list -> Query,9,2,2
+View result list -> Query -> View result list -> Query -> View result list -> Query -> View result list -> Platform switch: Web search -> Query,9,2,2
+View result list -> Query -> View result list -> Query -> View result list -> View single result -> Platform switch: Web search -> Query -> View result list,9,2,2
+Query -> View AI response -> Query -> View AI response -> Query -> View AI response -> Platform switch: Web search -> Query,8,2,2
+View result list -> View single result -> View result list -> Platform switch: Web search -> Query -> View result list -> Query -> View result list,8,2,2
+View single result -> Platform switch: Game search -> Browsing -> Platform switch: Web search -> Query -> View result list -> View single result -> View result list,8,2,2
+View single result -> View result list -> Query -> View result list -> Query -> View result list -> Query -> View result list,8,2,2
+Platform switch: Web search -> Query -> Platform switch: Image search -> Query -> View result list -> Query -> View result list,7,2,2
+Platform switch: Web search -> Query -> View result list -> Platform switch: Image search -> View result list -> Query -> View result list,7,2,2
+Query -> View result list -> Query -> View result list -> View single result -> View result list -> View single result,7,2,2
+Query -> View result list -> View single result -> Query -> View result list -> View single result -> Query,7,2,2
+View result list -> Platform switch: Web search -> Query -> View result list -> Platform switch: Image search -> View result list -> Query,7,2,2
+View result list -> Platform switch: Web search -> View result list -> Query -> Platform switch: Image search -> View result list -> View info box,7,2,2
+View result list -> Query -> View result list -> Platform switch: Web search -> View result list -> Query -> View result list,7,2,2
+View result list -> Query -> View result list -> Query -> View result list -> View single result -> View result list,7,2,2
+View result list -> Query -> View result list -> Query -> View single result -> Query -> View result list,7,2,2
+View result list -> View single result -> Platform switch: Game search -> Browsing -> Browsing -> Browsing -> Browsing,7,2,2
+View result list -> View single result -> View result list -> Platform switch: Web search -> Query -> Platform switch: Image search -> View result list,7,2,2
+Platform switch: Image search -> View result list -> Query -> View result list -> Platform switch: Web search -> View result list,6,2,2
+Platform switch: Image search -> View result list -> View single result -> View result list -> Platform switch: Web search -> Query,6,2,2
+Platform switch: Web search -> Query -> Platform switch: Image search -> View result list -> Platform switch: Web search -> Query,6,2,2
+Platform switch: Web search -> Query -> View AI response -> Query -> View AI response -> View info box,6,2,2
+Platform switch: Web search -> Query -> View result list -> Platform switch: Image search -> View result list -> Platform switch: Web search,6,2,2
+Query -> Platform switch: Conversational search -> Query -> View AI response -> Query -> View AI response,6,2,2
+Query -> Platform switch: Image search -> View result list -> View single result -> View result list -> Platform switch: Web search,6,2,2
+Query -> View AI response -> View result list -> Query -> View result list -> Query,6,2,2
+Query -> View result list -> Platform switch: Image search -> View result list -> Platform switch: Web search -> Query,6,2,2
+Query -> View result list -> View single result -> Platform switch: Game search -> Browsing -> Browsing,6,2,2
+Query -> View result list -> View single result -> Query -> Platform switch: Image search -> View result list,6,2,2
+Query -> View result list -> View single result -> View result list -> View single result -> Query,6,2,2
+Query -> View result list -> View single result -> View single result -> Query -> View result list,6,2,2
+View info box -> View info box -> View info box -> View info box -> Platform switch: Web search -> Query,6,2,2
+View result list -> Platform switch: Conversational search -> Query -> View AI response -> Query -> View AI response,6,2,2
+View result list -> Platform switch: Web search -> View result list -> View single result -> View result list -> Query,6,2,2
+View result list -> Query -> View AI response -> View result list -> Query -> View result list,6,2,2
+View result list -> Query -> View result list -> View AI response -> Query -> View result list,6,2,2
+View result list -> View single result -> Query -> Platform switch: Image search -> View result list -> Query,6,2,2
+View result list -> View single result -> Query -> View result list -> Query -> View result list,6,2,2
+View single result -> Query -> View AI response -> View result list -> Query -> View result list,6,2,2
+View single result -> View result list -> View single result -> View result list -> View single result -> View result list,6,2,2
+Browsing -> Browsing -> Browsing -> Browsing -> Platform switch: Web search,5,2,2
+Platform switch: Image search -> View result list -> Query -> Platform switch: Web search -> View result list,5,2,2
+Platform switch: Web search -> Query -> Platform switch: Conversational search -> Query -> View AI response,5,2,2
+Platform switch: Web search -> Query -> Platform switch: Image search -> View result list -> Query,5,2,2
+Platform switch: Web search -> Query -> Platform switch: Image search -> View result list -> View single result,5,2,2
+Platform switch: Web search -> Query -> View result list -> View single result -> View single result,5,2,2
+Platform switch: Web search -> View result list -> View AI response -> Query -> View result list,5,2,2
+Query -> Platform switch: Image search -> View result list -> View single result -> View single result,5,2,2
+Query -> Platform switch: Web search -> View result list -> View single result -> Platform switch: Game search,5,2,2
+Query -> View AI response -> Query -> View AI response -> View info box,5,2,2
+Query -> View AI response -> Query -> View result list -> View single result,5,2,2
+Query -> View AI response -> View info box -> View info box -> View info box,5,2,2
+Query -> View result list -> Platform switch: Web search -> Query -> View AI response,5,2,2
+Query -> View result list -> Platform switch: Web search -> View result list -> View single result,5,2,2
+Query -> View result list -> Query -> View AI response -> View result list,5,2,2
+Query -> View result list -> View result list -> View single result -> View result list,5,2,2
+View AI response -> Query -> View AI response -> View info box -> View info box,5,2,2
+View info box -> Platform switch: Web search -> Query -> Platform switch: Conversational search -> Query,5,2,2
+View info box -> Platform switch: Web search -> Query -> View result list -> View single result,5,2,2
+View result list -> Query -> View AI response -> View result list -> View single result,5,2,2
+View result list -> Query -> View result list -> Platform switch: Conversational search -> View AI response,5,2,2
+View result list -> Query -> View result list -> Query -> View AI response,5,2,2
+View result list -> Query -> View result list -> View single result -> Platform switch: Game search,5,2,2
+View result list -> View AI response -> Query -> View result list -> Query,5,2,2
+View result list -> View single result -> Platform switch: Game search -> Browsing -> Platform switch: Web search,5,2,2
+View single result -> Query -> View AI response -> Query -> View AI response,5,2,2
+View single result -> Query -> View result list -> View single result -> View result list,5,2,2
+Browsing -> View result list -> Browsing -> View result list,4,2,2
+Platform switch: Image search -> Query -> View result list -> View info box,4,2,2
+Platform switch: Other -> View result list -> Platform switch: Image search -> View result list,4,2,2
+Platform switch: Web search -> Query -> View AI response -> View result list,4,2,2
+Query -> View AI response -> View info box -> View result list,4,2,2
+Query -> View result list -> View info box -> View info box,4,2,2
+Query -> View result list -> View info box -> View single result,4,2,2
+Query -> View result list -> View single result -> Browsing,4,2,2
+View info box -> View result list -> Query -> View result list,4,2,2
+View result list -> Platform switch: Game search -> Query -> View result list,4,2,2
+View result list -> Platform switch: Image search -> View result list -> View info box,4,2,2
+View result list -> Platform switch: Image search -> View result list -> View single result,4,2,2
+View result list -> Query -> View result list -> View info box,4,2,2
+View result list -> View info box -> View single result -> View result list,4,2,2
+View result list -> View single result -> Platform switch: Game search -> Query,4,2,2
+View result list -> View single result -> View single result -> Platform switch: Game search,4,2,2
+View result list -> View single result -> View single result -> View result list,4,2,2
+View single result -> Platform switch: Game search -> Query -> View result list,4,2,2
+View single result -> Query -> View result list -> Platform switch: Image search,4,2,2
+View single result -> Query -> View result list -> Platform switch: Web search,4,2,2
+View single result -> Query -> View result list -> View result list,4,2,2
+Browsing -> Query -> View result list,3,2,2
+Platform switch: Conversational search -> Query -> View AI response,3,2,2
+Platform switch: Game search -> View result list -> Platform switch: Web search,3,2,2
+Platform switch: Other -> Query -> View result list,3,2,2
+Platform switch: Web search -> Query -> View result list,3,2,2
+Query -> Query -> View AI response,3,2,2
+Query -> View result list -> Platform switch: Game search,3,2,2
+View AI response -> View info box -> Platform switch: Conversational search,3,2,2
+View info box -> Platform switch: Conversational search -> Query,3,2,2
+View info box -> Query -> View AI response,3,2,2
+View result list -> View single result -> Platform switch: Other,3,2,2
+View single result -> Browsing -> View result list,3,2,2
+View AI response -> Platform switch: Image search,2,2,2
+View info box -> Query,2,2,2
+View result list -> Query -> View result list -> Query -> View result list -> Query -> View result list -> Query -> View result list -> Query -> View result list -> Query -> View result list,13,2,1
+Query -> View result list -> Query -> View result list -> Platform switch: Web search -> Query -> View result list -> Query -> View result list -> Platform switch: Image search -> Query -> View result list,12,2,1
+Query -> View result list -> Platform switch: Image search -> Query -> View result list -> Platform switch: Web search -> Query -> View result list -> View single result,9,2,1
+Platform switch: Image search -> Query -> View result list -> Query -> View result list -> Platform switch: Web search -> Query -> View result list,8,2,1
+Platform switch: Image search -> Query -> View result list -> View info box -> View result list -> Query -> View result list -> Platform switch: Conversational search,8,2,1
+View result list -> View single result -> Platform switch: Web search -> Query -> View result list -> View single result -> Query -> View result list,8,2,1
+View result list -> View single result -> Query -> View result list -> View single result -> Query -> View result list -> View single result,8,2,1
+View result list -> View single result -> View result list -> Query -> Platform switch: Image search -> View result list -> Platform switch: Web search -> View result list,8,2,1
+Platform switch: Image search -> View result list -> Platform switch: Web search -> Query -> View result list -> Platform switch: Image search -> View result list,7,2,1
+Query -> Platform switch: Image search -> View result list -> Query -> Query -> View result list -> View info box,7,2,1
+Query -> Platform switch: Image search -> View result list -> Query -> View result list -> Platform switch: Web search -> View AI response,7,2,1
+View info box -> View info box -> View info box -> View info box -> View info box -> View info box -> View info box,7,2,1
+Platform switch: Image search -> View result list -> Platform switch: Web search -> Query -> Platform switch: Image search -> View result list,6,2,1
+View result list -> View single result -> View result list -> View single result -> View result list -> View single result,6,2,1
+Query -> View result list -> View single result -> Platform switch: Game search -> View result list,5,2,1
+View result list -> Query -> Platform switch: Image search -> View result list -> View single result,5,2,1
+Platform switch: Web search -> Query -> View result list -> View result list,4,2,1
+Query -> View result list -> Platform switch: Conversational search -> Query,4,2,1
+View AI response -> Query -> View AI response -> View single result,4,2,1
+View AI response -> View info box -> View AI response -> View info box,4,2,1
+View result list -> Browsing -> View result list -> Browsing,4,2,1
+View result list -> View info box -> Platform switch: Web search -> Query,4,2,1
+View single result -> View result list -> View result list -> Query,4,2,1
+View result list -> Platform switch: Web search -> Platform switch: Game search,3,2,1

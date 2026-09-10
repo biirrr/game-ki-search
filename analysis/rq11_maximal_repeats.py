@@ -52,7 +52,7 @@ from data import NON_SEARCH_ACTIONS, load_events
 from rq2_patterns import ACTION_COLOR
 from rq3_game_differences import BESTBUDS, TOWNSCAPER
 
-RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq11"
+RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq11_maximal_repeats"
 
 # ACTION_COLOR values are plotly "rgb(r,g,b)" strings; matplotlib needs 0-1 tuples.
 MPL_ACTION_COLOR = {action: tuple(c / 255 for c in pc.unlabel_rgb(rgb)) for action, rgb in ACTION_COLOR.items()}

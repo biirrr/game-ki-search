@@ -35,7 +35,7 @@ from rq2_patterns import (
     transition_counts,
 )
 
-RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq3"
+RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq3_game_differences"
 BESTBUDS = "Best Buds vs Bad Guys"
 TOWNSCAPER = "Townscaper"
 

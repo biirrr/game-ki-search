@@ -1,0 +1,9 @@
+game,predictor,outcome,n,spearman_rho,p_value
+Best Buds vs Bad Guys,game_exp,dwell_game_share,21,0.12599643176719966,0.5862972313720842
+Best Buds vs Bad Guys,game_exp,switch_to_game_share,21,0.0817490494296578,0.7246339774534322
+Best Buds vs Bad Guys,game_hours,dwell_game_share,21,0.14523731603440618,0.5299048146699474
+Best Buds vs Bad Guys,game_hours,switch_to_game_share,21,0.11397337010280381,0.6227771962006644
+Townscaper,game_exp,dwell_game_share,20,0.009935576054755348,0.96683910267042
+Townscaper,game_exp,switch_to_game_share,20,-0.040942702028308756,0.8639228594384307
+Townscaper,game_hours,dwell_game_share,20,-0.18886280318733786,0.42518894565000315
+Townscaper,game_hours,switch_to_game_share,20,-0.24834804956526718,0.29106556434772046

@@ -36,7 +36,7 @@ from data import NON_SEARCH_ACTIONS, load_events
 from rq3_game_differences import BESTBUDS, TOWNSCAPER
 from rq7_platform_details import PLATFORM_CATEGORY, categorize_platform
 
-RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq8"
+RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq8_platform_sequence"
 CATEGORIES = ["Search engine", "AI assistant", "Storefront", "Community", "Game database", "Other"]
 
 

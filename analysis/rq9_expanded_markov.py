@@ -42,7 +42,7 @@ from data import load_events
 from rq3_game_differences import BESTBUDS, TOWNSCAPER
 from rq7_platform_details import categorize_platform
 
-RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq9"
+RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq9_expanded_markov"
 
 EXPANDED_ACTIONS = [
     "Query",

@@ -43,7 +43,7 @@ from scipy.stats import chi2_contingency
 from data import NON_SEARCH_ACTIONS, load_events
 from rq3_game_differences import BESTBUDS, TOWNSCAPER
 
-RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq10"
+RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq10_finer_platform_categories"
 MAP_PATH = Path(__file__).resolve().parent.parent / "data" / "platform_map.json"
 
 # Known issue in the source file: "Meta.AI" -> "Conservational search" is a

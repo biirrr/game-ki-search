@@ -39,7 +39,7 @@ from sklearn.preprocessing import StandardScaler
 from data import load_events
 from rq2_patterns import ACTIONS, build_sequences, sequences_for
 
-RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq4"
+RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq4_clustering"
 BESTBUDS = "Best Buds vs Bad Guys"
 TOWNSCAPER = "Townscaper"
 REAL_ACTIONS = [a for a in ACTIONS if a != "Experiment ended"]

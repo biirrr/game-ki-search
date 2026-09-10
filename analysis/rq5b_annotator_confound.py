@@ -58,7 +58,7 @@ from data import NON_SEARCH_ACTIONS, load_events
 from rq2_patterns import ACTIONS
 from rq3_game_differences import shannon_entropy
 
-RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq5b"
+RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq5b_annotator_confound"
 REAL_ACTIONS = [a for a in ACTIONS if a != "Experiment ended"]
 FEATURES = REAL_ACTIONS + ["entropy"]
 

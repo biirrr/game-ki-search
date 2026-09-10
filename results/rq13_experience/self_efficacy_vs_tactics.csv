@@ -1,0 +1,5 @@
+game,predictor,outcome,n,spearman_rho,p_value,n_tactics_available,n_used,n_not_used,median_used,median_not_used,mannwhitney_u
+Best Buds vs Bad Guys,composite,n_tactics_used,21,0.09363127517292283,0.6864423243917702,9.0,,,,,
+Best Buds vs Bad Guys,composite,used_any_tactic,21,,0.717777081645443,,17.0,4.0,1.125,1.0625,29.5
+Best Buds vs Bad Guys,alternatives,n_tactics_used,21,-0.15350898570679988,0.5064687192279822,9.0,,,,,
+Best Buds vs Bad Guys,alternatives,used_any_tactic,21,,0.20801994331107443,,17.0,4.0,1.0,2.0,20.5

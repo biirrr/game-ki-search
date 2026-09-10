@@ -37,7 +37,7 @@ import pandas as pd
 from rq2_patterns import ACTIONS
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "agreement"
-RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq5"
+RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq5_annotator_agreement"
 
 ANNOTATORS = ["annotator1", "annotator2", "annotator3", "annotator4", "annotator5", "annotator6"]
 REFERENCE_ANNOTATOR = "annotator4"

@@ -281,8 +281,8 @@ much longer Best Buds sessions).
   as evidence of annotator effect on its own.
 
 **Both implemented 2026-09-07** (`analysis/rq5_annotator_agreement.py`,
-`analysis/rq5b_annotator_confound.py`; results in `results/rq5/` and
-`results/rq5b/`; write-up in `reports/report.md` §6). Two things
+`analysis/rq5b_annotator_confound.py`; results in `results/rq5_annotator_agreement/` and
+`results/rq5b_annotator_confound/`; write-up in `reports/report.md` §6). Two things
 prompted the follow-up: the agreement sample grew from 4 to 6 annotators
 (`annotator5`/`annotator6` added to `data/agreement/` — extra
 independent coders on ID13, not annotators of any other participant),
@@ -570,22 +570,77 @@ forward-filling the most recent `Platform switch` destination within a
 (participant, game) session, except `View single result` rows, which
 take their own `action_details_clean` value as context since that's the
 one action where the participant is looking at a *different* site than
-the one they switched to. Two data-quality issues found and normalized
-(not fixed at the source): a `"Conservational search"` typo for
-`"Conversational search"` in the map, and a `"Moby Games"` (two words, in
-the raw data) vs. `"MobyGames"` (one word, the only form in the map)
-mismatch, leaving 4 events as "Uncategorized".
+the one they switched to.
+
+**Correction (added 2026-09-10)**: the original overall-share figures
+below used the wrong denominator -- `context.notna()` (1,286 rows)
+rather than the actual categorizable subset used everywhere else in this
+analysis (`context.notna()` minus `View single result` rows, which are
+deliberately left uncategorized, minus `Experiment ended` -- 1,087 rows).
+Every share in the Finding below is now computed on the correct 1,087.
+Separately, the researcher fixed both data-quality issues this section
+used to flag at the source rather than leaving them normalized in code:
+the `"Conservational search"` typo is corrected in `platform_map.json`
+directly, and `"Moby Games"` / `"MobyGames"` are now both present as
+keys mapping to the same category. The researcher also simplified the
+map itself, merging every rare category (video/news/list/product/forum
+search, TikTok, etc.) into one `Other` bucket, leaving five categories
+total: Web / Image / Conversational / Game search, plus Other.
 
 **Finding**: image search is the second most-used category overall (312
-of 1,286 categorizable events, 24%, behind web search's 39%) — confirming
-the motivating impression. Cross-checked against RQ4's clusters: in
-Townscaper, the "AI-quick" feature-cluster (`n=4`: ID6, ID7, ID15, ID18)
-uses image search **0% of the time, unanimously**, while the majority
-cluster (`n=16`) averages 35.2%; Best Buds shows the same direction more
-weakly (15.4% vs. 29.7%). Read together with RQ4's original AI-vs-majority
+of 1,087 categorizable events, **29%**, behind web search's 46%) —
+confirming the motivating impression. Cross-checked against RQ4's
+clusters: in Townscaper, the "AI-quick" feature-cluster (`n=4`: ID6, ID7,
+ID15, ID18) uses image search **0% of the time, unanimously**, while the
+majority cluster (`n=16`) averages 35.2%; Best Buds shows the same
+direction more weakly (15.4% vs. 29.7%) -- both figures were already
+computed on the correctly-scoped per-session subset and are unaffected
+by the denominator fix. Read together with RQ4's original AI-vs-majority
 split (§5, main report), this suggests image-search reliance and
 AI-assistant reliance are two distinct, largely mutually exclusive search
 styles rather than something people mix.
+
+### 4.10 RQ12 — Tactics with `Platform switch` split by finer category (added 2026-09-10)
+Direct extension of RQ11 (§4.8), reusing its exact machinery (supermaximal
+repeats via suffix array + LCP array, RE-PAIR grammar, participant-count
+reporting) but with the `Platform switch` state itself expanded into its
+`platform_map.json` category wherever known -- `Platform switch: Web
+search`, `: Image search`, etc. -- matching RQ9's `build_state` convention
+rather than RQ10's broader `context`-recoloring (only the switch event's
+own state changes; `Query`, `View result list`, etc. are untouched, so
+this stays a direct, comparable variant of RQ11 rather than a different
+question). Motivated by RQ11's building-blocks table showing generic
+`Platform switch` steps threading through most of Best Buds' reported
+tactics -- the open question was whether those were genuinely shared
+tactics or just different participants' different platform choices
+collapsing to the same coarse label.
+
+Implemented in `analysis/rq12_platform_tactics.py`. The five platform-switch
+states get shades of RQ11/RQ2's original `Platform switch` green (Web
+search = the original green, progressively lighter through Other) rather
+than unrelated hues, so the plots read as "still a platform switch, this
+flavor" -- done by extending `rq11_maximal_repeats.MPL_ACTION_COLOR` in
+place, since RQ11's plotting functions are reused unmodified.
+
+**Finding**: both true and false. Best Buds' tactic count does drop once
+the platform is visible (9 → **7** reported tactics), confirming some of
+RQ11's coarse-label matches were really different participants' different
+platform choices. But it's not a full collapse: **3 of the 7 survivors
+still name a specific platform and still clear the ≥3-participant bar**
+(`Conversational search` once, `Image search` twice, `Web search` once)
+-- switching to image search specifically (not just "switching" in
+general) is itself a tactic several participants converge on
+independently. The RE-PAIR tree surfaces a genuinely new composite not
+visible in RQ11: rule `R34` (3 participants, 8 steps) chains a web-search
+detour *into* an image-search detour within one recurring tactic. Townscaper
+goes the other way: RQ11 had zero qualifying tactics, RQ12 has **one**
+(`Query → View AI response → View single result`, no platform switch
+involved) -- it wasn't visible in RQ11 because a longer, platform-switch-
+involving pattern used to subsume its occurrences; splitting the alphabet
+broke that containment and let the shorter pattern surface on its own. A
+useful methodological note for future granularity changes: finer states
+don't only fragment tactics, they can also un-bury shorter ones that a
+coarser alphabet's subsumption step had been hiding.
 
 ## 5. Python toolkit shortlist
 

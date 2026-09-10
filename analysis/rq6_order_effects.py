@@ -34,8 +34,8 @@ from data import load_events
 from rq2_patterns import build_sequences, sequences_for
 from rq3_game_differences import BESTBUDS, TOWNSCAPER, session_features
 
-RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq6"
-RQ4_DIR = Path(__file__).resolve().parent.parent / "results" / "rq4"
+RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq6_order_effects"
+RQ4_DIR = Path(__file__).resolve().parent.parent / "results" / "rq4_clustering"
 OPENING_LEN = 3
 N_PERMUTATIONS = 10_000
 RNG_SEED = 0

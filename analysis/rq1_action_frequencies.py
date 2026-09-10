@@ -17,7 +17,7 @@ import pandas as pd
 
 from data import NON_SEARCH_ACTIONS, load_events
 
-RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq1"
+RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq1_action_frequencies"
 
 
 def action_counts(events: pd.DataFrame, by: list[str] | None = None) -> pd.DataFrame:

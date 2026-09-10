@@ -27,7 +27,7 @@ from rq2_patterns import ACTIONS, build_sequences, probability_matrix, to_matrix
 from rq3_game_differences import BESTBUDS, TOWNSCAPER, compare_transition_matrices, half_split_analysis, shannon_entropy
 from rq6_order_effects import position_table
 
-RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq6_4"
+RESULTS_DIR = Path(__file__).resolve().parent.parent / "results" / "rq6_4_order_within_game"
 FIRST, SECOND = "first", "second"
 
 
