@@ -1,0 +1,1324 @@
+query_id	participant_id	rank	game	query	text	start	end	label
+103	ID1	2	Townscaper	google	google	0.0	6.0	Search history
+104	ID1	4	Townscaper	sandbox indie game towns building	indie game	8.0	18.0	Publisher
+104	ID1	4	Townscaper	sandbox indie game towns building	towns building	19.0	33.0	Gameplay mechanics
+104	ID1	4	Townscaper	sandbox indie game towns building	sandbox	0.0	7.0	Gameplay mechanics
+104	ID1	4	Townscaper	sandbox indie game towns building	towns building	19.0	33.0	Genre
+105	ID1	11	Best Buds vs Bad Guys	game retro fighter optic	retro	5.0	10.0	Graphic design
+105	ID1	11	Best Buds vs Bad Guys	game retro fighter optic	fighter	11.0	18.0	Genre
+106	ID1	14	Best Buds vs Bad Guys	game retro 2d shooter	2d shooter	11.0	21.0	Genre
+106	ID1	14	Best Buds vs Bad Guys	game retro 2d shooter	retro	5.0	10.0	Graphic design
+106	ID1	14	Best Buds vs Bad Guys	game retro 2d shooter	2d	11.0	13.0	Graphic design
+107	ID1	16	Best Buds vs Bad Guys	game retro 2d shooter 2 characters	retro	5.0	10.0	Graphic design
+107	ID1	16	Best Buds vs Bad Guys	game retro 2d shooter 2 characters	2d shooter	11.0	21.0	Genre
+107	ID1	16	Best Buds vs Bad Guys	game retro 2d shooter 2 characters	2 characters	22.0	34.0	Gameplay mechanics
+107	ID1	16	Best Buds vs Bad Guys	game retro 2d shooter 2 characters	2d	11.0	13.0	Graphic design
+108	ID1	18	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city defender	retro	5.0	10.0	Graphic design
+108	ID1	18	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city defender	2d	11.0	13.0	Graphic design
+108	ID1	18	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city defender	2d shooter	11.0	21.0	Genre
+108	ID1	18	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city defender	2 characters	22.0	34.0	Gameplay mechanics
+108	ID1	18	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city defender	city	35.0	39.0	Setting
+108	ID1	18	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city defender	defender	40.0	48.0	Gameplay mechanics
+109	ID1	20	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city	retro	5.0	10.0	Graphic design
+109	ID1	20	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city	2d	11.0	13.0	Graphic design
+109	ID1	20	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city	2 characters	22.0	34.0	Gameplay mechanics
+109	ID1	20	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city	city	35.0	39.0	Setting
+109	ID1	20	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city	2d shooter	11.0	21.0	Genre
+110	ID1	22	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city pixel graphics	retro	5.0	10.0	Graphic design
+110	ID1	22	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city pixel graphics	2d	11.0	13.0	Graphic design
+110	ID1	22	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city pixel graphics	2d shooter	11.0	21.0	Genre
+110	ID1	22	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city pixel graphics	2 characters	22.0	34.0	Gameplay mechanics
+110	ID1	22	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city pixel graphics	city	35.0	39.0	Setting
+110	ID1	22	Best Buds vs Bad Guys	game retro 2d shooter 2 characters city pixel graphics	pixel graphics	40.0	54.0	Graphic design
+111	ID1	24	Best Buds vs Bad Guys	retro 2d shooter 2 characters city pixel graphics	2d	6.0	8.0	Graphic design
+111	ID1	24	Best Buds vs Bad Guys	retro 2d shooter 2 characters city pixel graphics	pixel graphics	35.0	49.0	Graphic design
+111	ID1	24	Best Buds vs Bad Guys	retro 2d shooter 2 characters city pixel graphics	2 characters	17.0	29.0	Gameplay mechanics
+111	ID1	24	Best Buds vs Bad Guys	retro 2d shooter 2 characters city pixel graphics	city	30.0	34.0	Setting
+111	ID1	24	Best Buds vs Bad Guys	retro 2d shooter 2 characters city pixel graphics	retro	0.0	5.0	Graphic design
+111	ID1	24	Best Buds vs Bad Guys	retro 2d shooter 2 characters city pixel graphics	2d shooter	6.0	16.0	Genre
+112	ID1	26	Best Buds vs Bad Guys	2d shooter fighter 2 characters city levels pixel graphics	2d	0.0	2.0	Graphic design
+112	ID1	26	Best Buds vs Bad Guys	2d shooter fighter 2 characters city levels pixel graphics	pixel graphics	44.0	58.0	Graphic design
+112	ID1	26	Best Buds vs Bad Guys	2d shooter fighter 2 characters city levels pixel graphics	2d shooter	0.0	10.0	Genre
+112	ID1	26	Best Buds vs Bad Guys	2d shooter fighter 2 characters city levels pixel graphics	fighter	11.0	18.0	Genre
+112	ID1	26	Best Buds vs Bad Guys	2d shooter fighter 2 characters city levels pixel graphics	2 characters	19.0	31.0	Gameplay mechanics
+112	ID1	26	Best Buds vs Bad Guys	2d shooter fighter 2 characters city levels pixel graphics	levels	37.0	43.0	Structure
+112	ID1	26	Best Buds vs Bad Guys	2d shooter fighter 2 characters city levels pixel graphics	city	32.0	36.0	Setting
+113	ID1	30	Best Buds vs Bad Guys	2d shooter 2 characters city levels pixel graphics	2d	0.0	2.0	Graphic design
+113	ID1	30	Best Buds vs Bad Guys	2d shooter 2 characters city levels pixel graphics	pixel graphics	36.0	50.0	Graphic design
+113	ID1	30	Best Buds vs Bad Guys	2d shooter 2 characters city levels pixel graphics	levels	29.0	35.0	Structure
+113	ID1	30	Best Buds vs Bad Guys	2d shooter 2 characters city levels pixel graphics	city	24.0	28.0	Setting
+113	ID1	30	Best Buds vs Bad Guys	2d shooter 2 characters city levels pixel graphics	2 characters	11.0	23.0	Gameplay mechanics
+113	ID1	30	Best Buds vs Bad Guys	2d shooter 2 characters city levels pixel graphics	2d shooter	0.0	10.0	Genre
+114	ID1	32	Best Buds vs Bad Guys	2d shooter 2 characters city levels pixel graphics game	pixel graphics	36.0	50.0	Graphic design
+114	ID1	32	Best Buds vs Bad Guys	2d shooter 2 characters city levels pixel graphics game	2d	0.0	2.0	Graphic design
+114	ID1	32	Best Buds vs Bad Guys	2d shooter 2 characters city levels pixel graphics game	2 characters	11.0	23.0	Gameplay mechanics
+114	ID1	32	Best Buds vs Bad Guys	2d shooter 2 characters city levels pixel graphics game	levels	29.0	35.0	Structure
+114	ID1	32	Best Buds vs Bad Guys	2d shooter 2 characters city levels pixel graphics game	city	24.0	28.0	Setting
+114	ID1	32	Best Buds vs Bad Guys	2d shooter 2 characters city levels pixel graphics game	2d shooter	0.0	10.0	Genre
+115	ID1	36	Best Buds vs Bad Guys	2d run and gun 2 characters city levels pixel graphics game	2d	0.0	2.0	Graphic design
+115	ID1	36	Best Buds vs Bad Guys	2d run and gun 2 characters city levels pixel graphics game	pixel graphics	40.0	54.0	Graphic design
+115	ID1	36	Best Buds vs Bad Guys	2d run and gun 2 characters city levels pixel graphics game	2 characters	15.0	27.0	Gameplay mechanics
+115	ID1	36	Best Buds vs Bad Guys	2d run and gun 2 characters city levels pixel graphics game	2d run and gun	0.0	14.0	Genre
+115	ID1	36	Best Buds vs Bad Guys	2d run and gun 2 characters city levels pixel graphics game	city	28.0	32.0	Setting
+115	ID1	36	Best Buds vs Bad Guys	2d run and gun 2 characters city levels pixel graphics game	levels	33.0	39.0	Structure
+116	ID1	41	Best Buds vs Bad Guys	2d run and gun low end pc game pixel 8 bit	2d	0.0	2.0	Graphic design
+116	ID1	41	Best Buds vs Bad Guys	2d run and gun low end pc game pixel 8 bit	2d run and gun	0.0	14.0	Genre
+116	ID1	41	Best Buds vs Bad Guys	2d run and gun low end pc game pixel 8 bit	low end pc game	15.0	30.0	Properties
+116	ID1	41	Best Buds vs Bad Guys	2d run and gun low end pc game pixel 8 bit	pixel 8 bit	31.0	42.0	Graphic design
+117	ID1	44	Best Buds vs Bad Guys	games like huntdown	games like huntdown	0.0	19.0	N/A
+118	ID1	49	Best Buds vs Bad Guys	games like huntdown and metal slug	games like huntdown and metal slug	0.0	34.0	N/A
+118	ID1	49	Best Buds vs Bad Guys	games like huntdown and metal slug	metal slug	24.0	34.0	Title
+118	ID1	49	Best Buds vs Bad Guys	games like huntdown and metal slug	huntdown	11.0	19.0	Availability
+119	ID1	54	Best Buds vs Bad Guys	Blazing Chrome	Blazing Chrome	0.0	14.0	Availability
+120	ID1	56	Best Buds vs Bad Guys	contra hard corps - genesis	genesis	20.0	27.0	Properties
+120	ID1	56	Best Buds vs Bad Guys	contra hard corps - genesis	contra hard corps	0.0	17.0	Availability
+121	ID2	2	Best Buds vs Bad Guys	Sidescroller roguelike shooter zwei personen single player	Sidescroller roguelike shooter	0.0	30.0	Genre
+121	ID2	2	Best Buds vs Bad Guys	Sidescroller roguelike shooter zwei personen single player	single player	45.0	58.0	Game mode
+121	ID2	2	Best Buds vs Bad Guys	Sidescroller roguelike shooter zwei personen single player	zwei personen	31.0	44.0	Gameplay mechanics
+122	ID2	6	Best Buds vs Bad Guys	gun force erstes level	gun force	0.0	9.0	Availability
+122	ID2	6	Best Buds vs Bad Guys	gun force erstes level	erstes level	10.0	22.0	Structure
+123	ID2	9	Best Buds vs Bad Guys	gun force erstes level	gun force	0.0	9.0	Availability
+123	ID2	9	Best Buds vs Bad Guys	gun force erstes level	erstes level	10.0	22.0	Structure
+124	ID2	11	Best Buds vs Bad Guys	gun force wiki	gun force	0.0	9.0	Availability
+125	ID2	15	Best Buds vs Bad Guys	gun force teile	gun force	0.0	9.0	Availability
+125	ID2	15	Best Buds vs Bad Guys	gun force teile	teile	10.0	15.0	Gameplay mechanics
+126	ID2	17	Best Buds vs Bad Guys	gun force 2 erstes level	gun force 2	0.0	11.0	Availability
+126	ID2	17	Best Buds vs Bad Guys	gun force 2 erstes level	erstes level	12.0	24.0	Structure
+127	ID2	24	Best Buds vs Bad Guys	sidescroller roguelike run and gun top 10	sidescroller roguelike run and gun	0.0	34.0	Genre
+127	ID2	24	Best Buds vs Bad Guys	sidescroller roguelike run and gun top 10	top 10	35.0	41.0	Popularity
+128	ID2	30	Best Buds vs Bad Guys	sidescroller shooter single player 8 bit	8 bit	35.0	40.0	Graphic design
+128	ID2	30	Best Buds vs Bad Guys	sidescroller shooter single player 8 bit	single player	21.0	34.0	Game mode
+128	ID2	30	Best Buds vs Bad Guys	sidescroller shooter single player 8 bit	sidescroller shooter	0.0	20.0	Genre
+129	ID2	36	Best Buds vs Bad Guys	gun force menu	gun force	0.0	9.0	Availability
+129	ID2	36	Best Buds vs Bad Guys	gun force menu	menu	10.0	14.0	Cutscene(s)
+130	ID2	43	Townscaper	tiny glade	tiny glade	0.0	10.0	Availability
+131	ID2	47	Townscaper	tiny glade alternative	tiny glade	0.0	10.0	Availability
+131	ID2	47	Townscaper	tiny glade alternative	alternative	11.0	22.0	N/A
+132	ID3	2	Best Buds vs Bad Guys	2d pixel graphic platform shooter	2d	0.0	2.0	Graphic design
+132	ID3	2	Best Buds vs Bad Guys	2d pixel graphic platform shooter	pixel graphic	3.0	16.0	Graphic design
+132	ID3	2	Best Buds vs Bad Guys	2d pixel graphic platform shooter	platform shooter	17.0	33.0	Genre
+133	ID3	9	Best Buds vs Bad Guys	2d pixel graphic platform shooter cyberpunk	2d	0.0	2.0	Graphic design
+133	ID3	9	Best Buds vs Bad Guys	2d pixel graphic platform shooter cyberpunk	pixel graphic	3.0	16.0	Graphic design
+133	ID3	9	Best Buds vs Bad Guys	2d pixel graphic platform shooter cyberpunk	platform shooter	17.0	33.0	Genre
+133	ID3	9	Best Buds vs Bad Guys	2d pixel graphic platform shooter cyberpunk	cyberpunk	34.0	43.0	Setting
+134	ID3	13	Best Buds vs Bad Guys	The Last Night	The Last Night	0.0	14.0	Availability
+135	ID3	23	Best Buds vs Bad Guys	2d pixel graphic platform shooter donkey kong like	2d	0.0	2.0	Graphic design
+135	ID3	23	Best Buds vs Bad Guys	2d pixel graphic platform shooter donkey kong like	pixel graphic	3.0	16.0	Graphic design
+135	ID3	23	Best Buds vs Bad Guys	2d pixel graphic platform shooter donkey kong like	platform shooter	17.0	33.0	Genre
+135	ID3	23	Best Buds vs Bad Guys	2d pixel graphic platform shooter donkey kong like	donkey kong	34.0	45.0	Availability
+135	ID3	23	Best Buds vs Bad Guys	2d pixel graphic platform shooter donkey kong like	donkey kong like	34.0	50.0	N/A
+136	ID3	32	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots and tanks	2d	0.0	2.0	Graphic design
+136	ID3	32	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots and tanks	pixel graphic	3.0	16.0	Graphic design
+136	ID3	32	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots and tanks	platform shooter	17.0	33.0	Genre
+136	ID3	32	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots and tanks	fighing against robots and tanks	34.0	66.0	Gameplay mechanics
+136	ID3	32	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots and tanks	robots and tanks	50.0	66.0	Character(s)
+137	ID3	34	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots	2d	0.0	2.0	Graphic design
+137	ID3	34	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots	pixel graphic	3.0	16.0	Graphic design
+137	ID3	34	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots	platform shooter	17.0	33.0	Genre
+137	ID3	34	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots	fighing against robots	34.0	56.0	Gameplay mechanics
+137	ID3	34	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots	robots	50.0	56.0	Character(s)
+138	ID3	39	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots	2d	0.0	2.0	Graphic design
+138	ID3	39	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots	pixel graphic	3.0	16.0	Graphic design
+138	ID3	39	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots	platform shooter	17.0	33.0	Genre
+138	ID3	39	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots	robots	50.0	56.0	Character(s)
+138	ID3	39	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots	fighing against robots	34.0	56.0	Gameplay mechanics
+139	ID3	42	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots keyboard controlled	2d	0.0	2.0	Graphic design
+139	ID3	42	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots keyboard controlled	pixel graphic	3.0	16.0	Graphic design
+139	ID3	42	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots keyboard controlled	platform shooter	17.0	33.0	Genre
+139	ID3	42	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots keyboard controlled	robots	50.0	56.0	Character(s)
+139	ID3	42	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots keyboard controlled	fighing against robots	34.0	56.0	Gameplay mechanics
+139	ID3	42	Best Buds vs Bad Guys	2d pixel graphic platform shooter fighing against robots keyboard controlled	keyboard controlled	57.0	76.0	Controls
+140	ID3	45	Best Buds vs Bad Guys	superfighter	superfighter	0.0	12.0	Availability
+141	ID3	50	Townscaper	cozy game, fixed grid 3d placing buildings	cozy	0.0	4.0	Mood
+141	ID3	50	Townscaper	cozy game, fixed grid 3d placing buildings	cozy game	0.0	9.0	Genre
+141	ID3	50	Townscaper	cozy game, fixed grid 3d placing buildings	fixed grid 3d placing buildings	11.0	42.0	Gameplay mechanics
+141	ID3	50	Townscaper	cozy game, fixed grid 3d placing buildings	3d	22.0	24.0	Perspective
+142	ID3	56	Townscaper	"cozy game, fixed grid 3d placing buildings -""hexagon"""	cozy	0.0	4.0	Mood
+142	ID3	56	Townscaper	"cozy game, fixed grid 3d placing buildings -""hexagon"""	cozy game	0.0	9.0	Genre
+142	ID3	56	Townscaper	"cozy game, fixed grid 3d placing buildings -""hexagon"""	"fixed grid 3d placing buildings -""hexagon"""	11.0	53.0	Gameplay mechanics
+142	ID3	56	Townscaper	"cozy game, fixed grid 3d placing buildings -""hexagon"""	3d	22.0	24.0	Perspective
+143	ID3	59	Townscaper	"cozy game, fixed grid 3d placing buildings -""hexagon"""	3d	22.0	24.0	Perspective
+143	ID3	59	Townscaper	"cozy game, fixed grid 3d placing buildings -""hexagon"""	cozy	0.0	4.0	Mood
+143	ID3	59	Townscaper	"cozy game, fixed grid 3d placing buildings -""hexagon"""	cozy game	0.0	9.0	Genre
+143	ID3	59	Townscaper	"cozy game, fixed grid 3d placing buildings -""hexagon"""	"fixed grid 3d placing buildings -""hexagon"""	11.0	53.0	Gameplay mechanics
+144	ID3	64	Townscaper	"cozy game, fixed grid irregular shapes 3d placing buildings -""hexagon"""	3d	39.0	41.0	Perspective
+144	ID3	64	Townscaper	"cozy game, fixed grid irregular shapes 3d placing buildings -""hexagon"""	cozy	0.0	4.0	Mood
+144	ID3	64	Townscaper	"cozy game, fixed grid irregular shapes 3d placing buildings -""hexagon"""	cozy game	0.0	9.0	Genre
+144	ID3	64	Townscaper	"cozy game, fixed grid irregular shapes 3d placing buildings -""hexagon"""	"fixed grid irregular shapes 3d placing buildings -""hexagon"""	11.0	70.0	Gameplay mechanics
+145	ID3	67	Townscaper	"cozy game, fixed grid irregular shapes 3d placing buildings -""hexagon"""	3d	39.0	41.0	Perspective
+145	ID3	67	Townscaper	"cozy game, fixed grid irregular shapes 3d placing buildings -""hexagon"""	cozy	0.0	4.0	Mood
+145	ID3	67	Townscaper	"cozy game, fixed grid irregular shapes 3d placing buildings -""hexagon"""	cozy game	0.0	9.0	Genre
+145	ID3	67	Townscaper	"cozy game, fixed grid irregular shapes 3d placing buildings -""hexagon"""	"fixed grid irregular shapes 3d placing buildings -""hexagon"""	11.0	70.0	Gameplay mechanics
+146	ID4	2	Townscaper	Computerspiel open world meer brücken häuser	Computerspiel	0.0	13.0	Properties
+146	ID4	2	Townscaper	Computerspiel open world meer brücken häuser	meer	25.0	29.0	Setting
+146	ID4	2	Townscaper	Computerspiel open world meer brücken häuser	open world meer brücken häuser	14.0	44.0	Gameplay mechanics
+146	ID4	2	Townscaper	Computerspiel open world meer brücken häuser	open world	14.0	24.0	Genre
+147	ID4	5	Townscaper	Computerspiel open world meer brücken häuser	Computerspiel	0.0	13.0	Properties
+147	ID4	5	Townscaper	Computerspiel open world meer brücken häuser	open world	14.0	24.0	Genre
+147	ID4	5	Townscaper	Computerspiel open world meer brücken häuser	meer	25.0	29.0	Setting
+147	ID4	5	Townscaper	Computerspiel open world meer brücken häuser	open world meer brücken häuser	14.0	44.0	Gameplay mechanics
+148	ID4	10	Best Buds vs Bad Guys	Computerspiel Jump and Run downtown	Computerspiel	0.0	13.0	Properties
+148	ID4	10	Best Buds vs Bad Guys	Computerspiel Jump and Run downtown	Jump and Run	14.0	26.0	Genre
+148	ID4	10	Best Buds vs Bad Guys	Computerspiel Jump and Run downtown	downtown	27.0	35.0	Setting
+149	ID4	12	Best Buds vs Bad Guys	Computerspiel Jump and Run downtown	Computerspiel	0.0	13.0	Properties
+149	ID4	12	Best Buds vs Bad Guys	Computerspiel Jump and Run downtown	Jump and Run	14.0	26.0	Genre
+149	ID4	12	Best Buds vs Bad Guys	Computerspiel Jump and Run downtown	downtown	27.0	35.0	Setting
+150	ID4	14	Best Buds vs Bad Guys	Computerspiel roboter downtown	downtown	22.0	30.0	Setting
+150	ID4	14	Best Buds vs Bad Guys	Computerspiel roboter downtown	roboter	14.0	21.0	Character(s)
+150	ID4	14	Best Buds vs Bad Guys	Computerspiel roboter downtown	Computerspiel	0.0	13.0	Properties
+151	ID4	17	Best Buds vs Bad Guys	Computerspiel roboter downtown	Computerspiel	0.0	13.0	Properties
+151	ID4	17	Best Buds vs Bad Guys	Computerspiel roboter downtown	roboter	14.0	21.0	Character(s)
+151	ID4	17	Best Buds vs Bad Guys	Computerspiel roboter downtown	downtown	22.0	30.0	Setting
+152	ID4	19	Best Buds vs Bad Guys	Computerspiel roboter downtown Jump and run 2D	Computerspiel	0.0	13.0	Properties
+152	ID4	19	Best Buds vs Bad Guys	Computerspiel roboter downtown Jump and run 2D	roboter	14.0	21.0	Character(s)
+152	ID4	19	Best Buds vs Bad Guys	Computerspiel roboter downtown Jump and run 2D	downtown	22.0	30.0	Setting
+152	ID4	19	Best Buds vs Bad Guys	Computerspiel roboter downtown Jump and run 2D	2D	44.0	46.0	Graphic design
+152	ID4	19	Best Buds vs Bad Guys	Computerspiel roboter downtown Jump and run 2D	Jump and run 2D	31.0	46.0	Genre
+153	ID4	22	Best Buds vs Bad Guys	Computerspiel roboter downtown Jump and run 2D	Computerspiel	0.0	13.0	Properties
+153	ID4	22	Best Buds vs Bad Guys	Computerspiel roboter downtown Jump and run 2D	roboter	14.0	21.0	Character(s)
+153	ID4	22	Best Buds vs Bad Guys	Computerspiel roboter downtown Jump and run 2D	downtown	22.0	30.0	Setting
+153	ID4	22	Best Buds vs Bad Guys	Computerspiel roboter downtown Jump and run 2D	2D	44.0	46.0	Graphic design
+153	ID4	22	Best Buds vs Bad Guys	Computerspiel roboter downtown Jump and run 2D	Jump and run 2D	31.0	46.0	Genre
+154	ID4	25	Best Buds vs Bad Guys	Computerspiel roboter downtown Jump and run 2D	Computerspiel	0.0	13.0	Properties
+154	ID4	25	Best Buds vs Bad Guys	Computerspiel roboter downtown Jump and run 2D	roboter	14.0	21.0	Character(s)
+154	ID4	25	Best Buds vs Bad Guys	Computerspiel roboter downtown Jump and run 2D	downtown	22.0	30.0	Setting
+154	ID4	25	Best Buds vs Bad Guys	Computerspiel roboter downtown Jump and run 2D	2D	44.0	46.0	Graphic design
+154	ID4	25	Best Buds vs Bad Guys	Computerspiel roboter downtown Jump and run 2D	Jump and run 2D	31.0	46.0	Genre
+155	ID4	29	Best Buds vs Bad Guys	Computerspiel roboter downtown 2D	Computerspiel	0.0	13.0	Properties
+155	ID4	29	Best Buds vs Bad Guys	Computerspiel roboter downtown 2D	downtown	22.0	30.0	Setting
+155	ID4	29	Best Buds vs Bad Guys	Computerspiel roboter downtown 2D	2D	31.0	33.0	Graphic design
+155	ID4	29	Best Buds vs Bad Guys	Computerspiel roboter downtown 2D	roboter	14.0	21.0	Character(s)
+156	ID4	32	Best Buds vs Bad Guys	Computerspiel roboter downtown 2D	Computerspiel	0.0	13.0	Properties
+156	ID4	32	Best Buds vs Bad Guys	Computerspiel roboter downtown 2D	roboter	14.0	21.0	Character(s)
+156	ID4	32	Best Buds vs Bad Guys	Computerspiel roboter downtown 2D	downtown	22.0	30.0	Setting
+156	ID4	32	Best Buds vs Bad Guys	Computerspiel roboter downtown 2D	2D	31.0	33.0	Graphic design
+157	ID4	37	Best Buds vs Bad Guys	Computerspiel roboter schießen 	Computerspiel	0.0	13.0	Properties
+157	ID4	37	Best Buds vs Bad Guys	Computerspiel roboter schießen 	roboter	14.0	21.0	Character(s)
+157	ID4	37	Best Buds vs Bad Guys	Computerspiel roboter schießen 	schießen	22.0	30.0	Gameplay mechanics
+158	ID4	39	Best Buds vs Bad Guys	Computerspiel downtown nachts pixel	Computerspiel	0.0	13.0	Properties
+158	ID4	39	Best Buds vs Bad Guys	Computerspiel downtown nachts pixel	downtown	14.0	22.0	Setting
+158	ID4	39	Best Buds vs Bad Guys	Computerspiel downtown nachts pixel	nachts	23.0	29.0	Time
+158	ID4	39	Best Buds vs Bad Guys	Computerspiel downtown nachts pixel	pixel	30.0	35.0	Graphic design
+159	ID4	41	Best Buds vs Bad Guys	Computerspiel downtown nachts pixel robotor	Computerspiel	0.0	13.0	Properties
+159	ID4	41	Best Buds vs Bad Guys	Computerspiel downtown nachts pixel robotor	downtown	14.0	22.0	Setting
+159	ID4	41	Best Buds vs Bad Guys	Computerspiel downtown nachts pixel robotor	nachts	23.0	29.0	Time
+159	ID4	41	Best Buds vs Bad Guys	Computerspiel downtown nachts pixel robotor	pixel	30.0	35.0	Graphic design
+159	ID4	41	Best Buds vs Bad Guys	Computerspiel downtown nachts pixel robotor	robotor	36.0	43.0	Character(s)
+160	ID4	44	Best Buds vs Bad Guys	Computerspiel downtown nachts pixel robotor	Computerspiel	0.0	13.0	Properties
+160	ID4	44	Best Buds vs Bad Guys	Computerspiel downtown nachts pixel robotor	downtown	14.0	22.0	Setting
+160	ID4	44	Best Buds vs Bad Guys	Computerspiel downtown nachts pixel robotor	nachts	23.0	29.0	Time
+160	ID4	44	Best Buds vs Bad Guys	Computerspiel downtown nachts pixel robotor	pixel	30.0	35.0	Graphic design
+160	ID4	44	Best Buds vs Bad Guys	Computerspiel downtown nachts pixel robotor	robotor	36.0	43.0	Character(s)
+161	ID4	46	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run shooter	Computerspiel	0.0	13.0	Properties
+161	ID4	46	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run shooter	downtown	14.0	22.0	Setting
+161	ID4	46	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run shooter	robots	23.0	29.0	Character(s)
+161	ID4	46	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run shooter	jump and run shooter	30.0	50.0	Genre
+162	ID4	49	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run shooter	Computerspiel	0.0	13.0	Properties
+162	ID4	49	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run shooter	downtown	14.0	22.0	Setting
+162	ID4	49	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run shooter	robots	23.0	29.0	Character(s)
+162	ID4	49	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run shooter	jump and run shooter	30.0	50.0	Genre
+163	ID4	51	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run 	Computerspiel	0.0	13.0	Properties
+163	ID4	51	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run 	downtown	14.0	22.0	Setting
+163	ID4	51	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run 	robots	23.0	29.0	Character(s)
+163	ID4	51	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run 	jump and run	30.0	42.0	Genre
+164	ID4	54	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run 2D	Computerspiel	0.0	13.0	Properties
+164	ID4	54	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run 2D	downtown	14.0	22.0	Setting
+164	ID4	54	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run 2D	robots	23.0	29.0	Character(s)
+164	ID4	54	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run 2D	jump and run 2D	30.0	45.0	Genre
+165	ID4	57	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run 2D	Computerspiel	0.0	13.0	Properties
+165	ID4	57	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run 2D	downtown	14.0	22.0	Setting
+165	ID4	57	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run 2D	robots	23.0	29.0	Character(s)
+165	ID4	57	Best Buds vs Bad Guys	Computerspiel downtown robots jump and run 2D	jump and run 2D	30.0	45.0	Genre
+166	ID4	60	Best Buds vs Bad Guys	"Computerspiel ""downtown"" robots jump and run 2D"	Computerspiel	0.0	13.0	Properties
+166	ID4	60	Best Buds vs Bad Guys	"Computerspiel ""downtown"" robots jump and run 2D"	"""downtown"""	14.0	24.0	Setting
+166	ID4	60	Best Buds vs Bad Guys	"Computerspiel ""downtown"" robots jump and run 2D"	robots	25.0	31.0	Character(s)
+166	ID4	60	Best Buds vs Bad Guys	"Computerspiel ""downtown"" robots jump and run 2D"	jump and run 2D	32.0	47.0	Genre
+167	ID4	63	Best Buds vs Bad Guys	Goin Downtown	Goin Downtown	0.0	13.0	Title
+168	ID5	2	Best Buds vs Bad Guys	chatgpt	chatgpt	0.0	7.0	N/A
+169	ID5	5	Best Buds vs Bad Guys	"Ich suche ein Videospiel von steam
+Es ist ein 2d shooter. Sieht aus als wäre er aus den 80. Man kann treppen un ketten hochlaufen und gegner töten. Wenn man auf Fässer schießt kriegt man Heilung in form von zb. Burgern."	steam	29.0	34.0	Publisher
+169	ID5	5	Best Buds vs Bad Guys	"Ich suche ein Videospiel von steam
+Es ist ein 2d shooter. Sieht aus als wäre er aus den 80. Man kann treppen un ketten hochlaufen und gegner töten. Wenn man auf Fässer schießt kriegt man Heilung in form von zb. Burgern."	2d	46.0	48.0	Graphic design
+169	ID5	5	Best Buds vs Bad Guys	"Ich suche ein Videospiel von steam
+Es ist ein 2d shooter. Sieht aus als wäre er aus den 80. Man kann treppen un ketten hochlaufen und gegner töten. Wenn man auf Fässer schießt kriegt man Heilung in form von zb. Burgern."	2d shooter	46.0	56.0	Genre
+169	ID5	5	Best Buds vs Bad Guys	"Ich suche ein Videospiel von steam
+Es ist ein 2d shooter. Sieht aus als wäre er aus den 80. Man kann treppen un ketten hochlaufen und gegner töten. Wenn man auf Fässer schießt kriegt man Heilung in form von zb. Burgern."	Sieht aus als wäre er aus den 80	58.0	90.0	Graphic design
+169	ID5	5	Best Buds vs Bad Guys	"Ich suche ein Videospiel von steam
+Es ist ein 2d shooter. Sieht aus als wäre er aus den 80. Man kann treppen un ketten hochlaufen und gegner töten. Wenn man auf Fässer schießt kriegt man Heilung in form von zb. Burgern."	Man kann treppen un ketten hochlaufen und gegner töten	92.0	146.0	Gameplay mechanics
+169	ID5	5	Best Buds vs Bad Guys	"Ich suche ein Videospiel von steam
+Es ist ein 2d shooter. Sieht aus als wäre er aus den 80. Man kann treppen un ketten hochlaufen und gegner töten. Wenn man auf Fässer schießt kriegt man Heilung in form von zb. Burgern."	Wenn man auf Fässer schießt kriegt man Heilung in form von zb. Burgern.	148.0	219.0	Gameplay mechanics
+170	ID5	7	Best Buds vs Bad Guys	zeige mir bilder				NO_CAT
+171	ID5	9	Best Buds vs Bad Guys	unten links sind beim spiel kleine köpfe zusehen die wiederspiegeln wie viele leben man noch hat	unten links sind beim spiel kleine köpfe zusehen die wiederspiegeln wie viele leben man noch hat	0.0	96.0	Graphic design
+172	ID5	12	Best Buds vs Bad Guys	guns gore and cannoli	guns gore and cannoli	0.0	21.0	Title
+173	ID5	14	Best Buds vs Bad Guys	guns gore and cannoli	guns gore and cannoli	0.0	21.0	Title
+174	ID5	16	Best Buds vs Bad Guys	huntdown steam	huntdown	0.0	8.0	Title
+174	ID5	16	Best Buds vs Bad Guys	huntdown steam	steam	9.0	14.0	Publisher
+175	ID5	20	Best Buds vs Bad Guys	es gab auch gegner die explosive fässer werfen.	es gab auch gegner die explosive fässer werfen.	0.0	47.0	Gameplay mechanics
+175	ID5	20	Best Buds vs Bad Guys	es gab auch gegner die explosive fässer werfen.	gegner die explosive fässer werfen.	12.0	47.0	Character(s)
+176	ID5	23	Best Buds vs Bad Guys	guns gore and cannoli 2	guns gore and cannoli 2	0.0	23.0	Title
+177	ID5	27	Best Buds vs Bad Guys	guns gore and cannoli 2 level easy	guns gore and cannoli 2	0.0	23.0	Title
+177	ID5	27	Best Buds vs Bad Guys	guns gore and cannoli 2 level easy	level	24.0	29.0	Structure
+178	ID5	30	Best Buds vs Bad Guys	ist eher in einer stadt ohne den mafia kram	in einer stadt	9.0	23.0	Setting
+178	ID5	30	Best Buds vs Bad Guys	ist eher in einer stadt ohne den mafia kram	den mafia kram	29.0	43.0	Character(s)
+179	ID5	32	Best Buds vs Bad Guys	the takeover steam	steam	13.0	18.0	Publisher
+179	ID5	32	Best Buds vs Bad Guys	the takeover steam	the takeover	0.0	12.0	Title
+180	ID5	34	Best Buds vs Bad Guys	the takeover steam	the takeover	0.0	12.0	Title
+180	ID5	34	Best Buds vs Bad Guys	the takeover steam	steam	13.0	18.0	Publisher
+181	ID5	38	Best Buds vs Bad Guys	blazing chrome	blazing chrome	0.0	14.0	Availability
+182	ID5	42	Best Buds vs Bad Guys	man startet bei dem viel in einem raum und verlässt ihn sozusagen started damit das level. es ist außerbem nur keyboard und man schießt mit z	es ist außerbem nur keyboard und man schießt mit z	91.0	141.0	Controls
+182	ID5	42	Best Buds vs Bad Guys	man startet bei dem viel in einem raum und verlässt ihn sozusagen started damit das level. es ist außerbem nur keyboard und man schießt mit z	man startet bei dem viel in einem raum	0.0	38.0	Setting
+182	ID5	42	Best Buds vs Bad Guys	man startet bei dem viel in einem raum und verlässt ihn sozusagen started damit das level. es ist außerbem nur keyboard und man schießt mit z	man startet bei dem viel in einem raum und verlässt ihn sozusagen started damit das level.	0.0	90.0	Structure
+183	ID5	46	Best Buds vs Bad Guys	man steuert nur einen charakter aber es gibt noch einen zweiten der bewegung und schießen imitiert	man steuert nur einen charakter aber es gibt noch einen zweiten der bewegung und schießen imitiert	0.0	98.0	Gameplay mechanics
+183	ID5	46	Best Buds vs Bad Guys	man steuert nur einen charakter aber es gibt noch einen zweiten der bewegung und schießen imitiert	es gibt noch einen zweiten der bewegung und schießen imitiert	37.0	98.0	Character(s)
+184	ID5	54	Townscaper	city buiding game cozy	city buiding	0.0	12.0	Publisher
+184	ID5	54	Townscaper	city buiding game cozy	cozy	18.0	22.0	Publisher
+184	ID5	54	Townscaper	city buiding game cozy	cozy	18.0	22.0	Mood
+185	ID5	57	Townscaper	city buiding game browser	city buiding	0.0	12.0	Publisher
+185	ID5	57	Townscaper	city buiding game browser	browser	18.0	25.0	Properties
+186	ID6	1	Townscaper	chat gpt	chat gpt	0.0	8.0	N/A
+187	ID6	3	Townscaper	also ih such ein videospiel das man nur mit der maus spielen kann man startet mit einem leeren wasseroberfläche und kann verschiedene farben auswwahlen durch mausklicken kann man plattformen bauchen und durch ein erneutes klicken ein haus drauf bauen 	nur mit der maus	36.0	52.0	Controls
+187	ID6	3	Townscaper	also ih such ein videospiel das man nur mit der maus spielen kann man startet mit einem leeren wasseroberfläche und kann verschiedene farben auswwahlen durch mausklicken kann man plattformen bauchen und durch ein erneutes klicken ein haus drauf bauen 	einem leeren wasseroberfläche	82.0	111.0	Setting
+187	ID6	3	Townscaper	also ih such ein videospiel das man nur mit der maus spielen kann man startet mit einem leeren wasseroberfläche und kann verschiedene farben auswwahlen durch mausklicken kann man plattformen bauchen und durch ein erneutes klicken ein haus drauf bauen 	man startet mit einem leeren wasseroberfläche und kann verschiedene farben auswwahlen durch mausklicken kann man plattformen bauchen und durch ein erneutes klicken ein haus drauf bauen	66.0	250.0	Gameplay mechanics
+188	ID6	5	Townscaper	townscraper	townscraper	0.0	11.0	Title
+189	ID6	9	Best Buds vs Bad Guys	chat gpt	chat gpt	0.0	8.0	N/A
+190	ID6	11	Best Buds vs Bad Guys	ich suche ein computerspiel welches man nur mit der tastatur spiel in dem spiel ist stuert man gleichzeitig zwei personen bei der hinteren person kommen baer die kommodos mit ein bisschen delay an ziel des spiels ist ein weg zu vollbringen man wird währendessen von gegenspielern angregriffen und muss diese zerstören das spiel gibt arcade spiel vibes und hat acuh eine dazu passende musik	computerspiel	14.0	27.0	Properties
+190	ID6	11	Best Buds vs Bad Guys	ich suche ein computerspiel welches man nur mit der tastatur spiel in dem spiel ist stuert man gleichzeitig zwei personen bei der hinteren person kommen baer die kommodos mit ein bisschen delay an ziel des spiels ist ein weg zu vollbringen man wird währendessen von gegenspielern angregriffen und muss diese zerstören das spiel gibt arcade spiel vibes und hat acuh eine dazu passende musik	nur mit der tastatur	40.0	60.0	Controls
+190	ID6	11	Best Buds vs Bad Guys	ich suche ein computerspiel welches man nur mit der tastatur spiel in dem spiel ist stuert man gleichzeitig zwei personen bei der hinteren person kommen baer die kommodos mit ein bisschen delay an ziel des spiels ist ein weg zu vollbringen man wird währendessen von gegenspielern angregriffen und muss diese zerstören das spiel gibt arcade spiel vibes und hat acuh eine dazu passende musik	arcade spiel vibes	333.0	351.0	Mood
+190	ID6	11	Best Buds vs Bad Guys	ich suche ein computerspiel welches man nur mit der tastatur spiel in dem spiel ist stuert man gleichzeitig zwei personen bei der hinteren person kommen baer die kommodos mit ein bisschen delay an ziel des spiels ist ein weg zu vollbringen man wird währendessen von gegenspielern angregriffen und muss diese zerstören das spiel gibt arcade spiel vibes und hat acuh eine dazu passende musik	arcade spiel vibes und hat acuh eine dazu passende musik	333.0	389.0	Sound design
+190	ID6	11	Best Buds vs Bad Guys	ich suche ein computerspiel welches man nur mit der tastatur spiel in dem spiel ist stuert man gleichzeitig zwei personen bei der hinteren person kommen baer die kommodos mit ein bisschen delay an ziel des spiels ist ein weg zu vollbringen man wird währendessen von gegenspielern angregriffen und muss diese zerstören das spiel gibt arcade spiel vibes und hat acuh eine dazu passende musik	in dem spiel ist stuert man gleichzeitig zwei personen bei der hinteren person kommen baer die kommodos mit ein bisschen delay an ziel des spiels ist ein weg zu vollbringen man wird währendessen von gegenspielern angregriffen und muss diese zerstören	67.0	317.0	Gameplay mechanics
+191	ID6	13	Best Buds vs Bad Guys	es waren zwei personen aber sie haben sich gleich bewegt was für details bruavhst du noch damit du das spiel findest	es waren zwei personen aber sie haben sich gleich bewegt	0.0	56.0	Gameplay mechanics
+192	ID6	15	Best Buds vs Bad Guys	zwei d dauerhaft sichtbar peiltasten schiesen mit z und springen mit leertaste plattformen springen pixelart	zwei d dauerhaft sichtbar peiltasten schiesen mit z und springen mit leertaste plattformen springen	0.0	99.0	Controls
+192	ID6	15	Best Buds vs Bad Guys	zwei d dauerhaft sichtbar peiltasten schiesen mit z und springen mit leertaste plattformen springen pixelart	pixelart	100.0	108.0	Graphic design
+193	ID6	21	Best Buds vs Bad Guys	wie wurdest du ein spiel suchen				NO_CAT
+194	ID6	23	Best Buds vs Bad Guys	keines dieser spiele ist es hast du eine website mit der ich spiele rausfinden kann	keines dieser spiele ist es	0.0	27.0	Not this one
+195	ID6	27	Best Buds vs Bad Guys	ich hab doch den namen nicht mit beschreiben will ich das spiel rausfinden				NO_CAT
+196	ID6	30	Best Buds vs Bad Guys	ein arcade ähnliches spiel mit musik in dem man zwei figuren steuert weöche die selben kommondos folgen	ein arcade ähnliches spiel	0.0	26.0	Genre
+196	ID6	30	Best Buds vs Bad Guys	ein arcade ähnliches spiel mit musik in dem man zwei figuren steuert weöche die selben kommondos folgen	mit musik	27.0	36.0	Sound design
+196	ID6	30	Best Buds vs Bad Guys	ein arcade ähnliches spiel mit musik in dem man zwei figuren steuert weöche die selben kommondos folgen	man zwei figuren steuert weöche die selben kommondos folgen	44.0	103.0	Gameplay mechanics
+197	ID6	32	Best Buds vs Bad Guys	ein in dem man zwei figuren steuert weöche die selben kommondos folgen	ein in dem man zwei figuren steuert weöche die selben kommondos folgen	0.0	70.0	Gameplay mechanics
+198	ID6	40	Best Buds vs Bad Guys	ai fragen ohne anmeldung				NO_CAT
+199	ID7	2	Best Buds vs Bad Guys	jumpnrun shooter pixel auflösung	pixel	17.0	22.0	Graphic design
+199	ID7	2	Best Buds vs Bad Guys	jumpnrun shooter pixel auflösung	jumpnrun shooter	0.0	16.0	Genre
+200	ID7	4	Best Buds vs Bad Guys	jumpnrun shooter pixel auflösung beispiele	jumpnrun shooter	0.0	16.0	Genre
+200	ID7	4	Best Buds vs Bad Guys	jumpnrun shooter pixel auflösung beispiele	pixel	17.0	22.0	Graphic design
+201	ID7	8	Best Buds vs Bad Guys	ich suche ein Spiel dass ich kürzlich für 10 Minuten gespielt habe. Das Spiel ist ein jumpnrun Shooter mit einer pixelartigrn Auflösung und ist mit Musik und Ästhetik sehr 90er like	jumpnrun Shooter	86.0	102.0	Genre
+201	ID7	8	Best Buds vs Bad Guys	ich suche ein Spiel dass ich kürzlich für 10 Minuten gespielt habe. Das Spiel ist ein jumpnrun Shooter mit einer pixelartigrn Auflösung und ist mit Musik und Ästhetik sehr 90er like	pixelartigrn Auflösung	113.0	135.0	Graphic design
+201	ID7	8	Best Buds vs Bad Guys	ich suche ein Spiel dass ich kürzlich für 10 Minuten gespielt habe. Das Spiel ist ein jumpnrun Shooter mit einer pixelartigrn Auflösung und ist mit Musik und Ästhetik sehr 90er like	Ästhetik sehr 90er like	158.0	181.0	Graphic design
+201	ID7	8	Best Buds vs Bad Guys	ich suche ein Spiel dass ich kürzlich für 10 Minuten gespielt habe. Das Spiel ist ein jumpnrun Shooter mit einer pixelartigrn Auflösung und ist mit Musik und Ästhetik sehr 90er like	Musik	148.0	153.0	Sound design
+201	ID7	8	Best Buds vs Bad Guys	ich suche ein Spiel dass ich kürzlich für 10 Minuten gespielt habe. Das Spiel ist ein jumpnrun Shooter mit einer pixelartigrn Auflösung und ist mit Musik und Ästhetik sehr 90er like	sehr 90er like	167.0	181.0	Sound design
+202	ID7	10	Best Buds vs Bad Guys	Ich suche ein Spiel welches ich vor kurzem 10 minuten gespielt habe das spiel war ein jumpnrun shooter pixelartig und 90er like	jumpnrun shooter	86.0	102.0	Genre
+202	ID7	10	Best Buds vs Bad Guys	Ich suche ein Spiel welches ich vor kurzem 10 minuten gespielt habe das spiel war ein jumpnrun shooter pixelartig und 90er like	pixelartig und 90er like	103.0	127.0	Graphic design
+203	ID7	12	Best Buds vs Bad Guys	2d seitlich aber unsciher, lasergun,bunt aber dystopisch, ja schnelles movement, einzelspieler, monster die man beschiessen muss wie zum beispiel donkey kong artige Monster die explosive fässer auf mich werfen oder auch Roboter oder Soldaten	2d	0.0	2.0	Graphic design
+203	ID7	12	Best Buds vs Bad Guys	2d seitlich aber unsciher, lasergun,bunt aber dystopisch, ja schnelles movement, einzelspieler, monster die man beschiessen muss wie zum beispiel donkey kong artige Monster die explosive fässer auf mich werfen oder auch Roboter oder Soldaten	dystopisch	46.0	56.0	Mood
+203	ID7	12	Best Buds vs Bad Guys	2d seitlich aber unsciher, lasergun,bunt aber dystopisch, ja schnelles movement, einzelspieler, monster die man beschiessen muss wie zum beispiel donkey kong artige Monster die explosive fässer auf mich werfen oder auch Roboter oder Soldaten	lasergun,bunt aber dystopisch, ja schnelles movement, einzelspieler, monster die man beschiessen muss wie zum beispiel donkey kong artige Monster die explosive fässer auf mich werfen oder auch Roboter oder Soldaten	27.0	241.0	Gameplay mechanics
+203	ID7	12	Best Buds vs Bad Guys	2d seitlich aber unsciher, lasergun,bunt aber dystopisch, ja schnelles movement, einzelspieler, monster die man beschiessen muss wie zum beispiel donkey kong artige Monster die explosive fässer auf mich werfen oder auch Roboter oder Soldaten	Soldaten	233.0	241.0	Character(s)
+203	ID7	12	Best Buds vs Bad Guys	2d seitlich aber unsciher, lasergun,bunt aber dystopisch, ja schnelles movement, einzelspieler, monster die man beschiessen muss wie zum beispiel donkey kong artige Monster die explosive fässer auf mich werfen oder auch Roboter oder Soldaten	Roboter	220.0	227.0	Character(s)
+203	ID7	12	Best Buds vs Bad Guys	2d seitlich aber unsciher, lasergun,bunt aber dystopisch, ja schnelles movement, einzelspieler, monster die man beschiessen muss wie zum beispiel donkey kong artige Monster die explosive fässer auf mich werfen oder auch Roboter oder Soldaten	donkey kong artige Monster	146.0	172.0	Character(s)
+204	ID7	23	Best Buds vs Bad Guys	huntdown video spiel	huntdown	0.0	8.0	Title
+205	ID7	31	Best Buds vs Bad Guys	videospiel suchmaschinen steam	steam	25.0	30.0	Publisher
+206	ID7	34	Best Buds vs Bad Guys	MaGOG	MaGOG	0.0	5.0	Title
+207	ID7	36	Best Buds vs Bad Guys	MaGOG videospiel	MaGOG	0.0	5.0	Title
+208	ID7	40	Townscaper	videospiel aufbauen auf offenen meer	offenen meer	24.0	36.0	Setting
+208	ID7	40	Townscaper	videospiel aufbauen auf offenen meer	aufbauen auf offenen meer	11.0	36.0	Gameplay mechanics
+209	ID7	42	Townscaper	Chatgpt	Chatgpt	0.0	7.0	N/A
+210	ID7	45	Townscaper	ich suche ein spiel das ich 10 min gespielt habe, es ist ein ruhiges aufbauspiel welchea ausschliesslich auf dem offenen meer stattfindet dort kann man seine häuser bauen	ruhiges	61.0	68.0	Mood
+210	ID7	45	Townscaper	ich suche ein spiel das ich 10 min gespielt habe, es ist ein ruhiges aufbauspiel welchea ausschliesslich auf dem offenen meer stattfindet dort kann man seine häuser bauen	offenen meer	113.0	125.0	Setting
+210	ID7	45	Townscaper	ich suche ein spiel das ich 10 min gespielt habe, es ist ein ruhiges aufbauspiel welchea ausschliesslich auf dem offenen meer stattfindet dort kann man seine häuser bauen	aufbauspiel	69.0	80.0	Genre
+210	ID7	45	Townscaper	ich suche ein spiel das ich 10 min gespielt habe, es ist ein ruhiges aufbauspiel welchea ausschliesslich auf dem offenen meer stattfindet dort kann man seine häuser bauen	auf dem offenen meer stattfindet dort kann man seine häuser bauen	105.0	170.0	Gameplay mechanics
+211	ID7	49	Townscaper	es ist wirklich ganz simpel man baut nur häuser und einen steg man kann die häuser nicht mal grossartig modifizierenlediglich die farbe ändern	man baut nur häuser und einen steg man kann die häuser nicht mal grossartig modifizierenlediglich die farbe ändern	28.0	142.0	Gameplay mechanics
+212	ID8	2	Townscaper	Google	Google	0.0	6.0	N/A
+213	ID8	3	Townscaper	indie games 2026	indie games	0.0	11.0	Publisher
+213	ID8	3	Townscaper	indie games 2026	2026	12.0	16.0	Release date
+214	ID8	7	Townscaper	indie aufbau games 2026	2026	19.0	23.0	Release date
+214	ID8	7	Townscaper	indie aufbau games 2026	aufbau games	6.0	18.0	Genre
+214	ID8	7	Townscaper	indie aufbau games 2026	indie	0.0	5.0	Publisher
+215	ID8	15	Townscaper	indie aufbau games	indie	0.0	5.0	Publisher
+215	ID8	15	Townscaper	indie aufbau games	aufbau games	6.0	18.0	Genre
+216	ID8	17	Townscaper	indie aufbau game sstadt auf dem Wasser bauen	indie	0.0	5.0	Publisher
+216	ID8	17	Townscaper	indie aufbau game sstadt auf dem Wasser bauen	aufbau game	6.0	17.0	Genre
+216	ID8	17	Townscaper	indie aufbau game sstadt auf dem Wasser bauen	auf dem Wasser	25.0	39.0	Setting
+216	ID8	17	Townscaper	indie aufbau game sstadt auf dem Wasser bauen	sstadt auf dem Wasser bauen	18.0	45.0	Gameplay mechanics
+217	ID8	23	Best Buds vs Bad Guys	2D jump&run game für pc	2D	0.0	2.0	Graphic design
+217	ID8	23	Best Buds vs Bad Guys	2D jump&run game für pc	pc	21.0	23.0	Properties
+217	ID8	23	Best Buds vs Bad Guys	2D jump&run game für pc	2D jump&run	0.0	11.0	Genre
+218	ID8	30	Best Buds vs Bad Guys	2d jump n run game mit zwei spieler für pc	2d	0.0	2.0	Graphic design
+218	ID8	30	Best Buds vs Bad Guys	2d jump n run game mit zwei spieler für pc	jump n run	3.0	13.0	Genre
+218	ID8	30	Best Buds vs Bad Guys	2d jump n run game mit zwei spieler für pc	pc	40.0	42.0	Properties
+218	ID8	30	Best Buds vs Bad Guys	2d jump n run game mit zwei spieler für pc	game mit zwei spieler	14.0	35.0	Gameplay mechanics
+219	ID8	37	Best Buds vs Bad Guys	2d jump n run game in einer Stadt	2d	0.0	2.0	Graphic design
+219	ID8	37	Best Buds vs Bad Guys	2d jump n run game in einer Stadt	2d jump n run	0.0	13.0	Genre
+219	ID8	37	Best Buds vs Bad Guys	2d jump n run game in einer Stadt	in einer Stadt	19.0	33.0	Setting
+220	ID8	39	Best Buds vs Bad Guys	2d jump n run game in einer Stadt gegen Roboter	2d	0.0	2.0	Graphic design
+220	ID8	39	Best Buds vs Bad Guys	2d jump n run game in einer Stadt gegen Roboter	in einer Stadt	19.0	33.0	Setting
+220	ID8	39	Best Buds vs Bad Guys	2d jump n run game in einer Stadt gegen Roboter	2d jump n run	0.0	13.0	Genre
+220	ID8	39	Best Buds vs Bad Guys	2d jump n run game in einer Stadt gegen Roboter	Roboter	40.0	47.0	Character(s)
+221	ID8	51	Best Buds vs Bad Guys	Soda Crisis (PC)	Soda Crisis	0.0	11.0	Title
+221	ID8	51	Best Buds vs Bad Guys	Soda Crisis (PC)	PC	13.0	15.0	Properties
+222	ID8	53	Best Buds vs Bad Guys	2d jump n run game shooter mit zwei Menschen in einer Stadt gegen Roboter	2d	0.0	2.0	Graphic design
+222	ID8	53	Best Buds vs Bad Guys	2d jump n run game shooter mit zwei Menschen in einer Stadt gegen Roboter	2d jump n run	0.0	13.0	Genre
+222	ID8	53	Best Buds vs Bad Guys	2d jump n run game shooter mit zwei Menschen in einer Stadt gegen Roboter	shooter	19.0	26.0	Genre
+222	ID8	53	Best Buds vs Bad Guys	2d jump n run game shooter mit zwei Menschen in einer Stadt gegen Roboter	shooter mit zwei Menschen in einer Stadt gegen Roboter	19.0	73.0	Gameplay mechanics
+222	ID8	53	Best Buds vs Bad Guys	2d jump n run game shooter mit zwei Menschen in einer Stadt gegen Roboter	in einer Stadt	45.0	59.0	Setting
+222	ID8	53	Best Buds vs Bad Guys	2d jump n run game shooter mit zwei Menschen in einer Stadt gegen Roboter	Roboter	66.0	73.0	Character(s)
+223	ID8	57	Best Buds vs Bad Guys	action 2d games	2d	7.0	9.0	Graphic design
+223	ID8	57	Best Buds vs Bad Guys	action 2d games	action	0.0	6.0	Genre
+224	ID8	59	Best Buds vs Bad Guys	action 2d games 90er	action	0.0	6.0	Genre
+224	ID8	59	Best Buds vs Bad Guys	action 2d games 90er	2d	7.0	9.0	Graphic design
+224	ID8	59	Best Buds vs Bad Guys	action 2d games 90er	90er	16.0	20.0	Time
+225	ID8	62	Best Buds vs Bad Guys	action 2d games 90er in einer Stadt gegen Roboter	90er	16.0	20.0	Time
+225	ID8	62	Best Buds vs Bad Guys	action 2d games 90er in einer Stadt gegen Roboter	in einer Stadt	21.0	35.0	Setting
+225	ID8	62	Best Buds vs Bad Guys	action 2d games 90er in einer Stadt gegen Roboter	Roboter	42.0	49.0	Character(s)
+225	ID8	62	Best Buds vs Bad Guys	action 2d games 90er in einer Stadt gegen Roboter	action	0.0	6.0	Genre
+225	ID8	62	Best Buds vs Bad Guys	action 2d games 90er in einer Stadt gegen Roboter	2d	7.0	9.0	Graphic design
+226	ID8	71	Best Buds vs Bad Guys	2d super mario ableger stadt gegen Roboter	2d	0.0	2.0	Graphic design
+226	ID8	71	Best Buds vs Bad Guys	2d super mario ableger stadt gegen Roboter	super mario	3.0	14.0	Title
+226	ID8	71	Best Buds vs Bad Guys	2d super mario ableger stadt gegen Roboter	super mario ableger	3.0	22.0	N/A
+226	ID8	71	Best Buds vs Bad Guys	2d super mario ableger stadt gegen Roboter	stadt	23.0	28.0	Setting
+226	ID8	71	Best Buds vs Bad Guys	2d super mario ableger stadt gegen Roboter	Roboter	35.0	42.0	Character(s)
+227	ID8	73	Best Buds vs Bad Guys	2d jump and run stadt gegen Roboter	Roboter	28.0	35.0	Character(s)
+227	ID8	73	Best Buds vs Bad Guys	2d jump and run stadt gegen Roboter	stadt	16.0	21.0	Setting
+227	ID8	73	Best Buds vs Bad Guys	2d jump and run stadt gegen Roboter	2d	0.0	2.0	Graphic design
+227	ID8	73	Best Buds vs Bad Guys	2d jump and run stadt gegen Roboter	2d jump and run	0.0	15.0	Genre
+228	ID9	2	Best Buds vs Bad Guys	google.com	google.com	0.0	10.0	N/A
+229	ID9	3	Best Buds vs Bad Guys	retro game description example	retro	0.0	5.0	Mood
+230	ID9	6	Best Buds vs Bad Guys	retro video game pixal downton nyc	retro	0.0	5.0	Mood
+230	ID9	6	Best Buds vs Bad Guys	retro video game pixal downton nyc	pixal	17.0	22.0	Graphic design
+230	ID9	6	Best Buds vs Bad Guys	retro video game pixal downton nyc	downton nyc	23.0	34.0	Setting
+231	ID9	9	Best Buds vs Bad Guys	online retro video game pixel downtown nyc	online	0.0	6.0	Properties
+231	ID9	9	Best Buds vs Bad Guys	online retro video game pixel downtown nyc	downtown nyc	30.0	42.0	Setting
+231	ID9	9	Best Buds vs Bad Guys	online retro video game pixel downtown nyc	pixel	24.0	29.0	Graphic design
+231	ID9	9	Best Buds vs Bad Guys	online retro video game pixel downtown nyc	retro	7.0	12.0	Graphic design
+231	ID9	9	Best Buds vs Bad Guys	online retro video game pixel downtown nyc	retro	7.0	12.0	Mood
+232	ID9	11	Best Buds vs Bad Guys	online retro video game design downtown 	retro	7.0	12.0	Graphic design
+232	ID9	11	Best Buds vs Bad Guys	online retro video game design downtown 	retro	7.0	12.0	Mood
+232	ID9	11	Best Buds vs Bad Guys	online retro video game design downtown 	downtown	31.0	39.0	Setting
+232	ID9	11	Best Buds vs Bad Guys	online retro video game design downtown 	online	0.0	6.0	Properties
+233	ID9	13	Best Buds vs Bad Guys	online pixel video game design downtown	online	0.0	6.0	Properties
+233	ID9	13	Best Buds vs Bad Guys	online pixel video game design downtown	downtown	31.0	39.0	Setting
+233	ID9	13	Best Buds vs Bad Guys	online pixel video game design downtown	pixel	7.0	12.0	Graphic design
+234	ID9	16	Best Buds vs Bad Guys	reddit	reddit	0.0	6.0	N/A
+235	ID9	20	Best Buds vs Bad Guys	tipofmyjoystick	tipofmyjoystick	0.0	15.0	N/A
+236	ID9	24	Best Buds vs Bad Guys	game based downton	downton	11.0	18.0	Setting
+237	ID9	26	Best Buds vs Bad Guys	game based downtown	downtown	11.0	19.0	Setting
+238	ID9	30	Best Buds vs Bad Guys	Thinkin' Things: All Around Frippletown?	Thinkin' Things: All Around Frippletown	0.0	39.0	Title
+239	ID9	34	Best Buds vs Bad Guys	game police officer based downtown	police officer	5.0	19.0	Character(s)
+239	ID9	34	Best Buds vs Bad Guys	game police officer based downtown	downtown	26.0	34.0	Setting
+240	ID9	46	Townscaper	google.com	google.com	0.0	10.0	N/A
+241	ID9	47	Townscaper	calm, relaxing game ocean	calm, relaxing	0.0	14.0	Mood
+241	ID9	47	Townscaper	calm, relaxing game ocean	ocean	20.0	25.0	Setting
+242	ID9	50	Townscaper	dredge	dredge	0.0	6.0	Title
+243	ID9	53	Townscaper	Loddlenaut game	Loddlenaut	0.0	10.0	Title
+244	ID9	68	Townscaper	mythical ocean	mythical ocean	0.0	14.0	Setting
+245	ID9	70	Townscaper	calm, relaxing game build houses in ocean	calm, relaxing	0.0	14.0	Mood
+245	ID9	70	Townscaper	calm, relaxing game build houses in ocean	ocean	36.0	41.0	Setting
+245	ID9	70	Townscaper	calm, relaxing game build houses in ocean	build houses in ocean	20.0	41.0	Gameplay mechanics
+246	ID9	72	Townscaper	townscaper	townscaper	0.0	10.0	Title
+247	ID9	74	Townscaper	Havendock	Havendock	0.0	9.0	Title
+247	ID9	74	Townscaper	Havendock	Havendock	0.0	9.0	Title
+248	ID9	78	Townscaper	ocean game build build town	ocean	0.0	5.0	Setting
+248	ID9	78	Townscaper	ocean game build build town	build build town	11.0	27.0	Gameplay mechanics
+249	ID9	86	Townscaper	grow island	grow island	0.0	11.0	Gameplay mechanics
+250	ID9	90	Townscaper	grow cube	grow cube	0.0	9.0	Gameplay mechanics
+251	ID9	92	Townscaper	eyemazy	eyemazy	0.0	7.0	Title
+252	ID9	94	Townscaper	eyemazy games	eyemazy	0.0	7.0	Title
+253	ID10	2	Townscaper	www.google.com	www.google.com	0.0	14.0	N/A
+254	ID10	3	Townscaper	tiny glade	tiny glade	0.0	10.0	Title
+255	ID10	12	Townscaper	tiny galde ähnlich regenbogen	tiny galde	0.0	10.0	Title
+255	ID10	12	Townscaper	tiny galde ähnlich regenbogen	regenbogen	19.0	29.0	Graphic design
+255	ID10	12	Townscaper	tiny galde ähnlich regenbogen	ähnlich	11.0	18.0	N/A
+256	ID10	15	Townscaper	tiny glade ähnlich regenbogen wasser	ähnlich	11.0	18.0	N/A
+256	ID10	15	Townscaper	tiny glade ähnlich regenbogen wasser	tiny glade	0.0	10.0	Title
+256	ID10	15	Townscaper	tiny glade ähnlich regenbogen wasser	wasser	30.0	36.0	Setting
+256	ID10	15	Townscaper	tiny glade ähnlich regenbogen wasser	regenbogen	19.0	29.0	Gameplay mechanics
+257	ID10	20	Townscaper	Townscaper	Townscaper	0.0	10.0	Title
+258	ID10	25	Best Buds vs Bad Guys	pixel platformer alien robot invasion	alien robot invasion	17.0	37.0	Plot
+258	ID10	25	Best Buds vs Bad Guys	pixel platformer alien robot invasion	alien robot	17.0	28.0	Character(s)
+258	ID10	25	Best Buds vs Bad Guys	pixel platformer alien robot invasion	pixel	0.0	5.0	Graphic design
+258	ID10	25	Best Buds vs Bad Guys	pixel platformer alien robot invasion	pixel platformer	0.0	16.0	Genre
+259	ID10	28	Best Buds vs Bad Guys	pixel platformer alien robot invasion zwei charaktere	pixel	0.0	5.0	Graphic design
+259	ID10	28	Best Buds vs Bad Guys	pixel platformer alien robot invasion zwei charaktere	pixel platformer	0.0	16.0	Genre
+259	ID10	28	Best Buds vs Bad Guys	pixel platformer alien robot invasion zwei charaktere	alien robot	17.0	28.0	Character(s)
+259	ID10	28	Best Buds vs Bad Guys	pixel platformer alien robot invasion zwei charaktere	alien robot invasion	17.0	37.0	Plot
+259	ID10	28	Best Buds vs Bad Guys	pixel platformer alien robot invasion zwei charaktere	zwei charaktere	38.0	53.0	Gameplay mechanics
+260	ID10	32	Best Buds vs Bad Guys	Alien Hominid	Alien Hominid	0.0	13.0	Title
+261	ID10	34	Best Buds vs Bad Guys	pixel platformer 2 player characters	pixel	0.0	5.0	Graphic design
+261	ID10	34	Best Buds vs Bad Guys	pixel platformer 2 player characters	pixel platformer	0.0	16.0	Genre
+261	ID10	34	Best Buds vs Bad Guys	pixel platformer 2 player characters	2 player characters	17.0	36.0	Gameplay mechanics
+262	ID10	37	Best Buds vs Bad Guys	pixel platformer 2 player characters level based robots	pixel	0.0	5.0	Graphic design
+262	ID10	37	Best Buds vs Bad Guys	pixel platformer 2 player characters level based robots	pixel platformer	0.0	16.0	Genre
+262	ID10	37	Best Buds vs Bad Guys	pixel platformer 2 player characters level based robots	2 player characters	17.0	36.0	Gameplay mechanics
+262	ID10	37	Best Buds vs Bad Guys	pixel platformer 2 player characters level based robots	level based	37.0	48.0	Structure
+262	ID10	37	Best Buds vs Bad Guys	pixel platformer 2 player characters level based robots	robots	49.0	55.0	Character(s)
+263	ID10	41	Best Buds vs Bad Guys	pixel platformer 2 player characters level based dystopia	level based	37.0	48.0	Structure
+263	ID10	41	Best Buds vs Bad Guys	pixel platformer 2 player characters level based dystopia	dystopia	49.0	57.0	Mood
+263	ID10	41	Best Buds vs Bad Guys	pixel platformer 2 player characters level based dystopia	dystopia	49.0	57.0	Setting
+263	ID10	41	Best Buds vs Bad Guys	pixel platformer 2 player characters level based dystopia	pixel	0.0	5.0	Graphic design
+263	ID10	41	Best Buds vs Bad Guys	pixel platformer 2 player characters level based dystopia	pixel platformer	0.0	16.0	Genre
+263	ID10	41	Best Buds vs Bad Guys	pixel platformer 2 player characters level based dystopia	2 player characters	17.0	36.0	Gameplay mechanics
+264	ID10	46	Best Buds vs Bad Guys	pixel platformer 2 player characters level based invasion downton	2 player characters	17.0	36.0	Gameplay mechanics
+264	ID10	46	Best Buds vs Bad Guys	pixel platformer 2 player characters level based invasion downton	pixel platformer	0.0	16.0	Genre
+264	ID10	46	Best Buds vs Bad Guys	pixel platformer 2 player characters level based invasion downton	pixel	0.0	5.0	Graphic design
+264	ID10	46	Best Buds vs Bad Guys	pixel platformer 2 player characters level based invasion downton	level based	37.0	48.0	Structure
+264	ID10	46	Best Buds vs Bad Guys	pixel platformer 2 player characters level based invasion downton	invasion downton	49.0	65.0	Plot
+264	ID10	46	Best Buds vs Bad Guys	pixel platformer 2 player characters level based invasion downton	downton	58.0	65.0	Setting
+265	ID10	50	Best Buds vs Bad Guys	pixel 2d 2 player characters level based invasion downtown	downtown	50.0	58.0	Setting
+265	ID10	50	Best Buds vs Bad Guys	pixel 2d 2 player characters level based invasion downtown	level based	29.0	40.0	Structure
+265	ID10	50	Best Buds vs Bad Guys	pixel 2d 2 player characters level based invasion downtown	invasion downtown	41.0	58.0	Plot
+265	ID10	50	Best Buds vs Bad Guys	pixel 2d 2 player characters level based invasion downtown	pixel 2d	0.0	8.0	Graphic design
+265	ID10	50	Best Buds vs Bad Guys	pixel 2d 2 player characters level based invasion downtown	2 player characters	9.0	28.0	Gameplay mechanics
+266	ID10	53	Best Buds vs Bad Guys	pixel 2d 2 player characters scifi	2 player characters	9.0	28.0	Gameplay mechanics
+266	ID10	53	Best Buds vs Bad Guys	pixel 2d 2 player characters scifi	pixel 2d	0.0	8.0	Graphic design
+266	ID10	53	Best Buds vs Bad Guys	pixel 2d 2 player characters scifi	scifi	29.0	34.0	Time
+267	ID10	60	Best Buds vs Bad Guys	pixel 2d level based invasion	pixel 2d	0.0	8.0	Graphic design
+267	ID10	60	Best Buds vs Bad Guys	pixel 2d level based invasion	level based	9.0	20.0	Structure
+267	ID10	60	Best Buds vs Bad Guys	pixel 2d level based invasion	invasion	21.0	29.0	Plot
+268	ID10	67	Best Buds vs Bad Guys	pixel 2d level invasion downtown 2 characters shooter 	pixel 2d	0.0	8.0	Graphic design
+268	ID10	67	Best Buds vs Bad Guys	pixel 2d level invasion downtown 2 characters shooter 	level	9.0	14.0	Structure
+268	ID10	67	Best Buds vs Bad Guys	pixel 2d level invasion downtown 2 characters shooter 	invasion	15.0	23.0	Plot
+268	ID10	67	Best Buds vs Bad Guys	pixel 2d level invasion downtown 2 characters shooter 	downtown	24.0	32.0	Setting
+268	ID10	67	Best Buds vs Bad Guys	pixel 2d level invasion downtown 2 characters shooter 	2 characters	33.0	45.0	Gameplay mechanics
+268	ID10	67	Best Buds vs Bad Guys	pixel 2d level invasion downtown 2 characters shooter 	shooter	46.0	53.0	Genre
+269	ID10	73	Best Buds vs Bad Guys	Steam	Steam	0.0	5.0	N/A
+270	ID10	76	Best Buds vs Bad Guys	pixel shooter	pixel shooter	0.0	13.0	Genre
+270	ID10	76	Best Buds vs Bad Guys	pixel shooter	pixel	0.0	5.0	Graphic design
+271	ID11	2	Best Buds vs Bad Guys	Sidescroller shooter charakterwechsel	Sidescroller shooter	0.0	20.0	Genre
+271	ID11	2	Best Buds vs Bad Guys	Sidescroller shooter charakterwechsel	charakterwechsel	21.0	37.0	Gameplay mechanics
+272	ID11	6	Best Buds vs Bad Guys	Sidescroller shooter charakterwechsel pixelgrafik	charakterwechsel	21.0	37.0	Gameplay mechanics
+272	ID11	6	Best Buds vs Bad Guys	Sidescroller shooter charakterwechsel pixelgrafik	pixelgrafik	38.0	49.0	Graphic design
+272	ID11	6	Best Buds vs Bad Guys	Sidescroller shooter charakterwechsel pixelgrafik	Sidescroller shooter	0.0	20.0	Genre
+273	ID11	8	Best Buds vs Bad Guys	Sidescroller shooter charakterwechsel level downtown	level	38.0	43.0	Structure
+273	ID11	8	Best Buds vs Bad Guys	Sidescroller shooter charakterwechsel level downtown	downtown	44.0	52.0	Setting
+273	ID11	8	Best Buds vs Bad Guys	Sidescroller shooter charakterwechsel level downtown	charakterwechsel	21.0	37.0	Gameplay mechanics
+273	ID11	8	Best Buds vs Bad Guys	Sidescroller shooter charakterwechsel level downtown	Sidescroller shooter	0.0	20.0	Genre
+274	ID11	10	Best Buds vs Bad Guys	Sidescroller shooter level downtown	Sidescroller shooter	0.0	20.0	Genre
+274	ID11	10	Best Buds vs Bad Guys	Sidescroller shooter level downtown	downtown	27.0	35.0	Setting
+274	ID11	10	Best Buds vs Bad Guys	Sidescroller shooter level downtown	level	21.0	26.0	Structure
+275	ID11	12	Best Buds vs Bad Guys	Sidescroller shooter level downtown blue and red robots	level	21.0	26.0	Structure
+275	ID11	12	Best Buds vs Bad Guys	Sidescroller shooter level downtown blue and red robots	blue and red robots	36.0	55.0	Character(s)
+275	ID11	12	Best Buds vs Bad Guys	Sidescroller shooter level downtown blue and red robots	downtown	27.0	35.0	Setting
+275	ID11	12	Best Buds vs Bad Guys	Sidescroller shooter level downtown blue and red robots	Sidescroller shooter	0.0	20.0	Genre
+276	ID11	16	Best Buds vs Bad Guys	plattformer level downtown construction site	plattformer	0.0	11.0	Genre
+276	ID11	16	Best Buds vs Bad Guys	plattformer level downtown construction site	downtown	18.0	26.0	Setting
+276	ID11	16	Best Buds vs Bad Guys	plattformer level downtown construction site	level	12.0	17.0	Structure
+276	ID11	16	Best Buds vs Bad Guys	plattformer level downtown construction site	construction site	27.0	44.0	Setting
+277	ID11	19	Best Buds vs Bad Guys	2d platformer game with charachter swap	2d	0.0	2.0	Graphic design
+277	ID11	19	Best Buds vs Bad Guys	2d platformer game with charachter swap	game with charachter swap	14.0	39.0	Gameplay mechanics
+277	ID11	19	Best Buds vs Bad Guys	2d platformer game with charachter swap	2d platformer	0.0	13.0	Genre
+278	ID11	23	Best Buds vs Bad Guys	2d platformer game key fragements	2d	0.0	2.0	Graphic design
+278	ID11	23	Best Buds vs Bad Guys	2d platformer game key fragements	2d platformer	0.0	13.0	Genre
+278	ID11	23	Best Buds vs Bad Guys	2d platformer game key fragements	key fragements	19.0	33.0	Gameplay mechanics
+279	ID11	25	Best Buds vs Bad Guys	2d shooter platformer game key fragements	key fragements	27.0	41.0	Gameplay mechanics
+279	ID11	25	Best Buds vs Bad Guys	2d shooter platformer game key fragements	2d shooter platformer	0.0	21.0	Genre
+279	ID11	25	Best Buds vs Bad Guys	2d shooter platformer game key fragements	2d	0.0	2.0	Graphic design
+280	ID11	27	Best Buds vs Bad Guys	2d shooter platformer game key fragments	2d	0.0	2.0	Graphic design
+280	ID11	27	Best Buds vs Bad Guys	2d shooter platformer game key fragments	2d shooter platformer	0.0	21.0	Genre
+280	ID11	27	Best Buds vs Bad Guys	2d shooter platformer game key fragments	key fragments	27.0	40.0	Gameplay mechanics
+281	ID11	31	Townscaper	cozy game city in the sea	cozy	0.0	4.0	Mood
+281	ID11	31	Townscaper	cozy game city in the sea	cozy game	0.0	9.0	Genre
+281	ID11	31	Townscaper	cozy game city in the sea	city in the sea	10.0	25.0	Gameplay mechanics
+281	ID11	31	Townscaper	cozy game city in the sea	city in the sea	10.0	25.0	Setting
+282	ID12	2	Best Buds vs Bad Guys	arcade game genre	arcade	0.0	6.0	Genre
+283	ID12	6	Best Buds vs Bad Guys	arcade shooter pc looking for key	arcade shooter	0.0	14.0	Genre
+283	ID12	6	Best Buds vs Bad Guys	arcade shooter pc looking for key	pc	15.0	17.0	Properties
+283	ID12	6	Best Buds vs Bad Guys	arcade shooter pc looking for key	looking for key	18.0	33.0	Gameplay mechanics
+284	ID12	10	Best Buds vs Bad Guys	arcade shooter pc looking for key fragments	looking for key fragments	18.0	43.0	Gameplay mechanics
+284	ID12	10	Best Buds vs Bad Guys	arcade shooter pc looking for key fragments	arcade shooter	0.0	14.0	Genre
+284	ID12	10	Best Buds vs Bad Guys	arcade shooter pc looking for key fragments	pc	15.0	17.0	Properties
+285	ID12	13	Best Buds vs Bad Guys	shooter pc looking for key fragments	shooter	0.0	7.0	Genre
+285	ID12	13	Best Buds vs Bad Guys	shooter pc looking for key fragments	pc	8.0	10.0	Properties
+285	ID12	13	Best Buds vs Bad Guys	shooter pc looking for key fragments	looking for key fragments	11.0	36.0	Gameplay mechanics
+286	ID12	15	Best Buds vs Bad Guys	old pc game looking for key fragments	looking for key fragments	12.0	37.0	Gameplay mechanics
+286	ID12	15	Best Buds vs Bad Guys	old pc game looking for key fragments	old	0.0	3.0	Release date
+286	ID12	15	Best Buds vs Bad Guys	old pc game looking for key fragments	pc game	4.0	11.0	Properties
+287	ID12	17	Best Buds vs Bad Guys	chips challenge	chips challenge	0.0	15.0	Title
+288	ID12	23	Best Buds vs Bad Guys	old pc game looking for key fragments	old	0.0	3.0	Release date
+288	ID12	23	Best Buds vs Bad Guys	old pc game looking for key fragments	looking for key fragments	12.0	37.0	Gameplay mechanics
+288	ID12	23	Best Buds vs Bad Guys	old pc game looking for key fragments	pc game	4.0	11.0	Properties
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist	10.0	80.0	Availability
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist	10.0	80.0	Language
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	Arcade	112.0	118.0	Genre
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	Zweidimensionales	120.0	137.0	Perspective
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	Zweidimensionales	120.0	137.0	Graphic design
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	Zweidimensionales Shooting Game	120.0	151.0	Genre
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	in nem Büro	166.0	177.0	Setting
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	einem Helfer, der mitverteidigt	182.0	213.0	Character(s)
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	ne Straße	256.0	265.0	Setting
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben)	283.0	361.0	Character(s)
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	Der Character, den man spielt trägt ne Brille und hat ne Shotgun,	415.0	480.0	Character(s)
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	der Helfer hat ne Pistole	481.0	506.0	Character(s)
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	Keyboard	564.0	572.0	Controls
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	Vibe is eher 80er/90er	574.0	596.0	Mood
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	Science Fiktion	609.0	624.0	Genre
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	Health bar oben links	681.0	702.0	Graphic design
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels).	153.0	414.0	Gameplay mechanics
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	Man kann auch auf Gebäude klettern!	508.0	543.0	Gameplay mechanics
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	An bestimmten gibts Spampoints, wenn man stirbt.	632.0	680.0	Gameplay mechanics
+289	ID12	25	Best Buds vs Bad Guys	Ich suche ein Game, das wahrscheinlich im englischsprachigen Raum erschienen ist. Beim Genre, vielleicht ist es Arcade? Zweidimensionales Shooting Game: Man fängt an in nem Büro mit einem Helfer, der mitverteidigt. Dann verlässt man das Büro und kommt auf ne Straße und kämpft gegen Terminater (rote und blaue, beide schießen und die roten schmeißen mit Bomben) und man sucht vier Schlüsselteile (goal des Spiels). Der Character, den man spielt trägt ne Brille und hat ne Shotgun, der Helfer hat ne Pistole. Man kann auch auf Gebäude klettern! Gespielt wird übers Keyboard. Vibe is eher 80er/90er, wirkt sehr Science Fiktion mäßig. An bestimmten gibts Spampoints, wenn man stirbt. Health bar oben links, in Fässern findet man Drinks + Essen für HP	Health bar oben links, in Fässern findet man Drinks + Essen für HP	681.0	747.0	Gameplay mechanics
+290	ID12	28	Best Buds vs Bad Guys	Biomenace	Biomenace	0.0	9.0	Title
+291	ID12	36	Best Buds vs Bad Guys	games die biomenace ähleln	biomenace	10.0	19.0	Title
+291	ID12	36	Best Buds vs Bad Guys	games die biomenace ähleln	games die biomenace ähleln	0.0	26.0	N/A
+292	ID12	43	Best Buds vs Bad Guys	commander keen	commander keen	0.0	14.0	Title
+293	ID12	47	Best Buds vs Bad Guys	2d shooter game fighting terminators	2d	0.0	2.0	Graphic design
+293	ID12	47	Best Buds vs Bad Guys	2d shooter game fighting terminators	2d shooter	0.0	10.0	Genre
+293	ID12	47	Best Buds vs Bad Guys	2d shooter game fighting terminators	game fighting terminators	11.0	36.0	Gameplay mechanics
+293	ID12	47	Best Buds vs Bad Guys	2d shooter game fighting terminators	terminators	25.0	36.0	Character(s)
+294	ID12	52	Best Buds vs Bad Guys	2d shooter game fighting roboter	roboter	25.0	32.0	Character(s)
+294	ID12	52	Best Buds vs Bad Guys	2d shooter game fighting roboter	game fighting roboter	11.0	32.0	Gameplay mechanics
+294	ID12	52	Best Buds vs Bad Guys	2d shooter game fighting roboter	2d	0.0	2.0	Graphic design
+294	ID12	52	Best Buds vs Bad Guys	2d shooter game fighting roboter	2d shooter	0.0	10.0	Genre
+295	ID12	56	Townscaper	coze game ocean planer	coze	0.0	4.0	Mood
+295	ID12	56	Townscaper	coze game ocean planer	coze game	0.0	9.0	Genre
+295	ID12	56	Townscaper	coze game ocean planer	planer	16.0	22.0	Genre
+295	ID12	56	Townscaper	coze game ocean planer	ocean	10.0	15.0	Setting
+295	ID12	56	Townscaper	coze game ocean planer	ocean planer	10.0	22.0	Gameplay mechanics
+296	ID12	61	Townscaper	spiel wie havendock	havendock	10.0	19.0	Title
+296	ID12	61	Townscaper	spiel wie havendock	spiel wie havendock	0.0	19.0	N/A
+297	ID12	63	Townscaper	spiel ozean switch	switch	12.0	18.0	Properties
+297	ID12	63	Townscaper	spiel ozean switch	ozean	6.0	11.0	Setting
+298	ID12	65	Townscaper	spiel wie stadtplaner im meer nur mit sounds	stadtplaner	10.0	21.0	Genre
+298	ID12	65	Townscaper	spiel wie stadtplaner im meer nur mit sounds	nur mit sounds	30.0	44.0	Sound design
+298	ID12	65	Townscaper	spiel wie stadtplaner im meer nur mit sounds	stadtplaner im meer	10.0	29.0	Gameplay mechanics
+298	ID12	65	Townscaper	spiel wie stadtplaner im meer nur mit sounds	meer	25.0	29.0	Setting
+299	ID12	68	Townscaper	Townscaper	Townscaper	0.0	10.0	Title
+300	ID13	2	Townscaper	Cozy Spiel aufbau einer Insel Klick spiel	Cozy	0.0	4.0	Mood
+300	ID13	2	Townscaper	Cozy Spiel aufbau einer Insel Klick spiel	aufbau	11.0	17.0	Genre
+300	ID13	2	Townscaper	Cozy Spiel aufbau einer Insel Klick spiel	Klick spiel	30.0	41.0	Controls
+300	ID13	2	Townscaper	Cozy Spiel aufbau einer Insel Klick spiel	einer Insel	18.0	29.0	Setting
+300	ID13	2	Townscaper	Cozy Spiel aufbau einer Insel Klick spiel	aufbau einer Insel	11.0	29.0	Gameplay mechanics
+301	ID13	4	Townscaper	Cozy Spiel aufbau einer Insel Klick spiel ohne NPC oder Garten, nur gebäude	Cozy	0.0	4.0	Mood
+301	ID13	4	Townscaper	Cozy Spiel aufbau einer Insel Klick spiel ohne NPC oder Garten, nur gebäude	aufbau	11.0	17.0	Genre
+301	ID13	4	Townscaper	Cozy Spiel aufbau einer Insel Klick spiel ohne NPC oder Garten, nur gebäude	ohne NPC	42.0	50.0	Character(s)
+301	ID13	4	Townscaper	Cozy Spiel aufbau einer Insel Klick spiel ohne NPC oder Garten, nur gebäude	aufbau einer Insel Klick spiel ohne NPC oder Garten, nur gebäude	11.0	75.0	Gameplay mechanics
+301	ID13	4	Townscaper	Cozy Spiel aufbau einer Insel Klick spiel ohne NPC oder Garten, nur gebäude	einer Insel	18.0	29.0	Setting
+301	ID13	4	Townscaper	Cozy Spiel aufbau einer Insel Klick spiel ohne NPC oder Garten, nur gebäude	Klick spiel	30.0	41.0	Controls
+302	ID13	18	Townscaper	Cozy Spiel Klick Spiel auf einen Ozean nur Häuser bauen Insel	Cozy	0.0	4.0	Mood
+302	ID13	18	Townscaper	Cozy Spiel Klick Spiel auf einen Ozean nur Häuser bauen Insel	Klick Spiel	11.0	22.0	Controls
+302	ID13	18	Townscaper	Cozy Spiel Klick Spiel auf einen Ozean nur Häuser bauen Insel	auf einen Ozean	23.0	38.0	Setting
+302	ID13	18	Townscaper	Cozy Spiel Klick Spiel auf einen Ozean nur Häuser bauen Insel	Insel	56.0	61.0	Setting
+302	ID13	18	Townscaper	Cozy Spiel Klick Spiel auf einen Ozean nur Häuser bauen Insel	auf einen Ozean nur Häuser bauen Insel	23.0	61.0	Gameplay mechanics
+303	ID13	42	Townscaper	Townscaper	Townscaper	0.0	10.0	Title
+304	ID13	47	Best Buds vs Bad Guys	Arcade futuristischer Spiel mit das Sammeln von goldenen Schlüssel mit den Intitialen X, E, I, T	futuristischer	7.0	21.0	Time
+304	ID13	47	Best Buds vs Bad Guys	Arcade futuristischer Spiel mit das Sammeln von goldenen Schlüssel mit den Intitialen X, E, I, T	mit das Sammeln von goldenen Schlüssel mit den Intitialen X, E, I, T	28.0	96.0	Gameplay mechanics
+304	ID13	47	Best Buds vs Bad Guys	Arcade futuristischer Spiel mit das Sammeln von goldenen Schlüssel mit den Intitialen X, E, I, T	Arcade	0.0	6.0	Genre
+305	ID13	56	Best Buds vs Bad Guys	Arcade futuristischer Spiel mit das Sammeln von goldenen Schlüssel mit den Intitialen X, E, I, T	Arcade	0.0	6.0	Time
+305	ID13	56	Best Buds vs Bad Guys	Arcade futuristischer Spiel mit das Sammeln von goldenen Schlüssel mit den Intitialen X, E, I, T	futuristischer	7.0	21.0	Time
+305	ID13	56	Best Buds vs Bad Guys	Arcade futuristischer Spiel mit das Sammeln von goldenen Schlüssel mit den Intitialen X, E, I, T	mit das Sammeln von goldenen Schlüssel mit den Intitialen X, E, I, T	28.0	96.0	Gameplay mechanics
+306	ID13	58	Best Buds vs Bad Guys	Nein, dass ist es nicht. Es ist ein Spiel wo man Roboter, Monster und fliegende Maschinenlaser abfeuert. Das Spiel spielt in Downtown und der Charakter hat eine Brille und einen Helfer, der auch schießen kann. Man sammelt goldene Schlüsseln und die Figur kann nach oben oder unten schießen. Es kann in PC oder mit oder mit Konsole gespielt werden	Roboter	49.0	56.0	Character(s)
+306	ID13	58	Best Buds vs Bad Guys	Nein, dass ist es nicht. Es ist ein Spiel wo man Roboter, Monster und fliegende Maschinenlaser abfeuert. Das Spiel spielt in Downtown und der Charakter hat eine Brille und einen Helfer, der auch schießen kann. Man sammelt goldene Schlüsseln und die Figur kann nach oben oder unten schießen. Es kann in PC oder mit oder mit Konsole gespielt werden	Monster	58.0	65.0	Character(s)
+306	ID13	58	Best Buds vs Bad Guys	Nein, dass ist es nicht. Es ist ein Spiel wo man Roboter, Monster und fliegende Maschinenlaser abfeuert. Das Spiel spielt in Downtown und der Charakter hat eine Brille und einen Helfer, der auch schießen kann. Man sammelt goldene Schlüsseln und die Figur kann nach oben oder unten schießen. Es kann in PC oder mit oder mit Konsole gespielt werden	fliegende Maschinenlaser	70.0	94.0	Character(s)
+306	ID13	58	Best Buds vs Bad Guys	Nein, dass ist es nicht. Es ist ein Spiel wo man Roboter, Monster und fliegende Maschinenlaser abfeuert. Das Spiel spielt in Downtown und der Charakter hat eine Brille und einen Helfer, der auch schießen kann. Man sammelt goldene Schlüsseln und die Figur kann nach oben oder unten schießen. Es kann in PC oder mit oder mit Konsole gespielt werden	ein Spiel wo man Roboter, Monster und fliegende Maschinenlaser abfeuert	32.0	103.0	Gameplay mechanics
+306	ID13	58	Best Buds vs Bad Guys	Nein, dass ist es nicht. Es ist ein Spiel wo man Roboter, Monster und fliegende Maschinenlaser abfeuert. Das Spiel spielt in Downtown und der Charakter hat eine Brille und einen Helfer, der auch schießen kann. Man sammelt goldene Schlüsseln und die Figur kann nach oben oder unten schießen. Es kann in PC oder mit oder mit Konsole gespielt werden	Downtown	125.0	133.0	Setting
+306	ID13	58	Best Buds vs Bad Guys	Nein, dass ist es nicht. Es ist ein Spiel wo man Roboter, Monster und fliegende Maschinenlaser abfeuert. Das Spiel spielt in Downtown und der Charakter hat eine Brille und einen Helfer, der auch schießen kann. Man sammelt goldene Schlüsseln und die Figur kann nach oben oder unten schießen. Es kann in PC oder mit oder mit Konsole gespielt werden	der Charakter hat eine Brille	138.0	167.0	Character(s)
+306	ID13	58	Best Buds vs Bad Guys	Nein, dass ist es nicht. Es ist ein Spiel wo man Roboter, Monster und fliegende Maschinenlaser abfeuert. Das Spiel spielt in Downtown und der Charakter hat eine Brille und einen Helfer, der auch schießen kann. Man sammelt goldene Schlüsseln und die Figur kann nach oben oder unten schießen. Es kann in PC oder mit oder mit Konsole gespielt werden	einen Helfer, der auch schießen kann	172.0	208.0	Character(s)
+306	ID13	58	Best Buds vs Bad Guys	Nein, dass ist es nicht. Es ist ein Spiel wo man Roboter, Monster und fliegende Maschinenlaser abfeuert. Das Spiel spielt in Downtown und der Charakter hat eine Brille und einen Helfer, der auch schießen kann. Man sammelt goldene Schlüsseln und die Figur kann nach oben oder unten schießen. Es kann in PC oder mit oder mit Konsole gespielt werden	Man sammelt goldene Schlüsseln und die Figur kann nach oben oder unten schießen	210.0	289.0	Gameplay mechanics
+306	ID13	58	Best Buds vs Bad Guys	Nein, dass ist es nicht. Es ist ein Spiel wo man Roboter, Monster und fliegende Maschinenlaser abfeuert. Das Spiel spielt in Downtown und der Charakter hat eine Brille und einen Helfer, der auch schießen kann. Man sammelt goldene Schlüsseln und die Figur kann nach oben oder unten schießen. Es kann in PC oder mit oder mit Konsole gespielt werden	PC	302.0	304.0	Properties
+306	ID13	58	Best Buds vs Bad Guys	Nein, dass ist es nicht. Es ist ein Spiel wo man Roboter, Monster und fliegende Maschinenlaser abfeuert. Das Spiel spielt in Downtown und der Charakter hat eine Brille und einen Helfer, der auch schießen kann. Man sammelt goldene Schlüsseln und die Figur kann nach oben oder unten schießen. Es kann in PC oder mit oder mit Konsole gespielt werden	Konsole	323.0	330.0	Properties
+307	ID13	60	Best Buds vs Bad Guys	nein, die Schlüsseln mus man selber suchen.	die Schlüsseln mus man selber suchen.	6.0	43.0	Gameplay mechanics
+308	ID14	2	Best Buds vs Bad Guys	2d retro pixel game pc	2d retro pixel	0.0	14.0	Graphic design
+308	ID14	2	Best Buds vs Bad Guys	2d retro pixel game pc	pc	20.0	22.0	Properties
+309	ID14	5	Best Buds vs Bad Guys	2d retro pixel game pc roboter	pc	20.0	22.0	Properties
+309	ID14	5	Best Buds vs Bad Guys	2d retro pixel game pc roboter	roboter	23.0	30.0	Character(s)
+309	ID14	5	Best Buds vs Bad Guys	2d retro pixel game pc roboter	2d retro pixel	0.0	14.0	Graphic design
+310	ID14	8	Best Buds vs Bad Guys	robot factory pixel 2d retro pixel game pc roboter	robot factory	0.0	13.0	Setting
+310	ID14	8	Best Buds vs Bad Guys	robot factory pixel 2d retro pixel game pc roboter	pixel 2d retro pixel	14.0	34.0	Graphic design
+310	ID14	8	Best Buds vs Bad Guys	robot factory pixel 2d retro pixel game pc roboter	pixel game	29.0	39.0	Genre
+310	ID14	8	Best Buds vs Bad Guys	robot factory pixel 2d retro pixel game pc roboter	pc	40.0	42.0	Properties
+310	ID14	8	Best Buds vs Bad Guys	robot factory pixel 2d retro pixel game pc roboter	roboter	43.0	50.0	Character(s)
+311	ID14	14	Best Buds vs Bad Guys	Roboter	Roboter	0.0	7.0	Character(s)
+312	ID14	20	Best Buds vs Bad Guys	Roboter fighting game 2d pc	Roboter	0.0	7.0	Character(s)
+312	ID14	20	Best Buds vs Bad Guys	Roboter fighting game 2d pc	fighting game 2d	8.0	24.0	Genre
+312	ID14	20	Best Buds vs Bad Guys	Roboter fighting game 2d pc	pc	25.0	27.0	Properties
+312	ID14	20	Best Buds vs Bad Guys	Roboter fighting game 2d pc	2d	22.0	24.0	Graphic design
+313	ID14	24	Best Buds vs Bad Guys	Roboter fighting game 2d pc singleplayer	2d	22.0	24.0	Graphic design
+313	ID14	24	Best Buds vs Bad Guys	Roboter fighting game 2d pc singleplayer	pc	25.0	27.0	Properties
+313	ID14	24	Best Buds vs Bad Guys	Roboter fighting game 2d pc singleplayer	singleplayer	28.0	40.0	Game mode
+313	ID14	24	Best Buds vs Bad Guys	Roboter fighting game 2d pc singleplayer	fighting game	8.0	21.0	Genre
+313	ID14	24	Best Buds vs Bad Guys	Roboter fighting game 2d pc singleplayer	Roboter	0.0	7.0	Character(s)
+314	ID14	26	Best Buds vs Bad Guys	2d pc games	2d	0.0	2.0	Graphic design
+314	ID14	26	Best Buds vs Bad Guys	2d pc games	pc	3.0	5.0	Properties
+315	ID14	30	Best Buds vs Bad Guys	retro style games	retro style	0.0	11.0	Graphic design
+316	ID14	33	Best Buds vs Bad Guys	2d pc game old robot	2d	0.0	2.0	Graphic design
+316	ID14	33	Best Buds vs Bad Guys	2d pc game old robot	pc	3.0	5.0	Properties
+316	ID14	33	Best Buds vs Bad Guys	2d pc game old robot	robot	15.0	20.0	Character(s)
+316	ID14	33	Best Buds vs Bad Guys	2d pc game old robot	old	11.0	14.0	Release date
+317	ID14	36	Best Buds vs Bad Guys	Robomaze	Robomaze	0.0	8.0	Title
+318	ID14	39	Best Buds vs Bad Guys	Robomaze similar games	Robomaze	0.0	8.0	Title
+318	ID14	39	Best Buds vs Bad Guys	Robomaze similar games	similar games	9.0	22.0	N/A
+319	ID14	46	Best Buds vs Bad Guys	Vendetta game	Vendetta	0.0	8.0	Title
+320	ID14	49	Best Buds vs Bad Guys	vendetta game wunderare	vendetta	0.0	8.0	Title
+321	ID14	60	Best Buds vs Bad Guys	"category=""Shoot-em-up"" | sort-by=""most popular"""	Shoot-em-up	10.0	21.0	Genre
+321	ID14	60	Best Buds vs Bad Guys	"category=""Shoot-em-up"" | sort-by=""most popular"""	most popular	34.0	46.0	Popularity
+322	ID14	64	Townscaper	häuser auf wasser game	auf wasser	7.0	17.0	Setting
+322	ID14	64	Townscaper	häuser auf wasser game	häuser auf wasser	0.0	17.0	Gameplay mechanics
+323	ID15	2	Townscaper	"Ich suche ein PC-speil, relativ einfach. Ich würde in einem möglichen Forumseintrag sowas schreiben:
+
+""Ihr Lieben, 
+
+ich brauche Eure Hilfe, ich bin ein bisschen verzweifelt. Ich hab letztens auf einem fremden PC ein Spiel gespielt, dessen Name ich mir nicht aufgeschrieben habe und das ich jetzt nicht wiederfinde. Es sieht so ein bisschen aus wie Transport Tycoon (falls Ihr das noch kennt). Ausgangspunkt war eine Wasserfläche, auf der linken Seite waren so bunte Felder, die sich als Befehle zum Bauen von Molen und dann Häusern (Hausbestandteilen) in unterschiedlichen Farben herausgestellt haben. Das Raster war angenehm nicht-rechtwinklig, vielleicht erkennt Ihr das so besser wieder. Es war mindestens ein Easter-Egg drin versteckt, wenn man rot und weiß kombiniert hat, ist ein Leuchtturm entstanden. 
+
+Bei den Einstellungen fiel mir besonders auf, dass man den Sonnenstand und den Einfallswinkel der Sonne manipulieren konnte. Das war auch cool.
+
+Sorry, ist ein bisschen lang geworden. 
+
+Danke für Eure Hilfe!""
+
+Bitte versuch, das Spiel auf dieser Basis zu finden. Falls es nicht genau gelingt, gib mir bitte Hinwise für einen Prompt, mit dem Du es für wahrscheinlicher hältst, dass die Suche erfolgreich ist."	PC	210.0	212.0	Properties
+323	ID15	2	Townscaper	"Ich suche ein PC-speil, relativ einfach. Ich würde in einem möglichen Forumseintrag sowas schreiben:
+
+""Ihr Lieben, 
+
+ich brauche Eure Hilfe, ich bin ein bisschen verzweifelt. Ich hab letztens auf einem fremden PC ein Spiel gespielt, dessen Name ich mir nicht aufgeschrieben habe und das ich jetzt nicht wiederfinde. Es sieht so ein bisschen aus wie Transport Tycoon (falls Ihr das noch kennt). Ausgangspunkt war eine Wasserfläche, auf der linken Seite waren so bunte Felder, die sich als Befehle zum Bauen von Molen und dann Häusern (Hausbestandteilen) in unterschiedlichen Farben herausgestellt haben. Das Raster war angenehm nicht-rechtwinklig, vielleicht erkennt Ihr das so besser wieder. Es war mindestens ein Easter-Egg drin versteckt, wenn man rot und weiß kombiniert hat, ist ein Leuchtturm entstanden. 
+
+Bei den Einstellungen fiel mir besonders auf, dass man den Sonnenstand und den Einfallswinkel der Sonne manipulieren konnte. Das war auch cool.
+
+Sorry, ist ein bisschen lang geworden. 
+
+Danke für Eure Hilfe!""
+
+Bitte versuch, das Spiel auf dieser Basis zu finden. Falls es nicht genau gelingt, gib mir bitte Hinwise für einen Prompt, mit dem Du es für wahrscheinlicher hältst, dass die Suche erfolgreich ist."	Transport Tycoon	349.0	365.0	N/A
+323	ID15	2	Townscaper	"Ich suche ein PC-speil, relativ einfach. Ich würde in einem möglichen Forumseintrag sowas schreiben:
+
+""Ihr Lieben, 
+
+ich brauche Eure Hilfe, ich bin ein bisschen verzweifelt. Ich hab letztens auf einem fremden PC ein Spiel gespielt, dessen Name ich mir nicht aufgeschrieben habe und das ich jetzt nicht wiederfinde. Es sieht so ein bisschen aus wie Transport Tycoon (falls Ihr das noch kennt). Ausgangspunkt war eine Wasserfläche, auf der linken Seite waren so bunte Felder, die sich als Befehle zum Bauen von Molen und dann Häusern (Hausbestandteilen) in unterschiedlichen Farben herausgestellt haben. Das Raster war angenehm nicht-rechtwinklig, vielleicht erkennt Ihr das so besser wieder. Es war mindestens ein Easter-Egg drin versteckt, wenn man rot und weiß kombiniert hat, ist ein Leuchtturm entstanden. 
+
+Bei den Einstellungen fiel mir besonders auf, dass man den Sonnenstand und den Einfallswinkel der Sonne manipulieren konnte. Das war auch cool.
+
+Sorry, ist ein bisschen lang geworden. 
+
+Danke für Eure Hilfe!""
+
+Bitte versuch, das Spiel auf dieser Basis zu finden. Falls es nicht genau gelingt, gib mir bitte Hinwise für einen Prompt, mit dem Du es für wahrscheinlicher hältst, dass die Suche erfolgreich ist."	Es sieht so ein bisschen aus wie Transport Tycoon	316.0	365.0	N/A
+323	ID15	2	Townscaper	"Ich suche ein PC-speil, relativ einfach. Ich würde in einem möglichen Forumseintrag sowas schreiben:
+
+""Ihr Lieben, 
+
+ich brauche Eure Hilfe, ich bin ein bisschen verzweifelt. Ich hab letztens auf einem fremden PC ein Spiel gespielt, dessen Name ich mir nicht aufgeschrieben habe und das ich jetzt nicht wiederfinde. Es sieht so ein bisschen aus wie Transport Tycoon (falls Ihr das noch kennt). Ausgangspunkt war eine Wasserfläche, auf der linken Seite waren so bunte Felder, die sich als Befehle zum Bauen von Molen und dann Häusern (Hausbestandteilen) in unterschiedlichen Farben herausgestellt haben. Das Raster war angenehm nicht-rechtwinklig, vielleicht erkennt Ihr das so besser wieder. Es war mindestens ein Easter-Egg drin versteckt, wenn man rot und weiß kombiniert hat, ist ein Leuchtturm entstanden. 
+
+Bei den Einstellungen fiel mir besonders auf, dass man den Sonnenstand und den Einfallswinkel der Sonne manipulieren konnte. Das war auch cool.
+
+Sorry, ist ein bisschen lang geworden. 
+
+Danke für Eure Hilfe!""
+
+Bitte versuch, das Spiel auf dieser Basis zu finden. Falls es nicht genau gelingt, gib mir bitte Hinwise für einen Prompt, mit dem Du es für wahrscheinlicher hältst, dass die Suche erfolgreich ist."	Es sieht so ein bisschen aus wie Transport Tycoon	316.0	365.0	Graphic design
+323	ID15	2	Townscaper	"Ich suche ein PC-speil, relativ einfach. Ich würde in einem möglichen Forumseintrag sowas schreiben:
+
+""Ihr Lieben, 
+
+ich brauche Eure Hilfe, ich bin ein bisschen verzweifelt. Ich hab letztens auf einem fremden PC ein Spiel gespielt, dessen Name ich mir nicht aufgeschrieben habe und das ich jetzt nicht wiederfinde. Es sieht so ein bisschen aus wie Transport Tycoon (falls Ihr das noch kennt). Ausgangspunkt war eine Wasserfläche, auf der linken Seite waren so bunte Felder, die sich als Befehle zum Bauen von Molen und dann Häusern (Hausbestandteilen) in unterschiedlichen Farben herausgestellt haben. Das Raster war angenehm nicht-rechtwinklig, vielleicht erkennt Ihr das so besser wieder. Es war mindestens ein Easter-Egg drin versteckt, wenn man rot und weiß kombiniert hat, ist ein Leuchtturm entstanden. 
+
+Bei den Einstellungen fiel mir besonders auf, dass man den Sonnenstand und den Einfallswinkel der Sonne manipulieren konnte. Das war auch cool.
+
+Sorry, ist ein bisschen lang geworden. 
+
+Danke für Eure Hilfe!""
+
+Bitte versuch, das Spiel auf dieser Basis zu finden. Falls es nicht genau gelingt, gib mir bitte Hinwise für einen Prompt, mit dem Du es für wahrscheinlicher hältst, dass die Suche erfolgreich ist."	Ausgangspunkt war eine Wasserfläche, auf der linken Seite waren so bunte Felder, die sich als Befehle zum Bauen von Molen und dann Häusern (Hausbestandteilen) in unterschiedlichen Farben herausgestellt haben. Das Raster war angenehm nicht-rechtwinklig, vielleicht erkennt Ihr das so besser wieder. Es war mindestens ein Easter-Egg drin versteckt, wenn man rot und weiß kombiniert hat, ist ein Leuchtturm entstanden.	394.0	809.0	Graphic design
+323	ID15	2	Townscaper	"Ich suche ein PC-speil, relativ einfach. Ich würde in einem möglichen Forumseintrag sowas schreiben:
+
+""Ihr Lieben, 
+
+ich brauche Eure Hilfe, ich bin ein bisschen verzweifelt. Ich hab letztens auf einem fremden PC ein Spiel gespielt, dessen Name ich mir nicht aufgeschrieben habe und das ich jetzt nicht wiederfinde. Es sieht so ein bisschen aus wie Transport Tycoon (falls Ihr das noch kennt). Ausgangspunkt war eine Wasserfläche, auf der linken Seite waren so bunte Felder, die sich als Befehle zum Bauen von Molen und dann Häusern (Hausbestandteilen) in unterschiedlichen Farben herausgestellt haben. Das Raster war angenehm nicht-rechtwinklig, vielleicht erkennt Ihr das so besser wieder. Es war mindestens ein Easter-Egg drin versteckt, wenn man rot und weiß kombiniert hat, ist ein Leuchtturm entstanden. 
+
+Bei den Einstellungen fiel mir besonders auf, dass man den Sonnenstand und den Einfallswinkel der Sonne manipulieren konnte. Das war auch cool.
+
+Sorry, ist ein bisschen lang geworden. 
+
+Danke für Eure Hilfe!""
+
+Bitte versuch, das Spiel auf dieser Basis zu finden. Falls es nicht genau gelingt, gib mir bitte Hinwise für einen Prompt, mit dem Du es für wahrscheinlicher hältst, dass die Suche erfolgreich ist."	unterschiedlichen Farben	556.0	580.0	Graphic design
+323	ID15	2	Townscaper	"Ich suche ein PC-speil, relativ einfach. Ich würde in einem möglichen Forumseintrag sowas schreiben:
+
+""Ihr Lieben, 
+
+ich brauche Eure Hilfe, ich bin ein bisschen verzweifelt. Ich hab letztens auf einem fremden PC ein Spiel gespielt, dessen Name ich mir nicht aufgeschrieben habe und das ich jetzt nicht wiederfinde. Es sieht so ein bisschen aus wie Transport Tycoon (falls Ihr das noch kennt). Ausgangspunkt war eine Wasserfläche, auf der linken Seite waren so bunte Felder, die sich als Befehle zum Bauen von Molen und dann Häusern (Hausbestandteilen) in unterschiedlichen Farben herausgestellt haben. Das Raster war angenehm nicht-rechtwinklig, vielleicht erkennt Ihr das so besser wieder. Es war mindestens ein Easter-Egg drin versteckt, wenn man rot und weiß kombiniert hat, ist ein Leuchtturm entstanden. 
+
+Bei den Einstellungen fiel mir besonders auf, dass man den Sonnenstand und den Einfallswinkel der Sonne manipulieren konnte. Das war auch cool.
+
+Sorry, ist ein bisschen lang geworden. 
+
+Danke für Eure Hilfe!""
+
+Bitte versuch, das Spiel auf dieser Basis zu finden. Falls es nicht genau gelingt, gib mir bitte Hinwise für einen Prompt, mit dem Du es für wahrscheinlicher hältst, dass die Suche erfolgreich ist."	unterschiedlichen Farben	556.0	580.0	Graphic design
+323	ID15	2	Townscaper	"Ich suche ein PC-speil, relativ einfach. Ich würde in einem möglichen Forumseintrag sowas schreiben:
+
+""Ihr Lieben, 
+
+ich brauche Eure Hilfe, ich bin ein bisschen verzweifelt. Ich hab letztens auf einem fremden PC ein Spiel gespielt, dessen Name ich mir nicht aufgeschrieben habe und das ich jetzt nicht wiederfinde. Es sieht so ein bisschen aus wie Transport Tycoon (falls Ihr das noch kennt). Ausgangspunkt war eine Wasserfläche, auf der linken Seite waren so bunte Felder, die sich als Befehle zum Bauen von Molen und dann Häusern (Hausbestandteilen) in unterschiedlichen Farben herausgestellt haben. Das Raster war angenehm nicht-rechtwinklig, vielleicht erkennt Ihr das so besser wieder. Es war mindestens ein Easter-Egg drin versteckt, wenn man rot und weiß kombiniert hat, ist ein Leuchtturm entstanden. 
+
+Bei den Einstellungen fiel mir besonders auf, dass man den Sonnenstand und den Einfallswinkel der Sonne manipulieren konnte. Das war auch cool.
+
+Sorry, ist ein bisschen lang geworden. 
+
+Danke für Eure Hilfe!""
+
+Bitte versuch, das Spiel auf dieser Basis zu finden. Falls es nicht genau gelingt, gib mir bitte Hinwise für einen Prompt, mit dem Du es für wahrscheinlicher hältst, dass die Suche erfolgreich ist."	Das Raster war angenehm nicht-rechtwinklig	603.0	645.0	Graphic design
+323	ID15	2	Townscaper	"Ich suche ein PC-speil, relativ einfach. Ich würde in einem möglichen Forumseintrag sowas schreiben:
+
+""Ihr Lieben, 
+
+ich brauche Eure Hilfe, ich bin ein bisschen verzweifelt. Ich hab letztens auf einem fremden PC ein Spiel gespielt, dessen Name ich mir nicht aufgeschrieben habe und das ich jetzt nicht wiederfinde. Es sieht so ein bisschen aus wie Transport Tycoon (falls Ihr das noch kennt). Ausgangspunkt war eine Wasserfläche, auf der linken Seite waren so bunte Felder, die sich als Befehle zum Bauen von Molen und dann Häusern (Hausbestandteilen) in unterschiedlichen Farben herausgestellt haben. Das Raster war angenehm nicht-rechtwinklig, vielleicht erkennt Ihr das so besser wieder. Es war mindestens ein Easter-Egg drin versteckt, wenn man rot und weiß kombiniert hat, ist ein Leuchtturm entstanden. 
+
+Bei den Einstellungen fiel mir besonders auf, dass man den Sonnenstand und den Einfallswinkel der Sonne manipulieren konnte. Das war auch cool.
+
+Sorry, ist ein bisschen lang geworden. 
+
+Danke für Eure Hilfe!""
+
+Bitte versuch, das Spiel auf dieser Basis zu finden. Falls es nicht genau gelingt, gib mir bitte Hinwise für einen Prompt, mit dem Du es für wahrscheinlicher hältst, dass die Suche erfolgreich ist."	Bei den Einstellungen fiel mir besonders auf, dass man den Sonnenstand und den Einfallswinkel der Sonne manipulieren konnte.	812.0	936.0	Gameplay mechanics
+324	ID15	8	Best Buds vs Bad Guys	"Liebe KI,
+
+ich suche ein PC-Spiel (ich weiß nicht genau, ob browserbasiert oder als App). Ein Forumseintrag würde so lauten:
+
+""Liebe Leute, 
+
+ich hab schon wieder ein Spiel gespielt, dessen Name ich mir notiert habe. Es ist so jump'n'run, sieht von der Graphik her auch nach 90er (80er) aus, ganz simple Darstellungen, keine 3D-Animation, begrenztes Sichtfeld. Im Spiel muss man als bewaffnete Person durch Straßen ziehen und verschiedene Gegner:innen bekämpfen/töten. Ein Teil von denen sieht aus die Powerrangers, in roten und blauen Anzügen. Dann gibt es so Drohnen, die vertikal nach unten mit Laser schießen, weiter oben auf Gestängen (hab nur das erste Level gespielt) laufen noch etwas größere Dinger rum und werfen explodierende Fässer. Im Hintergrund ist eine Großstadt mit Hochhäusern zu erkennen, Hintergrundmusik ist auch wild und typisch computergeneriert, wie damals halt. Am Anfang startet man in einem Büro o.ä. und geht dann auf die Straße. Die Steuerung ist simpel, laufen, rennen, springen, schießen in alle Raumrichtungen, Fahrzeuge kann man wohl auch nutzen, hab ich aber nicht hinbekommen, kann ich also keine Details zu erzählen. 
+
+Ach so, es läuft einem immer eine zweite Person hinterher, man selbst hat eher ein Gewehr in der Hand, die andere Person eher sowas wie ne Pistole.
+
+Kommt Ihr drauf? Kennt Ihr das?
+
+Danke Euch!""
+
+Falls das nicht klappt, mach mir bitte Vorschläge für einen Prompt, der die Wahrscheinlichkeit erhöht, dass ich es finde.
+
+Danke!"	jump'n'run	227.0	237.0	Genre
+324	ID15	8	Best Buds vs Bad Guys	"Liebe KI,
+
+ich suche ein PC-Spiel (ich weiß nicht genau, ob browserbasiert oder als App). Ein Forumseintrag würde so lauten:
+
+""Liebe Leute, 
+
+ich hab schon wieder ein Spiel gespielt, dessen Name ich mir notiert habe. Es ist so jump'n'run, sieht von der Graphik her auch nach 90er (80er) aus, ganz simple Darstellungen, keine 3D-Animation, begrenztes Sichtfeld. Im Spiel muss man als bewaffnete Person durch Straßen ziehen und verschiedene Gegner:innen bekämpfen/töten. Ein Teil von denen sieht aus die Powerrangers, in roten und blauen Anzügen. Dann gibt es so Drohnen, die vertikal nach unten mit Laser schießen, weiter oben auf Gestängen (hab nur das erste Level gespielt) laufen noch etwas größere Dinger rum und werfen explodierende Fässer. Im Hintergrund ist eine Großstadt mit Hochhäusern zu erkennen, Hintergrundmusik ist auch wild und typisch computergeneriert, wie damals halt. Am Anfang startet man in einem Büro o.ä. und geht dann auf die Straße. Die Steuerung ist simpel, laufen, rennen, springen, schießen in alle Raumrichtungen, Fahrzeuge kann man wohl auch nutzen, hab ich aber nicht hinbekommen, kann ich also keine Details zu erzählen. 
+
+Ach so, es läuft einem immer eine zweite Person hinterher, man selbst hat eher ein Gewehr in der Hand, die andere Person eher sowas wie ne Pistole.
+
+Kommt Ihr drauf? Kennt Ihr das?
+
+Danke Euch!""
+
+Falls das nicht klappt, mach mir bitte Vorschläge für einen Prompt, der die Wahrscheinlichkeit erhöht, dass ich es finde.
+
+Danke!"	sieht von der Graphik her auch nach 90er (80er) aus, ganz simple Darstellungen, keine 3D-Animation	239.0	337.0	Gameplay mechanics
+324	ID15	8	Best Buds vs Bad Guys	"Liebe KI,
+
+ich suche ein PC-Spiel (ich weiß nicht genau, ob browserbasiert oder als App). Ein Forumseintrag würde so lauten:
+
+""Liebe Leute, 
+
+ich hab schon wieder ein Spiel gespielt, dessen Name ich mir notiert habe. Es ist so jump'n'run, sieht von der Graphik her auch nach 90er (80er) aus, ganz simple Darstellungen, keine 3D-Animation, begrenztes Sichtfeld. Im Spiel muss man als bewaffnete Person durch Straßen ziehen und verschiedene Gegner:innen bekämpfen/töten. Ein Teil von denen sieht aus die Powerrangers, in roten und blauen Anzügen. Dann gibt es so Drohnen, die vertikal nach unten mit Laser schießen, weiter oben auf Gestängen (hab nur das erste Level gespielt) laufen noch etwas größere Dinger rum und werfen explodierende Fässer. Im Hintergrund ist eine Großstadt mit Hochhäusern zu erkennen, Hintergrundmusik ist auch wild und typisch computergeneriert, wie damals halt. Am Anfang startet man in einem Büro o.ä. und geht dann auf die Straße. Die Steuerung ist simpel, laufen, rennen, springen, schießen in alle Raumrichtungen, Fahrzeuge kann man wohl auch nutzen, hab ich aber nicht hinbekommen, kann ich also keine Details zu erzählen. 
+
+Ach so, es läuft einem immer eine zweite Person hinterher, man selbst hat eher ein Gewehr in der Hand, die andere Person eher sowas wie ne Pistole.
+
+Kommt Ihr drauf? Kennt Ihr das?
+
+Danke Euch!""
+
+Falls das nicht klappt, mach mir bitte Vorschläge für einen Prompt, der die Wahrscheinlichkeit erhöht, dass ich es finde.
+
+Danke!"	begrenztes Sichtfeld	339.0	359.0	Gameplay mechanics
+324	ID15	8	Best Buds vs Bad Guys	"Liebe KI,
+
+ich suche ein PC-Spiel (ich weiß nicht genau, ob browserbasiert oder als App). Ein Forumseintrag würde so lauten:
+
+""Liebe Leute, 
+
+ich hab schon wieder ein Spiel gespielt, dessen Name ich mir notiert habe. Es ist so jump'n'run, sieht von der Graphik her auch nach 90er (80er) aus, ganz simple Darstellungen, keine 3D-Animation, begrenztes Sichtfeld. Im Spiel muss man als bewaffnete Person durch Straßen ziehen und verschiedene Gegner:innen bekämpfen/töten. Ein Teil von denen sieht aus die Powerrangers, in roten und blauen Anzügen. Dann gibt es so Drohnen, die vertikal nach unten mit Laser schießen, weiter oben auf Gestängen (hab nur das erste Level gespielt) laufen noch etwas größere Dinger rum und werfen explodierende Fässer. Im Hintergrund ist eine Großstadt mit Hochhäusern zu erkennen, Hintergrundmusik ist auch wild und typisch computergeneriert, wie damals halt. Am Anfang startet man in einem Büro o.ä. und geht dann auf die Straße. Die Steuerung ist simpel, laufen, rennen, springen, schießen in alle Raumrichtungen, Fahrzeuge kann man wohl auch nutzen, hab ich aber nicht hinbekommen, kann ich also keine Details zu erzählen. 
+
+Ach so, es läuft einem immer eine zweite Person hinterher, man selbst hat eher ein Gewehr in der Hand, die andere Person eher sowas wie ne Pistole.
+
+Kommt Ihr drauf? Kennt Ihr das?
+
+Danke Euch!""
+
+Falls das nicht klappt, mach mir bitte Vorschläge für einen Prompt, der die Wahrscheinlichkeit erhöht, dass ich es finde.
+
+Danke!"	Straßen	407.0	414.0	Setting
+324	ID15	8	Best Buds vs Bad Guys	"Liebe KI,
+
+ich suche ein PC-Spiel (ich weiß nicht genau, ob browserbasiert oder als App). Ein Forumseintrag würde so lauten:
+
+""Liebe Leute, 
+
+ich hab schon wieder ein Spiel gespielt, dessen Name ich mir notiert habe. Es ist so jump'n'run, sieht von der Graphik her auch nach 90er (80er) aus, ganz simple Darstellungen, keine 3D-Animation, begrenztes Sichtfeld. Im Spiel muss man als bewaffnete Person durch Straßen ziehen und verschiedene Gegner:innen bekämpfen/töten. Ein Teil von denen sieht aus die Powerrangers, in roten und blauen Anzügen. Dann gibt es so Drohnen, die vertikal nach unten mit Laser schießen, weiter oben auf Gestängen (hab nur das erste Level gespielt) laufen noch etwas größere Dinger rum und werfen explodierende Fässer. Im Hintergrund ist eine Großstadt mit Hochhäusern zu erkennen, Hintergrundmusik ist auch wild und typisch computergeneriert, wie damals halt. Am Anfang startet man in einem Büro o.ä. und geht dann auf die Straße. Die Steuerung ist simpel, laufen, rennen, springen, schießen in alle Raumrichtungen, Fahrzeuge kann man wohl auch nutzen, hab ich aber nicht hinbekommen, kann ich also keine Details zu erzählen. 
+
+Ach so, es läuft einem immer eine zweite Person hinterher, man selbst hat eher ein Gewehr in der Hand, die andere Person eher sowas wie ne Pistole.
+
+Kommt Ihr drauf? Kennt Ihr das?
+
+Danke Euch!""
+
+Falls das nicht klappt, mach mir bitte Vorschläge für einen Prompt, der die Wahrscheinlichkeit erhöht, dass ich es finde.
+
+Danke!"	die Powerrangers, in roten und blauen Anzügen	498.0	543.0	Character(s)
+324	ID15	8	Best Buds vs Bad Guys	"Liebe KI,
+
+ich suche ein PC-Spiel (ich weiß nicht genau, ob browserbasiert oder als App). Ein Forumseintrag würde so lauten:
+
+""Liebe Leute, 
+
+ich hab schon wieder ein Spiel gespielt, dessen Name ich mir notiert habe. Es ist so jump'n'run, sieht von der Graphik her auch nach 90er (80er) aus, ganz simple Darstellungen, keine 3D-Animation, begrenztes Sichtfeld. Im Spiel muss man als bewaffnete Person durch Straßen ziehen und verschiedene Gegner:innen bekämpfen/töten. Ein Teil von denen sieht aus die Powerrangers, in roten und blauen Anzügen. Dann gibt es so Drohnen, die vertikal nach unten mit Laser schießen, weiter oben auf Gestängen (hab nur das erste Level gespielt) laufen noch etwas größere Dinger rum und werfen explodierende Fässer. Im Hintergrund ist eine Großstadt mit Hochhäusern zu erkennen, Hintergrundmusik ist auch wild und typisch computergeneriert, wie damals halt. Am Anfang startet man in einem Büro o.ä. und geht dann auf die Straße. Die Steuerung ist simpel, laufen, rennen, springen, schießen in alle Raumrichtungen, Fahrzeuge kann man wohl auch nutzen, hab ich aber nicht hinbekommen, kann ich also keine Details zu erzählen. 
+
+Ach so, es läuft einem immer eine zweite Person hinterher, man selbst hat eher ein Gewehr in der Hand, die andere Person eher sowas wie ne Pistole.
+
+Kommt Ihr drauf? Kennt Ihr das?
+
+Danke Euch!""
+
+Falls das nicht klappt, mach mir bitte Vorschläge für einen Prompt, der die Wahrscheinlichkeit erhöht, dass ich es finde.
+
+Danke!"	weiter oben auf Gestängen (hab nur das erste Level gespielt) laufen noch etwas größere Dinger rum und werfen explodierende Fässer	614.0	743.0	Character(s)
+324	ID15	8	Best Buds vs Bad Guys	"Liebe KI,
+
+ich suche ein PC-Spiel (ich weiß nicht genau, ob browserbasiert oder als App). Ein Forumseintrag würde so lauten:
+
+""Liebe Leute, 
+
+ich hab schon wieder ein Spiel gespielt, dessen Name ich mir notiert habe. Es ist so jump'n'run, sieht von der Graphik her auch nach 90er (80er) aus, ganz simple Darstellungen, keine 3D-Animation, begrenztes Sichtfeld. Im Spiel muss man als bewaffnete Person durch Straßen ziehen und verschiedene Gegner:innen bekämpfen/töten. Ein Teil von denen sieht aus die Powerrangers, in roten und blauen Anzügen. Dann gibt es so Drohnen, die vertikal nach unten mit Laser schießen, weiter oben auf Gestängen (hab nur das erste Level gespielt) laufen noch etwas größere Dinger rum und werfen explodierende Fässer. Im Hintergrund ist eine Großstadt mit Hochhäusern zu erkennen, Hintergrundmusik ist auch wild und typisch computergeneriert, wie damals halt. Am Anfang startet man in einem Büro o.ä. und geht dann auf die Straße. Die Steuerung ist simpel, laufen, rennen, springen, schießen in alle Raumrichtungen, Fahrzeuge kann man wohl auch nutzen, hab ich aber nicht hinbekommen, kann ich also keine Details zu erzählen. 
+
+Ach so, es läuft einem immer eine zweite Person hinterher, man selbst hat eher ein Gewehr in der Hand, die andere Person eher sowas wie ne Pistole.
+
+Kommt Ihr drauf? Kennt Ihr das?
+
+Danke Euch!""
+
+Falls das nicht klappt, mach mir bitte Vorschläge für einen Prompt, der die Wahrscheinlichkeit erhöht, dass ich es finde.
+
+Danke!"	eine Großstadt mit Hochhäusern	764.0	794.0	Sound design
+324	ID15	8	Best Buds vs Bad Guys	"Liebe KI,
+
+ich suche ein PC-Spiel (ich weiß nicht genau, ob browserbasiert oder als App). Ein Forumseintrag würde so lauten:
+
+""Liebe Leute, 
+
+ich hab schon wieder ein Spiel gespielt, dessen Name ich mir notiert habe. Es ist so jump'n'run, sieht von der Graphik her auch nach 90er (80er) aus, ganz simple Darstellungen, keine 3D-Animation, begrenztes Sichtfeld. Im Spiel muss man als bewaffnete Person durch Straßen ziehen und verschiedene Gegner:innen bekämpfen/töten. Ein Teil von denen sieht aus die Powerrangers, in roten und blauen Anzügen. Dann gibt es so Drohnen, die vertikal nach unten mit Laser schießen, weiter oben auf Gestängen (hab nur das erste Level gespielt) laufen noch etwas größere Dinger rum und werfen explodierende Fässer. Im Hintergrund ist eine Großstadt mit Hochhäusern zu erkennen, Hintergrundmusik ist auch wild und typisch computergeneriert, wie damals halt. Am Anfang startet man in einem Büro o.ä. und geht dann auf die Straße. Die Steuerung ist simpel, laufen, rennen, springen, schießen in alle Raumrichtungen, Fahrzeuge kann man wohl auch nutzen, hab ich aber nicht hinbekommen, kann ich also keine Details zu erzählen. 
+
+Ach so, es läuft einem immer eine zweite Person hinterher, man selbst hat eher ein Gewehr in der Hand, die andere Person eher sowas wie ne Pistole.
+
+Kommt Ihr drauf? Kennt Ihr das?
+
+Danke Euch!""
+
+Falls das nicht klappt, mach mir bitte Vorschläge für einen Prompt, der die Wahrscheinlichkeit erhöht, dass ich es finde.
+
+Danke!"	Hintergrundmusik ist auch wild und typisch computergeneriert, wie damals halt	808.0	885.0	Sound design
+324	ID15	8	Best Buds vs Bad Guys	"Liebe KI,
+
+ich suche ein PC-Spiel (ich weiß nicht genau, ob browserbasiert oder als App). Ein Forumseintrag würde so lauten:
+
+""Liebe Leute, 
+
+ich hab schon wieder ein Spiel gespielt, dessen Name ich mir notiert habe. Es ist so jump'n'run, sieht von der Graphik her auch nach 90er (80er) aus, ganz simple Darstellungen, keine 3D-Animation, begrenztes Sichtfeld. Im Spiel muss man als bewaffnete Person durch Straßen ziehen und verschiedene Gegner:innen bekämpfen/töten. Ein Teil von denen sieht aus die Powerrangers, in roten und blauen Anzügen. Dann gibt es so Drohnen, die vertikal nach unten mit Laser schießen, weiter oben auf Gestängen (hab nur das erste Level gespielt) laufen noch etwas größere Dinger rum und werfen explodierende Fässer. Im Hintergrund ist eine Großstadt mit Hochhäusern zu erkennen, Hintergrundmusik ist auch wild und typisch computergeneriert, wie damals halt. Am Anfang startet man in einem Büro o.ä. und geht dann auf die Straße. Die Steuerung ist simpel, laufen, rennen, springen, schießen in alle Raumrichtungen, Fahrzeuge kann man wohl auch nutzen, hab ich aber nicht hinbekommen, kann ich also keine Details zu erzählen. 
+
+Ach so, es läuft einem immer eine zweite Person hinterher, man selbst hat eher ein Gewehr in der Hand, die andere Person eher sowas wie ne Pistole.
+
+Kommt Ihr drauf? Kennt Ihr das?
+
+Danke Euch!""
+
+Falls das nicht klappt, mach mir bitte Vorschläge für einen Prompt, der die Wahrscheinlichkeit erhöht, dass ich es finde.
+
+Danke!"	man in einem Büro	905.0	922.0	Setting
+324	ID15	8	Best Buds vs Bad Guys	"Liebe KI,
+
+ich suche ein PC-Spiel (ich weiß nicht genau, ob browserbasiert oder als App). Ein Forumseintrag würde so lauten:
+
+""Liebe Leute, 
+
+ich hab schon wieder ein Spiel gespielt, dessen Name ich mir notiert habe. Es ist so jump'n'run, sieht von der Graphik her auch nach 90er (80er) aus, ganz simple Darstellungen, keine 3D-Animation, begrenztes Sichtfeld. Im Spiel muss man als bewaffnete Person durch Straßen ziehen und verschiedene Gegner:innen bekämpfen/töten. Ein Teil von denen sieht aus die Powerrangers, in roten und blauen Anzügen. Dann gibt es so Drohnen, die vertikal nach unten mit Laser schießen, weiter oben auf Gestängen (hab nur das erste Level gespielt) laufen noch etwas größere Dinger rum und werfen explodierende Fässer. Im Hintergrund ist eine Großstadt mit Hochhäusern zu erkennen, Hintergrundmusik ist auch wild und typisch computergeneriert, wie damals halt. Am Anfang startet man in einem Büro o.ä. und geht dann auf die Straße. Die Steuerung ist simpel, laufen, rennen, springen, schießen in alle Raumrichtungen, Fahrzeuge kann man wohl auch nutzen, hab ich aber nicht hinbekommen, kann ich also keine Details zu erzählen. 
+
+Ach so, es läuft einem immer eine zweite Person hinterher, man selbst hat eher ein Gewehr in der Hand, die andere Person eher sowas wie ne Pistole.
+
+Kommt Ihr drauf? Kennt Ihr das?
+
+Danke Euch!""
+
+Falls das nicht klappt, mach mir bitte Vorschläge für einen Prompt, der die Wahrscheinlichkeit erhöht, dass ich es finde.
+
+Danke!"	Am Anfang startet man in einem Büro o.ä. und geht dann auf die Straße.	887.0	957.0	Structure
+324	ID15	8	Best Buds vs Bad Guys	"Liebe KI,
+
+ich suche ein PC-Spiel (ich weiß nicht genau, ob browserbasiert oder als App). Ein Forumseintrag würde so lauten:
+
+""Liebe Leute, 
+
+ich hab schon wieder ein Spiel gespielt, dessen Name ich mir notiert habe. Es ist so jump'n'run, sieht von der Graphik her auch nach 90er (80er) aus, ganz simple Darstellungen, keine 3D-Animation, begrenztes Sichtfeld. Im Spiel muss man als bewaffnete Person durch Straßen ziehen und verschiedene Gegner:innen bekämpfen/töten. Ein Teil von denen sieht aus die Powerrangers, in roten und blauen Anzügen. Dann gibt es so Drohnen, die vertikal nach unten mit Laser schießen, weiter oben auf Gestängen (hab nur das erste Level gespielt) laufen noch etwas größere Dinger rum und werfen explodierende Fässer. Im Hintergrund ist eine Großstadt mit Hochhäusern zu erkennen, Hintergrundmusik ist auch wild und typisch computergeneriert, wie damals halt. Am Anfang startet man in einem Büro o.ä. und geht dann auf die Straße. Die Steuerung ist simpel, laufen, rennen, springen, schießen in alle Raumrichtungen, Fahrzeuge kann man wohl auch nutzen, hab ich aber nicht hinbekommen, kann ich also keine Details zu erzählen. 
+
+Ach so, es läuft einem immer eine zweite Person hinterher, man selbst hat eher ein Gewehr in der Hand, die andere Person eher sowas wie ne Pistole.
+
+Kommt Ihr drauf? Kennt Ihr das?
+
+Danke Euch!""
+
+Falls das nicht klappt, mach mir bitte Vorschläge für einen Prompt, der die Wahrscheinlichkeit erhöht, dass ich es finde.
+
+Danke!"	Die Steuerung ist simpel, laufen, rennen, springen, schießen in alle Raumrichtungen, Fahrzeuge kann man wohl auch nutzen	958.0	1078.0	Gameplay mechanics
+324	ID15	8	Best Buds vs Bad Guys	"Liebe KI,
+
+ich suche ein PC-Spiel (ich weiß nicht genau, ob browserbasiert oder als App). Ein Forumseintrag würde so lauten:
+
+""Liebe Leute, 
+
+ich hab schon wieder ein Spiel gespielt, dessen Name ich mir notiert habe. Es ist so jump'n'run, sieht von der Graphik her auch nach 90er (80er) aus, ganz simple Darstellungen, keine 3D-Animation, begrenztes Sichtfeld. Im Spiel muss man als bewaffnete Person durch Straßen ziehen und verschiedene Gegner:innen bekämpfen/töten. Ein Teil von denen sieht aus die Powerrangers, in roten und blauen Anzügen. Dann gibt es so Drohnen, die vertikal nach unten mit Laser schießen, weiter oben auf Gestängen (hab nur das erste Level gespielt) laufen noch etwas größere Dinger rum und werfen explodierende Fässer. Im Hintergrund ist eine Großstadt mit Hochhäusern zu erkennen, Hintergrundmusik ist auch wild und typisch computergeneriert, wie damals halt. Am Anfang startet man in einem Büro o.ä. und geht dann auf die Straße. Die Steuerung ist simpel, laufen, rennen, springen, schießen in alle Raumrichtungen, Fahrzeuge kann man wohl auch nutzen, hab ich aber nicht hinbekommen, kann ich also keine Details zu erzählen. 
+
+Ach so, es läuft einem immer eine zweite Person hinterher, man selbst hat eher ein Gewehr in der Hand, die andere Person eher sowas wie ne Pistole.
+
+Kommt Ihr drauf? Kennt Ihr das?
+
+Danke Euch!""
+
+Falls das nicht klappt, mach mir bitte Vorschläge für einen Prompt, der die Wahrscheinlichkeit erhöht, dass ich es finde.
+
+Danke!"	Im Spiel muss man als bewaffnete Person durch Straßen ziehen und verschiedene Gegner:innen bekämpfen/töten	361.0	467.0	Gameplay mechanics
+324	ID15	8	Best Buds vs Bad Guys	"Liebe KI,
+
+ich suche ein PC-Spiel (ich weiß nicht genau, ob browserbasiert oder als App). Ein Forumseintrag würde so lauten:
+
+""Liebe Leute, 
+
+ich hab schon wieder ein Spiel gespielt, dessen Name ich mir notiert habe. Es ist so jump'n'run, sieht von der Graphik her auch nach 90er (80er) aus, ganz simple Darstellungen, keine 3D-Animation, begrenztes Sichtfeld. Im Spiel muss man als bewaffnete Person durch Straßen ziehen und verschiedene Gegner:innen bekämpfen/töten. Ein Teil von denen sieht aus die Powerrangers, in roten und blauen Anzügen. Dann gibt es so Drohnen, die vertikal nach unten mit Laser schießen, weiter oben auf Gestängen (hab nur das erste Level gespielt) laufen noch etwas größere Dinger rum und werfen explodierende Fässer. Im Hintergrund ist eine Großstadt mit Hochhäusern zu erkennen, Hintergrundmusik ist auch wild und typisch computergeneriert, wie damals halt. Am Anfang startet man in einem Büro o.ä. und geht dann auf die Straße. Die Steuerung ist simpel, laufen, rennen, springen, schießen in alle Raumrichtungen, Fahrzeuge kann man wohl auch nutzen, hab ich aber nicht hinbekommen, kann ich also keine Details zu erzählen. 
+
+Ach so, es läuft einem immer eine zweite Person hinterher, man selbst hat eher ein Gewehr in der Hand, die andere Person eher sowas wie ne Pistole.
+
+Kommt Ihr drauf? Kennt Ihr das?
+
+Danke Euch!""
+
+Falls das nicht klappt, mach mir bitte Vorschläge für einen Prompt, der die Wahrscheinlichkeit erhöht, dass ich es finde.
+
+Danke!"	Drohnen, die vertikal nach unten mit Laser schießen	561.0	612.0	Character(s)
+324	ID15	8	Best Buds vs Bad Guys	"Liebe KI,
+
+ich suche ein PC-Spiel (ich weiß nicht genau, ob browserbasiert oder als App). Ein Forumseintrag würde so lauten:
+
+""Liebe Leute, 
+
+ich hab schon wieder ein Spiel gespielt, dessen Name ich mir notiert habe. Es ist so jump'n'run, sieht von der Graphik her auch nach 90er (80er) aus, ganz simple Darstellungen, keine 3D-Animation, begrenztes Sichtfeld. Im Spiel muss man als bewaffnete Person durch Straßen ziehen und verschiedene Gegner:innen bekämpfen/töten. Ein Teil von denen sieht aus die Powerrangers, in roten und blauen Anzügen. Dann gibt es so Drohnen, die vertikal nach unten mit Laser schießen, weiter oben auf Gestängen (hab nur das erste Level gespielt) laufen noch etwas größere Dinger rum und werfen explodierende Fässer. Im Hintergrund ist eine Großstadt mit Hochhäusern zu erkennen, Hintergrundmusik ist auch wild und typisch computergeneriert, wie damals halt. Am Anfang startet man in einem Büro o.ä. und geht dann auf die Straße. Die Steuerung ist simpel, laufen, rennen, springen, schießen in alle Raumrichtungen, Fahrzeuge kann man wohl auch nutzen, hab ich aber nicht hinbekommen, kann ich also keine Details zu erzählen. 
+
+Ach so, es läuft einem immer eine zweite Person hinterher, man selbst hat eher ein Gewehr in der Hand, die andere Person eher sowas wie ne Pistole.
+
+Kommt Ihr drauf? Kennt Ihr das?
+
+Danke Euch!""
+
+Falls das nicht klappt, mach mir bitte Vorschläge für einen Prompt, der die Wahrscheinlichkeit erhöht, dass ich es finde.
+
+Danke!"	es läuft einem immer eine zweite Person hinterher, man selbst hat eher ein Gewehr in der Hand, die andere Person eher sowas wie ne Pistole.	1163.0	1302.0	Gameplay mechanics
+325	ID15	10	Best Buds vs Bad Guys	I am looking for an old 2D side-scrolling run-and-gun PC game (could be a browser emulator or old DOS/Windows app) with 80s/90s pixel graphics. The game starts inside an office/building and then moves to city strees with skyscrapers in the background. The player has a rifle, and a second AI-controlled companion follows them with a pistol. Enemies include guys wearing red and blue jumpsuits (looking like Power Rangers), flying drones, shooting vertical lasers, and bigger enemies on platforms throwing exploding barrels. You can shoot in 8 directions. What is the name of this game?	2D	24.0	26.0	Graphic design
+325	ID15	10	Best Buds vs Bad Guys	I am looking for an old 2D side-scrolling run-and-gun PC game (could be a browser emulator or old DOS/Windows app) with 80s/90s pixel graphics. The game starts inside an office/building and then moves to city strees with skyscrapers in the background. The player has a rifle, and a second AI-controlled companion follows them with a pistol. Enemies include guys wearing red and blue jumpsuits (looking like Power Rangers), flying drones, shooting vertical lasers, and bigger enemies on platforms throwing exploding barrels. You can shoot in 8 directions. What is the name of this game?	80s/90s pixel graphics	120.0	142.0	Graphic design
+325	ID15	10	Best Buds vs Bad Guys	I am looking for an old 2D side-scrolling run-and-gun PC game (could be a browser emulator or old DOS/Windows app) with 80s/90s pixel graphics. The game starts inside an office/building and then moves to city strees with skyscrapers in the background. The player has a rifle, and a second AI-controlled companion follows them with a pistol. Enemies include guys wearing red and blue jumpsuits (looking like Power Rangers), flying drones, shooting vertical lasers, and bigger enemies on platforms throwing exploding barrels. You can shoot in 8 directions. What is the name of this game?	The game starts inside an office/building and then moves to city strees with skyscrapers in the background	144.0	250.0	Setting
+325	ID15	10	Best Buds vs Bad Guys	I am looking for an old 2D side-scrolling run-and-gun PC game (could be a browser emulator or old DOS/Windows app) with 80s/90s pixel graphics. The game starts inside an office/building and then moves to city strees with skyscrapers in the background. The player has a rifle, and a second AI-controlled companion follows them with a pistol. Enemies include guys wearing red and blue jumpsuits (looking like Power Rangers), flying drones, shooting vertical lasers, and bigger enemies on platforms throwing exploding barrels. You can shoot in 8 directions. What is the name of this game?	a second AI-controlled companion follows them with a pistol	280.0	339.0	Character(s)
+325	ID15	10	Best Buds vs Bad Guys	I am looking for an old 2D side-scrolling run-and-gun PC game (could be a browser emulator or old DOS/Windows app) with 80s/90s pixel graphics. The game starts inside an office/building and then moves to city strees with skyscrapers in the background. The player has a rifle, and a second AI-controlled companion follows them with a pistol. Enemies include guys wearing red and blue jumpsuits (looking like Power Rangers), flying drones, shooting vertical lasers, and bigger enemies on platforms throwing exploding barrels. You can shoot in 8 directions. What is the name of this game?	Enemies include guys wearing red and blue jumpsuits (looking like Power Rangers), flying drones, shooting vertical lasers, and bigger enemies on platforms throwing exploding barrels.	341.0	523.0	Character(s)
+325	ID15	10	Best Buds vs Bad Guys	I am looking for an old 2D side-scrolling run-and-gun PC game (could be a browser emulator or old DOS/Windows app) with 80s/90s pixel graphics. The game starts inside an office/building and then moves to city strees with skyscrapers in the background. The player has a rifle, and a second AI-controlled companion follows them with a pistol. Enemies include guys wearing red and blue jumpsuits (looking like Power Rangers), flying drones, shooting vertical lasers, and bigger enemies on platforms throwing exploding barrels. You can shoot in 8 directions. What is the name of this game?	You can shoot in 8 directions	524.0	553.0	Gameplay mechanics
+325	ID15	10	Best Buds vs Bad Guys	I am looking for an old 2D side-scrolling run-and-gun PC game (could be a browser emulator or old DOS/Windows app) with 80s/90s pixel graphics. The game starts inside an office/building and then moves to city strees with skyscrapers in the background. The player has a rifle, and a second AI-controlled companion follows them with a pistol. Enemies include guys wearing red and blue jumpsuits (looking like Power Rangers), flying drones, shooting vertical lasers, and bigger enemies on platforms throwing exploding barrels. You can shoot in 8 directions. What is the name of this game?	2D side-scrolling run-and-gun	24.0	53.0	Genre
+325	ID15	10	Best Buds vs Bad Guys	I am looking for an old 2D side-scrolling run-and-gun PC game (could be a browser emulator or old DOS/Windows app) with 80s/90s pixel graphics. The game starts inside an office/building and then moves to city strees with skyscrapers in the background. The player has a rifle, and a second AI-controlled companion follows them with a pistol. Enemies include guys wearing red and blue jumpsuits (looking like Power Rangers), flying drones, shooting vertical lasers, and bigger enemies on platforms throwing exploding barrels. You can shoot in 8 directions. What is the name of this game?	PC	54.0	56.0	Properties
+325	ID15	10	Best Buds vs Bad Guys	I am looking for an old 2D side-scrolling run-and-gun PC game (could be a browser emulator or old DOS/Windows app) with 80s/90s pixel graphics. The game starts inside an office/building and then moves to city strees with skyscrapers in the background. The player has a rifle, and a second AI-controlled companion follows them with a pistol. Enemies include guys wearing red and blue jumpsuits (looking like Power Rangers), flying drones, shooting vertical lasers, and bigger enemies on platforms throwing exploding barrels. You can shoot in 8 directions. What is the name of this game?	DOS/Windows app	98.0	113.0	Properties
+325	ID15	10	Best Buds vs Bad Guys	I am looking for an old 2D side-scrolling run-and-gun PC game (could be a browser emulator or old DOS/Windows app) with 80s/90s pixel graphics. The game starts inside an office/building and then moves to city strees with skyscrapers in the background. The player has a rifle, and a second AI-controlled companion follows them with a pistol. Enemies include guys wearing red and blue jumpsuits (looking like Power Rangers), flying drones, shooting vertical lasers, and bigger enemies on platforms throwing exploding barrels. You can shoot in 8 directions. What is the name of this game?	old	94.0	97.0	Release date
+325	ID15	10	Best Buds vs Bad Guys	I am looking for an old 2D side-scrolling run-and-gun PC game (could be a browser emulator or old DOS/Windows app) with 80s/90s pixel graphics. The game starts inside an office/building and then moves to city strees with skyscrapers in the background. The player has a rifle, and a second AI-controlled companion follows them with a pistol. Enemies include guys wearing red and blue jumpsuits (looking like Power Rangers), flying drones, shooting vertical lasers, and bigger enemies on platforms throwing exploding barrels. You can shoot in 8 directions. What is the name of this game?	old	20.0	23.0	Release date
+326	ID15	14	Best Buds vs Bad Guys	Biete mal bitte Links zu Deinen erste drei Vermutungen an.				NO_CAT
+327	ID15	18	Best Buds vs Bad Guys	"Also das bringt nichts. Es sind schon weitestgehend menschenähnliche Figuren die ich steuere. Es gibt keinen Kontext Weltraum, manche Gegner:innen sehen nicht-menschlich aus, aber im Kern eben eher Kontext Nebenstraße einer Großstadt. Das erste Level wird zudem fast komplett auf dem Straßenniveau absolviert, also ohne Fahrzeug usw.
+
+Bitte suche nu noch innerhalb dieser Rahmenbedingungen. Außerdem brauche ich vermutlich wirklich einen bessere, konkreteren Prompt. Sag mir doch bitte welche informationen zum Speil Du von mir brauchst, damit die Suche erfolgreich läuft."	weitestgehend menschenähnliche Figuren die ich steuere	38.0	92.0	Character(s)
+327	ID15	18	Best Buds vs Bad Guys	"Also das bringt nichts. Es sind schon weitestgehend menschenähnliche Figuren die ich steuere. Es gibt keinen Kontext Weltraum, manche Gegner:innen sehen nicht-menschlich aus, aber im Kern eben eher Kontext Nebenstraße einer Großstadt. Das erste Level wird zudem fast komplett auf dem Straßenniveau absolviert, also ohne Fahrzeug usw.
+
+Bitte suche nu noch innerhalb dieser Rahmenbedingungen. Außerdem brauche ich vermutlich wirklich einen bessere, konkreteren Prompt. Sag mir doch bitte welche informationen zum Speil Du von mir brauchst, damit die Suche erfolgreich läuft."	manche Gegner:innen sehen nicht-menschlich aus	127.0	173.0	Character(s)
+327	ID15	18	Best Buds vs Bad Guys	"Also das bringt nichts. Es sind schon weitestgehend menschenähnliche Figuren die ich steuere. Es gibt keinen Kontext Weltraum, manche Gegner:innen sehen nicht-menschlich aus, aber im Kern eben eher Kontext Nebenstraße einer Großstadt. Das erste Level wird zudem fast komplett auf dem Straßenniveau absolviert, also ohne Fahrzeug usw.
+
+Bitte suche nu noch innerhalb dieser Rahmenbedingungen. Außerdem brauche ich vermutlich wirklich einen bessere, konkreteren Prompt. Sag mir doch bitte welche informationen zum Speil Du von mir brauchst, damit die Suche erfolgreich läuft."	Nebenstraße einer Großstadt	206.0	233.0	Setting
+327	ID15	18	Best Buds vs Bad Guys	"Also das bringt nichts. Es sind schon weitestgehend menschenähnliche Figuren die ich steuere. Es gibt keinen Kontext Weltraum, manche Gegner:innen sehen nicht-menschlich aus, aber im Kern eben eher Kontext Nebenstraße einer Großstadt. Das erste Level wird zudem fast komplett auf dem Straßenniveau absolviert, also ohne Fahrzeug usw.
+
+Bitte suche nu noch innerhalb dieser Rahmenbedingungen. Außerdem brauche ich vermutlich wirklich einen bessere, konkreteren Prompt. Sag mir doch bitte welche informationen zum Speil Du von mir brauchst, damit die Suche erfolgreich läuft."	Das erste Level wird zudem fast komplett auf dem Straßenniveau absolviert	235.0	308.0	Structure
+327	ID15	18	Best Buds vs Bad Guys	"Also das bringt nichts. Es sind schon weitestgehend menschenähnliche Figuren die ich steuere. Es gibt keinen Kontext Weltraum, manche Gegner:innen sehen nicht-menschlich aus, aber im Kern eben eher Kontext Nebenstraße einer Großstadt. Das erste Level wird zudem fast komplett auf dem Straßenniveau absolviert, also ohne Fahrzeug usw.
+
+Bitte suche nu noch innerhalb dieser Rahmenbedingungen. Außerdem brauche ich vermutlich wirklich einen bessere, konkreteren Prompt. Sag mir doch bitte welche informationen zum Speil Du von mir brauchst, damit die Suche erfolgreich läuft."	Das erste Level wird zudem fast komplett auf dem Straßenniveau absolviert, also ohne Fahrzeug usw.	235.0	333.0	Gameplay mechanics
+328	ID15	20	Best Buds vs Bad Guys	"1 Jeans und helles Oberteil, Begleiter hatte blonde Haare
+2 Roboter in rot und blau (humanoid), dann aber auch ""Monster"" underschiedlicher Art
+3 nur eine Ebene, reines 2D"	Jeans und helles Oberteil	2.0	27.0	Character(s)
+328	ID15	20	Best Buds vs Bad Guys	"1 Jeans und helles Oberteil, Begleiter hatte blonde Haare
+2 Roboter in rot und blau (humanoid), dann aber auch ""Monster"" underschiedlicher Art
+3 nur eine Ebene, reines 2D"	Begleiter hatte blonde Haare	29.0	57.0	Character(s)
+328	ID15	20	Best Buds vs Bad Guys	"1 Jeans und helles Oberteil, Begleiter hatte blonde Haare
+2 Roboter in rot und blau (humanoid), dann aber auch ""Monster"" underschiedlicher Art
+3 nur eine Ebene, reines 2D"	2D	168.0	170.0	Graphic design
+328	ID15	20	Best Buds vs Bad Guys	"1 Jeans und helles Oberteil, Begleiter hatte blonde Haare
+2 Roboter in rot und blau (humanoid), dann aber auch ""Monster"" underschiedlicher Art
+3 nur eine Ebene, reines 2D"	Roboter in rot und blau (humanoid),	60.0	95.0	Character(s)
+328	ID15	20	Best Buds vs Bad Guys	"1 Jeans und helles Oberteil, Begleiter hatte blonde Haare
+2 Roboter in rot und blau (humanoid), dann aber auch ""Monster"" underschiedlicher Art
+3 nur eine Ebene, reines 2D"	"Monster"" underschiedlicher Art"	112.0	142.0	Character(s)
+329	ID15	22	Best Buds vs Bad Guys	Ich muss das sofort herausfinden, ich brauche also einen Prompt oder Hilfe jetzt gleich.				NO_CAT
+330	ID15	25	Best Buds vs Bad Guys	Metal Slug Flash, Commando oder Crazy Flasher	Metal Slug Flash	0.0	16.0	Title
+330	ID15	25	Best Buds vs Bad Guys	Metal Slug Flash, Commando oder Crazy Flasher	Commando	18.0	26.0	Title
+330	ID15	25	Best Buds vs Bad Guys	Metal Slug Flash, Commando oder Crazy Flasher	Crazy Flasher	32.0	45.0	Title
+331	ID16	2	Best Buds vs Bad Guys	retro arcade shooter 2d	2d	21.0	23.0	Graphic design
+331	ID16	2	Best Buds vs Bad Guys	retro arcade shooter 2d	retro	0.0	5.0	Graphic design
+331	ID16	2	Best Buds vs Bad Guys	retro arcade shooter 2d	retro arcade shooter 2d	0.0	23.0	Genre
+332	ID16	6	Best Buds vs Bad Guys	Steam	Steam	0.0	5.0	N/A
+333	ID16	13	Best Buds vs Bad Guys	arcade retro shooter	arcade retro shooter	0.0	20.0	Genre
+333	ID16	13	Best Buds vs Bad Guys	arcade retro shooter	retro	7.0	12.0	Graphic design
+334	ID16	16	Best Buds vs Bad Guys	retro game forum game list	retro	0.0	5.0	Graphic design
+335	ID16	22	Best Buds vs Bad Guys	retro game genre list	retro	0.0	5.0	Graphic design
+336	ID16	27	Best Buds vs Bad Guys	retro arcade shooter pixel graphics 2d futuristic city	retro	0.0	5.0	Graphic design
+336	ID16	27	Best Buds vs Bad Guys	retro arcade shooter pixel graphics 2d futuristic city	pixel graphics	21.0	35.0	Graphic design
+336	ID16	27	Best Buds vs Bad Guys	retro arcade shooter pixel graphics 2d futuristic city	2d	36.0	38.0	Graphic design
+336	ID16	27	Best Buds vs Bad Guys	retro arcade shooter pixel graphics 2d futuristic city	futuristic city	39.0	54.0	Setting
+336	ID16	27	Best Buds vs Bad Guys	retro arcade shooter pixel graphics 2d futuristic city	arcade shooter	6.0	20.0	Genre
+337	ID16	30	Best Buds vs Bad Guys	retro arcade shooter pixel graphics 2d futuristic city	arcade shooter	6.0	20.0	Genre
+337	ID16	30	Best Buds vs Bad Guys	retro arcade shooter pixel graphics 2d futuristic city	retro	0.0	5.0	Graphic design
+337	ID16	30	Best Buds vs Bad Guys	retro arcade shooter pixel graphics 2d futuristic city	pixel graphics 2d	21.0	38.0	Graphic design
+337	ID16	30	Best Buds vs Bad Guys	retro arcade shooter pixel graphics 2d futuristic city	futuristic city	39.0	54.0	Setting
+338	ID16	31	Best Buds vs Bad Guys	retro arcade shooter pixel graphics 2d	retro	0.0	5.0	Graphic design
+338	ID16	31	Best Buds vs Bad Guys	retro arcade shooter pixel graphics 2d	pixel graphics 2d	21.0	38.0	Graphic design
+338	ID16	31	Best Buds vs Bad Guys	retro arcade shooter pixel graphics 2d	arcade shooter	6.0	20.0	Genre
+339	ID16	35	Best Buds vs Bad Guys	DuckDuckGo	DuckDuckGo	0.0	10.0	N/A
+340	ID16	39	Best Buds vs Bad Guys	retro arcade shooter pixel graphics 2d	retro	0.0	5.0	Graphic design
+340	ID16	39	Best Buds vs Bad Guys	retro arcade shooter pixel graphics 2d	pixel graphics 2d	21.0	38.0	Graphic design
+340	ID16	39	Best Buds vs Bad Guys	retro arcade shooter pixel graphics 2d	arcade shooter	6.0	20.0	Genre
+341	ID16	42	Best Buds vs Bad Guys	retro arcade shooter gmae pixel graphics 2d	arcade shooter	6.0	20.0	Genre
+341	ID16	42	Best Buds vs Bad Guys	retro arcade shooter gmae pixel graphics 2d	retro	0.0	5.0	Graphic design
+341	ID16	42	Best Buds vs Bad Guys	retro arcade shooter gmae pixel graphics 2d	pixel graphics 2d	26.0	43.0	Graphic design
+342	ID16	43	Best Buds vs Bad Guys	retro arcade shooter game pixel graphics 2d	pixel graphics 2d	26.0	43.0	Graphic design
+342	ID16	43	Best Buds vs Bad Guys	retro arcade shooter game pixel graphics 2d	retro	0.0	5.0	Graphic design
+342	ID16	43	Best Buds vs Bad Guys	retro arcade shooter game pixel graphics 2d	arcade shooter	6.0	20.0	Genre
+343	ID16	47	Best Buds vs Bad Guys	arcade 2d shooter list	arcade 2d shooter	0.0	17.0	Genre
+343	ID16	47	Best Buds vs Bad Guys	arcade 2d shooter list	2d	7.0	9.0	Graphic design
+344	ID16	56	Best Buds vs Bad Guys	Metal Slug game	Metal Slug	0.0	10.0	Title
+345	ID16	63	Best Buds vs Bad Guys	arcade 2d run and gun shooter	2d	7.0	9.0	Graphic design
+345	ID16	63	Best Buds vs Bad Guys	arcade 2d run and gun shooter	arcade 2d run and gun shooter	0.0	29.0	Genre
+346	ID16	68	Best Buds vs Bad Guys	ChatGPT	ChatGPT	0.0	7.0	N/A
+347	ID16	70	Best Buds vs Bad Guys	find retro shooter 2d run and gun multiple level in front of houses	multiple level	34.0	48.0	Structure
+347	ID16	70	Best Buds vs Bad Guys	find retro shooter 2d run and gun multiple level in front of houses	houses	61.0	67.0	Setting
+347	ID16	70	Best Buds vs Bad Guys	find retro shooter 2d run and gun multiple level in front of houses	run and gun multiple level in front of houses	22.0	67.0	Gameplay mechanics
+347	ID16	70	Best Buds vs Bad Guys	find retro shooter 2d run and gun multiple level in front of houses	2d	19.0	21.0	Graphic design
+347	ID16	70	Best Buds vs Bad Guys	find retro shooter 2d run and gun multiple level in front of houses	retro	5.0	10.0	Graphic design
+347	ID16	70	Best Buds vs Bad Guys	find retro shooter 2d run and gun multiple level in front of houses	retro shooter 2d	5.0	21.0	Genre
+348	ID16	74	Townscaper	creative city builder freeform	creative	0.0	8.0	Mood
+348	ID16	74	Townscaper	creative city builder freeform	city builder	9.0	21.0	Genre
+348	ID16	74	Townscaper	creative city builder freeform	city builder freeform	9.0	30.0	Gameplay mechanics
+349	ID16	78	Townscaper	Steam	Steam	0.0	5.0	N/A
+350	ID16	89	Townscaper	City builder in water without any specific goals. only coloring input and placing elements	City builder	0.0	12.0	Genre
+350	ID16	89	Townscaper	City builder in water without any specific goals. only coloring input and placing elements	City builder in water without any specific goals. only coloring input and placing elements	0.0	90.0	Gameplay mechanics
+351	ID17	2	Townscaper	videogame bridge/ house builder water	water	32.0	37.0	Setting
+351	ID17	2	Townscaper	videogame bridge/ house builder water	bridge/ house builder	10.0	31.0	Gameplay mechanics
+351	ID17	2	Townscaper	videogame bridge/ house builder water	builder	24.0	31.0	Genre
+352	ID17	6	Townscaper	videogame bridge/ house builder water casual watercolor	builder	24.0	31.0	Genre
+352	ID17	6	Townscaper	videogame bridge/ house builder water casual watercolor	casual	38.0	44.0	Genre
+352	ID17	6	Townscaper	videogame bridge/ house builder water casual watercolor	casual	38.0	44.0	Mood
+352	ID17	6	Townscaper	videogame bridge/ house builder water casual watercolor	watercolor	45.0	55.0	Graphic design
+352	ID17	6	Townscaper	videogame bridge/ house builder water casual watercolor	bridge/ house builder water	10.0	37.0	Gameplay mechanics
+352	ID17	6	Townscaper	videogame bridge/ house builder water casual watercolor	water	32.0	37.0	Setting
+353	ID17	13	Townscaper	videogame building houses on water casual watercolor	building houses on water	10.0	34.0	Gameplay mechanics
+353	ID17	13	Townscaper	videogame building houses on water casual watercolor	casual	35.0	41.0	Mood
+353	ID17	13	Townscaper	videogame building houses on water casual watercolor	casual	35.0	41.0	Genre
+353	ID17	13	Townscaper	videogame building houses on water casual watercolor	building houses	10.0	25.0	Genre
+353	ID17	13	Townscaper	videogame building houses on water casual watercolor	watercolor	42.0	52.0	Graphic design
+354	ID17	20	Best Buds vs Bad Guys	platformer 90s graphics aliens starts in office	platformer	0.0	10.0	Genre
+354	ID17	20	Best Buds vs Bad Guys	platformer 90s graphics aliens starts in office	90s graphics	11.0	23.0	Graphic design
+354	ID17	20	Best Buds vs Bad Guys	platformer 90s graphics aliens starts in office	aliens	24.0	30.0	Character(s)
+354	ID17	20	Best Buds vs Bad Guys	platformer 90s graphics aliens starts in office	office	41.0	47.0	Setting
+354	ID17	20	Best Buds vs Bad Guys	platformer 90s graphics aliens starts in office	starts in office	31.0	47.0	Structure
+354	ID17	20	Best Buds vs Bad Guys	platformer 90s graphics aliens starts in office	90s	11.0	14.0	Release date
+355	ID17	24	Best Buds vs Bad Guys	platformer 90s graphics instant zapper	90s graphics	11.0	23.0	Graphic design
+355	ID17	24	Best Buds vs Bad Guys	platformer 90s graphics instant zapper	platformer	0.0	10.0	Genre
+355	ID17	24	Best Buds vs Bad Guys	platformer 90s graphics instant zapper	instant zapper	24.0	38.0	Gameplay mechanics
+356	ID17	30	Best Buds vs Bad Guys	platformer 90s graphics office guy player character	platformer	0.0	10.0	Genre
+356	ID17	30	Best Buds vs Bad Guys	platformer 90s graphics office guy player character	90s graphics	11.0	23.0	Graphic design
+356	ID17	30	Best Buds vs Bad Guys	platformer 90s graphics office guy player character	office guy player character	24.0	51.0	Character(s)
+357	ID17	32	Best Buds vs Bad Guys	Platformer pixelated office guy player character	pixelated	11.0	20.0	Graphic design
+357	ID17	32	Best Buds vs Bad Guys	Platformer pixelated office guy player character	office guy player character	21.0	48.0	Character(s)
+357	ID17	32	Best Buds vs Bad Guys	Platformer pixelated office guy player character	Platformer	0.0	10.0	Genre
+358	ID17	34	Best Buds vs Bad Guys	platformer 90s pixel graphics office guy player character	90s pixel graphics	11.0	29.0	Graphic design
+358	ID17	34	Best Buds vs Bad Guys	platformer 90s pixel graphics office guy player character	90s	11.0	14.0	Release date
+358	ID17	34	Best Buds vs Bad Guys	platformer 90s pixel graphics office guy player character	platformer	0.0	10.0	Genre
+358	ID17	34	Best Buds vs Bad Guys	platformer 90s pixel graphics office guy player character	office guy player character	30.0	57.0	Character(s)
+359	ID17	36	Best Buds vs Bad Guys	list of pixel art platformers	pixel art	8.0	17.0	Graphic design
+359	ID17	36	Best Buds vs Bad Guys	list of pixel art platformers	platformers	18.0	29.0	Genre
+359	ID17	36	Best Buds vs Bad Guys	list of pixel art platformers	list of	0.0	7.0	Genre
+360	ID17	41	Best Buds vs Bad Guys	platformers terraria-like graphics	platformers	0.0	11.0	Genre
+360	ID17	41	Best Buds vs Bad Guys	platformers terraria-like graphics	terraria	12.0	20.0	Title
+360	ID17	41	Best Buds vs Bad Guys	platformers terraria-like graphics	terraria-like graphics	12.0	34.0	Graphic design
+360	ID17	41	Best Buds vs Bad Guys	platformers terraria-like graphics	terraria-like	12.0	25.0	N/A
+361	ID17	44	Best Buds vs Bad Guys	platformers terraria-like graphics city	terraria-like	12.0	25.0	N/A
+361	ID17	44	Best Buds vs Bad Guys	platformers terraria-like graphics city	terraria	12.0	20.0	Title
+361	ID17	44	Best Buds vs Bad Guys	platformers terraria-like graphics city	terraria-like graphics	12.0	34.0	Graphic design
+361	ID17	44	Best Buds vs Bad Guys	platformers terraria-like graphics city	city	35.0	39.0	Setting
+361	ID17	44	Best Buds vs Bad Guys	platformers terraria-like graphics city	platformers	0.0	11.0	Genre
+362	ID17	47	Best Buds vs Bad Guys	platformers terraria-like graphics city 2d	terraria	12.0	20.0	Title
+362	ID17	47	Best Buds vs Bad Guys	platformers terraria-like graphics city 2d	terraria-like	12.0	25.0	N/A
+362	ID17	47	Best Buds vs Bad Guys	platformers terraria-like graphics city 2d	terraria-like graphics	12.0	34.0	Graphic design
+362	ID17	47	Best Buds vs Bad Guys	platformers terraria-like graphics city 2d	2d	40.0	42.0	Graphic design
+362	ID17	47	Best Buds vs Bad Guys	platformers terraria-like graphics city 2d	city	35.0	39.0	Setting
+362	ID17	47	Best Buds vs Bad Guys	platformers terraria-like graphics city 2d	platformers	0.0	11.0	Genre
+363	ID18	2	Townscaper	ein spiel bei dem man häuse und gehwege auf eine fläche von wasser setzen kann	ein spiel bei dem man häuse und gehwege auf eine fläche von wasser setzen kann	0.0	78.0	Gameplay mechanics
+363	ID18	2	Townscaper	ein spiel bei dem man häuse und gehwege auf eine fläche von wasser setzen kann	eine fläche von wasser	44.0	66.0	Setting
+364	ID18	7	Best Buds vs Bad Guys	Ein pixelspiel, bei dem man sich nach links und rechts bewegt und auf gegner schiesst 	pixelspiel	4.0	14.0	Graphic design
+364	ID18	7	Best Buds vs Bad Guys	Ein pixelspiel, bei dem man sich nach links und rechts bewegt und auf gegner schiesst 	man sich nach links und rechts bewegt und auf gegner schiesst	24.0	85.0	Gameplay mechanics
+365	ID18	9	Best Buds vs Bad Guys	Ein pixelspiel, bei dem man sich nach links und rechts bewegt und auf gegner schiesst, und fragmente von einem schlüssel sammelt 	pixelspiel	4.0	14.0	Graphic design
+365	ID18	9	Best Buds vs Bad Guys	Ein pixelspiel, bei dem man sich nach links und rechts bewegt und auf gegner schiesst, und fragmente von einem schlüssel sammelt 	man sich nach links und rechts bewegt und auf gegner schiesst, und fragmente von einem schlüssel sammelt	24.0	128.0	Gameplay mechanics
+366	ID18	13	Best Buds vs Bad Guys	Ein pixelspiel, bei dem man sich nach links und rechts bewegt und auf gegner schiesst, und items sammelt (burger, grüner zylinder, tnt) und fragmente von einem schlüssel sammelt, mit 8 bit musik in hintergrund	pixelspiel	4.0	14.0	Graphic design
+366	ID18	13	Best Buds vs Bad Guys	Ein pixelspiel, bei dem man sich nach links und rechts bewegt und auf gegner schiesst, und items sammelt (burger, grüner zylinder, tnt) und fragmente von einem schlüssel sammelt, mit 8 bit musik in hintergrund	man sich nach links und rechts bewegt und auf gegner schiesst, und items sammelt (burger, grüner zylinder, tnt) und fragmente von einem schlüssel sammelt	24.0	177.0	Gameplay mechanics
+366	ID18	13	Best Buds vs Bad Guys	Ein pixelspiel, bei dem man sich nach links und rechts bewegt und auf gegner schiesst, und items sammelt (burger, grüner zylinder, tnt) und fragmente von einem schlüssel sammelt, mit 8 bit musik in hintergrund	8 bit musik in hintergrund	183.0	209.0	Sound design
+367	ID18	15	Best Buds vs Bad Guys	Ein pixelspiel, bei dem man sich nach links und rechts bewegt und auf gegner schiesst, und items sammelt wie burger, grüner zylinder, tnt und fragmente von einem schlüssel sammelt, mit 8 bit musik in hintergrund	pixelspiel	4.0	14.0	Graphic design
+367	ID18	15	Best Buds vs Bad Guys	Ein pixelspiel, bei dem man sich nach links und rechts bewegt und auf gegner schiesst, und items sammelt wie burger, grüner zylinder, tnt und fragmente von einem schlüssel sammelt, mit 8 bit musik in hintergrund	man sich nach links und rechts bewegt und auf gegner schiesst, und items sammelt wie burger, grüner zylinder, tnt und fragmente von einem schlüssel sammelt	24.0	179.0	Gameplay mechanics
+367	ID18	15	Best Buds vs Bad Guys	Ein pixelspiel, bei dem man sich nach links und rechts bewegt und auf gegner schiesst, und items sammelt wie burger, grüner zylinder, tnt und fragmente von einem schlüssel sammelt, mit 8 bit musik in hintergrund	8 bit musik in hintergrund	185.0	211.0	Sound design
+368	ID19	2	Townscaper	Bausimulation auf Wasser	Bausimulation	0.0	13.0	Genre
+368	ID19	2	Townscaper	Bausimulation auf Wasser	Wasser	18.0	24.0	Setting
+369	ID19	6	Townscaper	Bausimulation auf Wasser häuser	Bausimulation	0.0	13.0	Genre
+369	ID19	6	Townscaper	Bausimulation auf Wasser häuser	Wasser	18.0	24.0	Setting
+369	ID19	6	Townscaper	Bausimulation auf Wasser häuser	häuser	25.0	31.0	Gameplay mechanics
+370	ID19	8	Townscaper	spiel auf Wasser häuser	Wasser	10.0	16.0	Setting
+370	ID19	8	Townscaper	spiel auf Wasser häuser	häuser	17.0	23.0	Gameplay mechanics
+371	ID19	10	Townscaper	spiel Wasser häuser	Wasser	6.0	12.0	Setting
+371	ID19	10	Townscaper	spiel Wasser häuser	häuser	13.0	19.0	Gameplay mechanics
+372	ID19	12	Townscaper	computer spiel Wasser häuser	Wasser	15.0	21.0	Setting
+372	ID19	12	Townscaper	computer spiel Wasser häuser	häuser	22.0	28.0	Gameplay mechanics
+372	ID19	12	Townscaper	computer spiel Wasser häuser	computer	0.0	8.0	Properties
+373	ID19	14	Townscaper	computer spiel Wasser häuser comic	computer	0.0	8.0	Properties
+373	ID19	14	Townscaper	computer spiel Wasser häuser comic	Wasser	15.0	21.0	Setting
+373	ID19	14	Townscaper	computer spiel Wasser häuser comic	häuser	22.0	28.0	Gameplay mechanics
+373	ID19	14	Townscaper	computer spiel Wasser häuser comic	comic	29.0	34.0	Graphic design
+374	ID19	20	Best Buds vs Bad Guys	8-bit spiel shooter 2 player	8-bit	0.0	5.0	Graphic design
+374	ID19	20	Best Buds vs Bad Guys	8-bit spiel shooter 2 player	shooter	12.0	19.0	Genre
+374	ID19	20	Best Buds vs Bad Guys	8-bit spiel shooter 2 player	2 player	20.0	28.0	Gameplay mechanics
+375	ID19	24	Best Buds vs Bad Guys	steam	steam	0.0	5.0	N/A
+376	ID19	29	Best Buds vs Bad Guys	8-bit 	8-bit	0.0	5.0	Graphic design
+377	ID19	30	Best Buds vs Bad Guys	shooter, 8-bit	8-bit	9.0	14.0	Graphic design
+377	ID19	30	Best Buds vs Bad Guys	shooter, 8-bit	shooter	0.0	7.0	Genre
+378	ID19	32	Best Buds vs Bad Guys	Filters query with six tags: Shooter, Pixel-Art, 2D, Retro, Sidescroller, Action	Shooter	29.0	36.0	Genre
+378	ID19	32	Best Buds vs Bad Guys	Filters query with six tags: Shooter, Pixel-Art, 2D, Retro, Sidescroller, Action	Sidescroller	60.0	72.0	Genre
+378	ID19	32	Best Buds vs Bad Guys	Filters query with six tags: Shooter, Pixel-Art, 2D, Retro, Sidescroller, Action	Action	74.0	80.0	Genre
+378	ID19	32	Best Buds vs Bad Guys	Filters query with six tags: Shooter, Pixel-Art, 2D, Retro, Sidescroller, Action	Pixel-Art, 2D, Retro	38.0	58.0	Graphic design
+379	ID19	39	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit donkey kong robot	2d pixel	0.0	8.0	Graphic design
+379	ID19	39	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit donkey kong robot	shooter sidescroller	9.0	29.0	Genre
+379	ID19	39	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit donkey kong robot	2-person	30.0	38.0	Gameplay mechanics
+379	ID19	39	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit donkey kong robot	8-bit	39.0	44.0	Character(s)
+379	ID19	39	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit donkey kong robot	donkey kong robot	45.0	62.0	Character(s)
+380	ID19	41	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit	2d pixel	0.0	8.0	Graphic design
+380	ID19	41	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit	shooter sidescroller	9.0	29.0	Genre
+380	ID19	41	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit	2-person	30.0	38.0	Gameplay mechanics
+380	ID19	41	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit	8-bit	39.0	44.0	Graphic design
+381	ID19	50	Best Buds vs Bad Guys	donkey kong	donkey kong	0.0	11.0	Title
+381	ID19	50	Best Buds vs Bad Guys	donkey kong	donkey kong	0.0	11.0	Character(s)
+382	ID19	57	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit robot	2d pixel	0.0	8.0	Graphic design
+382	ID19	57	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit robot	8-bit	39.0	44.0	Graphic design
+382	ID19	57	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit robot	robot	45.0	50.0	Character(s)
+382	ID19	57	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit robot	2-person	30.0	38.0	Gameplay mechanics
+382	ID19	57	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit robot	shooter sidescroller	9.0	29.0	Genre
+383	ID19	60	Best Buds vs Bad Guys	anokolisa	anokolisa	0.0	9.0	Title
+384	ID19	65	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit cyberpunk	2d pixel	0.0	8.0	Graphic design
+384	ID19	65	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit cyberpunk	8-bit	39.0	44.0	Graphic design
+384	ID19	65	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit cyberpunk	cyberpunk	45.0	54.0	Genre
+384	ID19	65	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit cyberpunk	shooter sidescroller	9.0	29.0	Gameplay mechanics
+384	ID19	65	Best Buds vs Bad Guys	2d pixel shooter sidescroller 2-person 8-bit cyberpunk	2-person	30.0	38.0	Gameplay mechanics
+385	ID19	70	Best Buds vs Bad Guys	2d pixel shooter 2-person 8-bit cyberpunk	2d pixel	0.0	8.0	Graphic design
+385	ID19	70	Best Buds vs Bad Guys	2d pixel shooter 2-person 8-bit cyberpunk	8-bit	26.0	31.0	Graphic design
+385	ID19	70	Best Buds vs Bad Guys	2d pixel shooter 2-person 8-bit cyberpunk	cyberpunk	32.0	41.0	Genre
+385	ID19	70	Best Buds vs Bad Guys	2d pixel shooter 2-person 8-bit cyberpunk	shooter	9.0	16.0	Genre
+385	ID19	70	Best Buds vs Bad Guys	2d pixel shooter 2-person 8-bit cyberpunk	2-person	17.0	25.0	Gameplay mechanics
+386	ID19	74	Best Buds vs Bad Guys	neon inferno	neon inferno	0.0	12.0	Title
+387	ID19	78	Best Buds vs Bad Guys	2d pixel shooter 2-person 8-bit cyberpunk	2d pixel	0.0	8.0	Graphic design
+387	ID19	78	Best Buds vs Bad Guys	2d pixel shooter 2-person 8-bit cyberpunk	8-bit	26.0	31.0	Graphic design
+387	ID19	78	Best Buds vs Bad Guys	2d pixel shooter 2-person 8-bit cyberpunk	cyberpunk	32.0	41.0	Genre
+387	ID19	78	Best Buds vs Bad Guys	2d pixel shooter 2-person 8-bit cyberpunk	shooter	9.0	16.0	Genre
+387	ID19	78	Best Buds vs Bad Guys	2d pixel shooter 2-person 8-bit cyberpunk	2-person	17.0	25.0	Gameplay mechanics
+388	ID20	2	Best Buds vs Bad Guys	8 bite sidescoller 2 characters	2 characters	19.0	31.0	Gameplay mechanics
+388	ID20	2	Best Buds vs Bad Guys	8 bite sidescoller 2 characters	8 bite	0.0	6.0	Graphic design
+388	ID20	2	Best Buds vs Bad Guys	8 bite sidescoller 2 characters	sidescoller	7.0	18.0	Genre
+389	ID20	5	Best Buds vs Bad Guys	8 bit side scroller 2 characters	side scroller	6.0	19.0	Genre
+389	ID20	5	Best Buds vs Bad Guys	8 bit side scroller 2 characters	2 characters	20.0	32.0	Gameplay mechanics
+389	ID20	5	Best Buds vs Bad Guys	8 bit side scroller 2 characters	8 bit	0.0	5.0	Graphic design
+390	ID20	7	Best Buds vs Bad Guys	8 bit sidescroller 2 characters	8 bit	0.0	5.0	Graphic design
+390	ID20	7	Best Buds vs Bad Guys	8 bit sidescroller 2 characters	sidescroller	6.0	18.0	Genre
+390	ID20	7	Best Buds vs Bad Guys	8 bit sidescroller 2 characters	2 characters	19.0	31.0	Gameplay mechanics
+391	ID20	9	Best Buds vs Bad Guys	8 bit sidescroller with 2 characters	8 bit	0.0	5.0	Graphic design
+391	ID20	9	Best Buds vs Bad Guys	8 bit sidescroller with 2 characters	sidescroller	6.0	18.0	Genre
+391	ID20	9	Best Buds vs Bad Guys	8 bit sidescroller with 2 characters	2 characters	24.0	36.0	Gameplay mechanics
+392	ID20	12	Best Buds vs Bad Guys	8 bite sidescroller with 2 characters controlled pararell	2 characters controlled pararell	25.0	57.0	Gameplay mechanics
+392	ID20	12	Best Buds vs Bad Guys	8 bite sidescroller with 2 characters controlled pararell	8 bite	0.0	6.0	Graphic design
+392	ID20	12	Best Buds vs Bad Guys	8 bite sidescroller with 2 characters controlled pararell	sidescroller	7.0	19.0	Genre
+393	ID20	15	Best Buds vs Bad Guys	8 bit sidescroller 2 characters controlled pararell by the player	sidescroller	6.0	18.0	Genre
+393	ID20	15	Best Buds vs Bad Guys	8 bit sidescroller 2 characters controlled pararell by the player	8 bit	0.0	5.0	Graphic design
+393	ID20	15	Best Buds vs Bad Guys	8 bit sidescroller 2 characters controlled pararell by the player	2 characters controlled pararell by the player	19.0	65.0	Gameplay mechanics
+394	ID20	25	Best Buds vs Bad Guys	8 bit steam game charts	8 bit	0.0	5.0	Graphic design
+394	ID20	25	Best Buds vs Bad Guys	8 bit steam game charts	game charts	12.0	23.0	Popularity
+394	ID20	25	Best Buds vs Bad Guys	8 bit steam game charts	steam	6.0	11.0	N/A
+395	ID20	27	Best Buds vs Bad Guys	8 bit game with monkeys as enemies	8 bit	0.0	5.0	Graphic design
+395	ID20	27	Best Buds vs Bad Guys	8 bit game with monkeys as enemies	monkeys as enemies	16.0	34.0	Character(s)
+396	ID20	30	Best Buds vs Bad Guys	8 bit game with monkeys as enemies recently released	8 bit	0.0	5.0	Graphic design
+396	ID20	30	Best Buds vs Bad Guys	8 bit game with monkeys as enemies recently released	monkeys as enemies	16.0	34.0	Character(s)
+396	ID20	30	Best Buds vs Bad Guys	8 bit game with monkeys as enemies recently released	recently released	35.0	52.0	Release date
+397	ID20	34	Best Buds vs Bad Guys	8 bit game recently released	recently released	11.0	28.0	Release date
+397	ID20	34	Best Buds vs Bad Guys	8 bit game recently released	8 bit	0.0	5.0	Graphic design
+398	ID20	41	Best Buds vs Bad Guys	chat gpt	chat gpt	0.0	8.0	N/A
+399	ID20	43	Best Buds vs Bad Guys	moin				NO_CAT
+400	ID20	44	Best Buds vs Bad Guys	ich such ein spiel was ich gepislethaber aer mich nicht erinnern kann es ist auf jeden fall ein 8 bit sidescoller	8 bit	96.0	101.0	Graphic design
+400	ID20	44	Best Buds vs Bad Guys	ich such ein spiel was ich gepislethaber aer mich nicht erinnern kann es ist auf jeden fall ein 8 bit sidescoller	sidescoller	102.0	113.0	Genre
+401	ID20	45	Best Buds vs Bad Guys	markannt is dass man zwei charaktere gkeichzeitig spielt	man zwei charaktere gkeichzeitig spielt	17.0	56.0	Gameplay mechanics
+402	ID20	47	Best Buds vs Bad Guys	der zweite charakter hat quasi kopiert was ich gemacht habe	der zweite charakter hat quasi kopiert was ich gemacht habe	0.0	59.0	Gameplay mechanics
+403	ID20	49	Best Buds vs Bad Guys	der zweite war ein junge ich war ein älterer mann mit brille	der zweite war ein junge	0.0	24.0	Character(s)
+403	ID20	49	Best Buds vs Bad Guys	der zweite war ein junge ich war ein älterer mann mit brille	ich war ein älterer mann mit brille	25.0	60.0	Character(s)
+404	ID20	52	Townscaper	spiel mit wasser und häusern	wasser und häusern	10.0	28.0	Gameplay mechanics
+404	ID20	52	Townscaper	spiel mit wasser und häusern	wasser	10.0	16.0	Setting
+405	ID20	55	Townscaper	spiel mit wasser und häusern steam	steam	29.0	34.0	N/A
+405	ID20	55	Townscaper	spiel mit wasser und häusern steam	wasser und häusern	10.0	28.0	Gameplay mechanics
+405	ID20	55	Townscaper	spiel mit wasser und häusern steam	wasser	10.0	16.0	Setting
+406	ID21	2	Townscaper	Google	Google	0.0	6.0	N/A
+407	ID21	3	Townscaper	bauspiel Häuser auf dem wasser	bauspiel	0.0	8.0	Genre
+407	ID21	3	Townscaper	bauspiel Häuser auf dem wasser	auf dem wasser	16.0	30.0	Setting
+407	ID21	3	Townscaper	bauspiel Häuser auf dem wasser	Häuser auf dem wasser	9.0	30.0	Gameplay mechanics
+408	ID21	5	Townscaper	bauspiel Häuser auf dem wasser spiel	auf dem wasser	16.0	30.0	Setting
+408	ID21	5	Townscaper	bauspiel Häuser auf dem wasser spiel	bauspiel	0.0	8.0	Genre
+408	ID21	5	Townscaper	bauspiel Häuser auf dem wasser spiel	Häuser auf dem wasser	9.0	30.0	Gameplay mechanics
+409	ID21	9	Townscaper	bauspiel Häuser auf dem wasser computerspiel	auf dem wasser	16.0	30.0	Setting
+409	ID21	9	Townscaper	bauspiel Häuser auf dem wasser computerspiel	Häuser auf dem wasser	9.0	30.0	Gameplay mechanics
+409	ID21	9	Townscaper	bauspiel Häuser auf dem wasser computerspiel	bauspiel	0.0	8.0	Genre
+409	ID21	9	Townscaper	bauspiel Häuser auf dem wasser computerspiel	computerspiel	31.0	44.0	Properties
+410	ID21	11	Townscaper	Steam	Steam	0.0	5.0	N/A
+411	ID21	15	Townscaper	Build	Build	0.0	5.0	Genre
+411	ID21	15	Townscaper	Build	Build	0.0	5.0	Gameplay mechanics
+412	ID21	22	Townscaper	Bausimulation Waser	Bausimulation	0.0	13.0	Genre
+412	ID21	22	Townscaper	Bausimulation Waser	Waser	14.0	19.0	Setting
+413	ID21	25	Townscaper	Bausimulation Wasser	Wasser	14.0	20.0	Setting
+413	ID21	25	Townscaper	Bausimulation Wasser	Bausimulation	0.0	13.0	Genre
+414	ID21	28	Townscaper	Bausimulation Wasser Computerspiel	Bausimulation	0.0	13.0	Genre
+414	ID21	28	Townscaper	Bausimulation Wasser Computerspiel	Wasser	14.0	20.0	Setting
+414	ID21	28	Townscaper	Bausimulation Wasser Computerspiel	Computerspiel	21.0	34.0	Properties
+415	ID21	30	Townscaper	Häuser bau auf dem wasser computerspiel verschiede Farben	computerspiel	26.0	39.0	Properties
+415	ID21	30	Townscaper	Häuser bau auf dem wasser computerspiel verschiede Farben	verschiede Farben	40.0	57.0	Graphic design
+415	ID21	30	Townscaper	Häuser bau auf dem wasser computerspiel verschiede Farben	auf dem wasser	11.0	25.0	Setting
+415	ID21	30	Townscaper	Häuser bau auf dem wasser computerspiel verschiede Farben	Häuser bau auf dem wasser	0.0	25.0	Gameplay mechanics
+416	ID21	35	Best Buds vs Bad Guys	jump and run computerspiel apokalypse	jump and run	0.0	12.0	Genre
+416	ID21	35	Best Buds vs Bad Guys	jump and run computerspiel apokalypse	computerspiel	13.0	26.0	Properties
+416	ID21	35	Best Buds vs Bad Guys	jump and run computerspiel apokalypse	apokalypse	27.0	37.0	Setting
+416	ID21	35	Best Buds vs Bad Guys	jump and run computerspiel apokalypse	apokalypse	27.0	37.0	Mood
+417	ID21	38	Best Buds vs Bad Guys	jump and run computerspiel apokalypse wissenschaftler	apokalypse	27.0	37.0	Mood
+417	ID21	38	Best Buds vs Bad Guys	jump and run computerspiel apokalypse wissenschaftler	wissenschaftler	38.0	53.0	Character(s)
+417	ID21	38	Best Buds vs Bad Guys	jump and run computerspiel apokalypse wissenschaftler	computerspiel	13.0	26.0	Properties
+417	ID21	38	Best Buds vs Bad Guys	jump and run computerspiel apokalypse wissenschaftler	jump and run	0.0	12.0	Genre
+418	ID21	40	Best Buds vs Bad Guys	jump and run computerspiel apokalypse wissenschaftler und cyborg	jump and run	0.0	12.0	Genre
+418	ID21	40	Best Buds vs Bad Guys	jump and run computerspiel apokalypse wissenschaftler und cyborg	computerspiel	13.0	26.0	Properties
+418	ID21	40	Best Buds vs Bad Guys	jump and run computerspiel apokalypse wissenschaftler und cyborg	apokalypse	27.0	37.0	Setting
+418	ID21	40	Best Buds vs Bad Guys	jump and run computerspiel apokalypse wissenschaftler und cyborg	apokalypse	27.0	37.0	Mood
+418	ID21	40	Best Buds vs Bad Guys	jump and run computerspiel apokalypse wissenschaftler und cyborg	wissenschaftler	38.0	53.0	Character(s)
+418	ID21	40	Best Buds vs Bad Guys	jump and run computerspiel apokalypse wissenschaftler und cyborg	cyborg	58.0	64.0	Character(s)
+419	ID21	42	Best Buds vs Bad Guys	jump and run computerspiel apokalypen stadt	jump and run	0.0	12.0	Genre
+419	ID21	42	Best Buds vs Bad Guys	jump and run computerspiel apokalypen stadt	computerspiel	13.0	26.0	Properties
+419	ID21	42	Best Buds vs Bad Guys	jump and run computerspiel apokalypen stadt	apokalypen stadt	27.0	43.0	Setting
+419	ID21	42	Best Buds vs Bad Guys	jump and run computerspiel apokalypen stadt	apokalypen	27.0	37.0	Mood
+420	ID21	44	Best Buds vs Bad Guys	pixel jump and run computerspiel apokalypen stadt	pixel jump and run	0.0	18.0	Genre
+420	ID21	44	Best Buds vs Bad Guys	pixel jump and run computerspiel apokalypen stadt	computerspiel	19.0	32.0	Properties
+420	ID21	44	Best Buds vs Bad Guys	pixel jump and run computerspiel apokalypen stadt	apokalypen stadt	33.0	49.0	Graphic design
+420	ID21	44	Best Buds vs Bad Guys	pixel jump and run computerspiel apokalypen stadt	pixel	0.0	5.0	Graphic design
+421	ID21	49	Best Buds vs Bad Guys	pixel 	pixel	0.0	5.0	Graphic design
+422	ID21	52	Best Buds vs Bad Guys	Steam	Steam	0.0	5.0	N/A
+423	ID21	60	Best Buds vs Bad Guys	jump and run	jump and run	0.0	12.0	Genre
+424	ID21	64	Best Buds vs Bad Guys	"Apply the filters ""Einzelspielen"" and ""Pixel-Art"""	Einzelspielen	19.0	32.0	Game mode
+424	ID21	64	Best Buds vs Bad Guys	"Apply the filters ""Einzelspielen"" and ""Pixel-Art"""	Pixel-Art	39.0	48.0	Graphic design
+425	ID21	66	Best Buds vs Bad Guys	"Apply the filter ""2D"""	2D	18.0	20.0	Graphic design
+426	ID21	69	Best Buds vs Bad Guys	jump and run spiel pc	jump and run	0.0	12.0	Genre
+426	ID21	69	Best Buds vs Bad Guys	jump and run spiel pc	pc	19.0	21.0	Properties
+427	ID21	71	Best Buds vs Bad Guys	jump and run spiel pc pixel cyborg	jump and run	0.0	12.0	Genre
+427	ID21	71	Best Buds vs Bad Guys	jump and run spiel pc pixel cyborg	pc	19.0	21.0	Properties
+427	ID21	71	Best Buds vs Bad Guys	jump and run spiel pc pixel cyborg	pixel	22.0	27.0	Graphic design
+427	ID21	71	Best Buds vs Bad Guys	jump and run spiel pc pixel cyborg	cyborg	28.0	34.0	Character(s)
