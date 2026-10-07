@@ -8,7 +8,7 @@ View result list -> Platform switch -> Query,33
 Query -> Platform switch -> View result list,31
 View result list -> View single result -> View result list,27
 View result list -> Platform switch -> View result list,25
-Platform switch -> Query -> Platform switch,21
+Platform switch -> Query -> Platform switch,22
 Platform switch -> View result list -> Query,21
 View result list -> View single result -> Platform switch,19
 Query -> View AI response -> Query,19

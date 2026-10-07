@@ -6,8 +6,8 @@ Query -> View result list -> Query,13
 View single result -> View single result -> View single result,12
 Query -> View result list -> Platform switch,11
 Query -> Platform switch -> View result list,11
+Platform switch -> Query -> Platform switch,10
 View result list -> Platform switch -> Query,10
-Platform switch -> Query -> Platform switch,9
 View result list -> View single result -> View result list,9
 View result list -> Platform switch -> View result list,8
 View single result -> Platform switch -> Query,8

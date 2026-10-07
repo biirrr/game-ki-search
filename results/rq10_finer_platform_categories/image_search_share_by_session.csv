@@ -1,11 +1,12 @@
 participant_id,game,n_categorizable,n_image_search,image_search_share
 ID1,Best Buds vs Bad Guys,43,22,0.5116279069767442
 ID1,Townscaper,6,2,0.3333333333333333
-ID10,Best Buds vs Bad Guys,56,20,0.35714285714285715
+ID10,Best Buds vs Bad Guys,58,20,0.3448275862068966
 ID10,Townscaper,20,9,0.45
 ID11,Best Buds vs Bad Guys,25,0,0.0
 ID11,Townscaper,3,0,0.0
 ID12,Best Buds vs Bad Guys,51,30,0.5882352941176471
+ID12,Townscaper,13,0,0.0
 ID13,Best Buds vs Bad Guys,15,2,0.13333333333333333
 ID13,Townscaper,32,0,0.0
 ID14,Best Buds vs Bad Guys,49,18,0.3673469387755102
@@ -33,7 +34,7 @@ ID4,Townscaper,7,4,0.5714285714285714
 ID5,Best Buds vs Bad Guys,50,20,0.4
 ID5,Townscaper,6,0,0.0
 ID6,Best Buds vs Bad Guys,36,0,0.0
-ID6,Townscaper,5,0,0.0
+ID6,Townscaper,7,0,0.0
 ID7,Best Buds vs Bad Guys,36,4,0.1111111111111111
 ID7,Townscaper,13,0,0.0
 ID8,Best Buds vs Bad Guys,47,3,0.06382978723404255

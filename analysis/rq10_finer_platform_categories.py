@@ -40,6 +40,7 @@ import pandas as pd
 from scipy.spatial.distance import jensenshannon
 from scipy.stats import chi2_contingency
 
+from config import GAME_COLOURS
 from data import NON_SEARCH_ACTIONS, load_events
 from rq3_game_differences import BESTBUDS, TOWNSCAPER
 
@@ -122,9 +123,10 @@ def category_distribution_test(events: pd.DataFrame) -> tuple[pd.DataFrame, dict
 def plot_category_by_game(table: pd.DataFrame, path: Path) -> None:
     props = table.div(table.sum(axis=1), axis=0).T.sort_values(BESTBUDS)
     fig, ax = plt.subplots(figsize=(8, 4.5))
-    props.plot(kind="barh", ax=ax, color=["#b3690f", "#009485"])
-    ax.set_xlabel("Share of that game's categorizable events")
-    ax.set_title("Finer platform category (platform_map.json), by game")
+    props.plot(kind="barh", ax=ax, color=[GAME_COLOURS['Best Buds'], GAME_COLOURS['Townscaper']])
+    ax.set_ylabel("")
+    ax.set_xlabel("Share of actions", fontsize=12)
+    ax.set_title("Search platform category by game", fontsize=16)
     fig.tight_layout()
     fig.savefig(path, dpi=150)
     plt.close(fig)

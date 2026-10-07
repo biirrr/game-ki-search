@@ -2,11 +2,11 @@ pattern,count
 View result list -> Query -> View result list,83
 Query -> View result list -> Query,57
 Query -> View result list -> View single result,56
-Platform switch: Web search -> Query -> View result list,42
+Platform switch: Web search -> Query -> View result list,43
 View result list -> View single result -> View result list,36
 Query -> Platform switch: Image search -> View result list,35
+Platform switch: Web search -> Query -> Platform switch: Image search,25
 View result list -> Platform switch: Web search -> Query,25
-Platform switch: Web search -> Query -> Platform switch: Image search,24
 Query -> View result list -> Platform switch: Image search,24
 Query -> View AI response -> Query,24
 View single result -> Query -> View result list,21

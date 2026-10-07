@@ -2,7 +2,7 @@ from,n_bestbuds,n_townscaper,chi2,dof,p_value,js_divergence
 View info box,28,13,15.3309,6,0.0178,0.5724
 Browsing,12,16,5.2694,5,0.3839,0.4029
 Platform switch,78,68,10.8246,5,0.055,0.2573
-View result list,131,132,17.5515,7,0.0142,0.2349
+View result list,131,133,17.7086,7,0.0134,0.2354
 View AI response,28,31,3.3677,5,0.6435,0.2056
 Query,114,110,11.9906,6,0.0622,0.2029
 View single result,58,38,3.4491,6,0.7507,0.1694

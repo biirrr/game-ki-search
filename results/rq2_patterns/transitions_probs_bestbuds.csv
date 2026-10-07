@@ -2,7 +2,7 @@ from,Query,View result list,View single result,Platform switch,View AI response,
 Query,0.024,0.598,0.016,0.159,0.191,0.004,0.0,0.008
 View result list,0.319,0.03,0.27,0.248,0.03,0.052,0.022,0.03
 View single result,0.25,0.323,0.104,0.229,0.01,0.0,0.042,0.042
-Platform switch,0.528,0.358,0.006,0.034,0.028,0.0,0.045,0.0
+Platform switch,0.531,0.356,0.006,0.034,0.028,0.0,0.045,0.0
 View AI response,0.444,0.143,0.048,0.127,0.0,0.175,0.0,0.063
 View info box,0.098,0.146,0.098,0.195,0.049,0.366,0.0,0.049
 Browsing,0.143,0.214,0.036,0.214,0.0,0.0,0.357,0.036

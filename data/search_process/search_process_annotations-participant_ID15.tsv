@@ -1,32 +1,32 @@
-participant_id	rank	annotator	game	language	action	action_details_clean	action_details_num_tokens
-ID15	1	annotator4	Townscaper		Platform switch	Google AI Mode	3
-ID15	2	annotator4	Townscaper	DE	Query		189
-ID15	3	annotator4	Townscaper		View AI response		1
-ID15	4	annotator4	Townscaper		View single result	townscapergame.com	8
-ID15	5	annotator4	Townscaper		View AI response		1
-ID15	6	annotator4	Townscaper		Experiment ended		2
-ID15	7	annotator4	Best Buds vs Bad Guys		Platform switch	Google AI Mode	3
-ID15	8	annotator4	Best Buds vs Bad Guys	DE	Query		239
-ID15	9	annotator4	Best Buds vs Bad Guys		View AI response		1
-ID15	10	annotator4	Best Buds vs Bad Guys	EN	Query		101
-ID15	11	annotator4	Best Buds vs Bad Guys		View AI response		1
-ID15	12	annotator4	Best Buds vs Bad Guys		View single result	Youtube	6
-ID15	13	annotator4	Best Buds vs Bad Guys		View AI response		1
-ID15	14	annotator4	Best Buds vs Bad Guys	DE	Query		10
-ID15	15	annotator4	Best Buds vs Bad Guys		View AI response		1
-ID15	16	annotator4	Best Buds vs Bad Guys		View single result	Youtube	8
-ID15	17	annotator4	Best Buds vs Bad Guys		View single result	Youtube	8
-ID15	18	annotator4	Best Buds vs Bad Guys	DE	Query		82
-ID15	19	annotator4	Best Buds vs Bad Guys		View AI response		1
-ID15	20	annotator4	Best Buds vs Bad Guys	DE	Query		28
-ID15	21	annotator4	Best Buds vs Bad Guys		View AI response		1
-ID15	22	annotator4	Best Buds vs Bad Guys	DE	Query		14
-ID15	23	annotator4	Best Buds vs Bad Guys		View AI response		1
-ID15	24	annotator4	Best Buds vs Bad Guys		Platform switch	Google	1
-ID15	25	annotator4	Best Buds vs Bad Guys	NE	Query		7
-ID15	26	annotator4	Best Buds vs Bad Guys		View result list		2
-ID15	27	annotator4	Best Buds vs Bad Guys		Platform switch	Google Image Search	3
-ID15	28	annotator4	Best Buds vs Bad Guys		View result list		2
-ID15	29	annotator4	Best Buds vs Bad Guys		Platform switch	Google AI Mode	3
-ID15	30	annotator4	Best Buds vs Bad Guys		View AI response		0
-ID15	31	annotator4	Best Buds vs Bad Guys		Experiment ended		3
+participant_id	rank	annotator	game	language	action	query_tactic	action_details_clean	action_details_num_tokens
+ID15	1	annotator4	Townscaper		Platform switch		Google AI Mode	3
+ID15	2	annotator4	Townscaper	DE	Query	New query		189
+ID15	3	annotator4	Townscaper		View AI response			1
+ID15	4	annotator4	Townscaper		View single result		townscapergame.com	8
+ID15	5	annotator4	Townscaper		View AI response			1
+ID15	6	annotator4	Townscaper		Experiment ended			2
+ID15	7	annotator4	Best Buds vs Bad Guys		Platform switch		Google AI Mode	3
+ID15	8	annotator4	Best Buds vs Bad Guys	DE	Query	New query		239
+ID15	9	annotator4	Best Buds vs Bad Guys		View AI response			1
+ID15	10	annotator4	Best Buds vs Bad Guys	EN	Query	New query		101
+ID15	11	annotator4	Best Buds vs Bad Guys		View AI response			1
+ID15	12	annotator4	Best Buds vs Bad Guys		View single result		Youtube	6
+ID15	13	annotator4	Best Buds vs Bad Guys		View AI response			1
+ID15	14	annotator4	Best Buds vs Bad Guys	DE	Query	New query		10
+ID15	15	annotator4	Best Buds vs Bad Guys		View AI response			1
+ID15	16	annotator4	Best Buds vs Bad Guys		View single result		Youtube	8
+ID15	17	annotator4	Best Buds vs Bad Guys		View single result		Youtube	8
+ID15	18	annotator4	Best Buds vs Bad Guys	DE	Query	New query		82
+ID15	19	annotator4	Best Buds vs Bad Guys		View AI response			1
+ID15	20	annotator4	Best Buds vs Bad Guys	DE	Query	New query		28
+ID15	21	annotator4	Best Buds vs Bad Guys		View AI response			1
+ID15	22	annotator4	Best Buds vs Bad Guys	DE	Query	New query		14
+ID15	23	annotator4	Best Buds vs Bad Guys		View AI response			1
+ID15	24	annotator4	Best Buds vs Bad Guys		Platform switch		Google	1
+ID15	25	annotator4	Best Buds vs Bad Guys	NE	Query	New query		7
+ID15	26	annotator4	Best Buds vs Bad Guys		View result list			2
+ID15	27	annotator4	Best Buds vs Bad Guys		Platform switch		Google Image Search	3
+ID15	28	annotator4	Best Buds vs Bad Guys		View result list			2
+ID15	29	annotator4	Best Buds vs Bad Guys		Platform switch		Google AI Mode	3
+ID15	30	annotator4	Best Buds vs Bad Guys		View AI response			0
+ID15	31	annotator4	Best Buds vs Bad Guys		Experiment ended			3

@@ -36,6 +36,7 @@ import numpy as np
 import pandas as pd
 from scipy.stats import mannwhitneyu, wilcoxon
 
+from config import BB_COLOUR, TS_COLOUR
 from data import NON_SEARCH_ACTIONS, load_events
 from rq3_game_differences import BESTBUDS, TOWNSCAPER, shannon_entropy
 from rq6_order_effects import position_table
@@ -104,7 +105,7 @@ def plot_platform_categories(switches: pd.DataFrame, path: Path) -> None:
     counts = switches[switches["category"] != "(missing)"].groupby(["game", "category"]).size().unstack(fill_value=0)
     counts = counts.div(counts.sum(axis=1), axis=0)
     fig, ax = plt.subplots(figsize=(8, 4.5))
-    counts.T.plot(kind="barh", ax=ax, color=["#b3690f", "#009485"])
+    counts.T.plot(kind="barh", ax=ax, color=[BB_COLOUR, TS_COLOUR])
     ax.set_xlabel("Share of that game's platform switches")
     ax.set_title("Platform-switch destination category, by game")
     fig.tight_layout()

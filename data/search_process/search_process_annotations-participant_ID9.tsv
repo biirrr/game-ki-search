@@ -1,101 +1,101 @@
-participant_id	rank	annotator	game	language	action	action_details_clean	action_details_num_tokens
-ID9	1	annotator2	Best Buds vs Bad Guys		Platform switch	Google	1
-ID9	2	annotator2	Best Buds vs Bad Guys	EN	Query		2
-ID9	3	annotator2	Best Buds vs Bad Guys	EN	Query		4
-ID9	4	annotator2	Best Buds vs Bad Guys		View AI response		1
-ID9	5	annotator2	Best Buds vs Bad Guys		View single result	Wikipedia	4
-ID9	6	annotator2	Best Buds vs Bad Guys	EN	Query		6
-ID9	7	annotator2	Best Buds vs Bad Guys		View AI response		1
-ID9	8	annotator2	Best Buds vs Bad Guys		View result list		1
-ID9	9	annotator2	Best Buds vs Bad Guys	EN	Query		7
-ID9	10	annotator2	Best Buds vs Bad Guys		View result list		1
-ID9	11	annotator2	Best Buds vs Bad Guys	EN	Query		6
-ID9	12	annotator2	Best Buds vs Bad Guys		View result list		1
-ID9	13	annotator2	Best Buds vs Bad Guys	EN	Query		6
-ID9	14	annotator2	Best Buds vs Bad Guys		View AI response		1
-ID9	15	annotator2	Best Buds vs Bad Guys		View result list		1
-ID9	16	annotator2	Best Buds vs Bad Guys	EN	Query		1
-ID9	17	annotator2	Best Buds vs Bad Guys		View result list		1
-ID9	18	annotator2	Best Buds vs Bad Guys		View single result	Reddit	3
-ID9	19	annotator2	Best Buds vs Bad Guys		Platform switch	Reddit	1
-ID9	20	annotator2	Best Buds vs Bad Guys	EN	Query		1
-ID9	21	annotator2	Best Buds vs Bad Guys		View result list		1
-ID9	22	annotator2	Best Buds vs Bad Guys		View single result	Reddit forum	3
-ID9	23	annotator2	Best Buds vs Bad Guys		Platform switch	Reddit tipofmyjoystick	2
-ID9	24	annotator2	Best Buds vs Bad Guys	EN	Query		3
-ID9	25	annotator2	Best Buds vs Bad Guys		View result list		1
-ID9	26	annotator2	Best Buds vs Bad Guys	EN	Query		3
-ID9	27	annotator2	Best Buds vs Bad Guys		View result list		1
-ID9	28	annotator2	Best Buds vs Bad Guys		View single result	Reddit	9
-ID9	29	annotator2	Best Buds vs Bad Guys		Platform switch	Google	1
-ID9	30	annotator2	Best Buds vs Bad Guys	EN	Query		5
-ID9	31	annotator2	Best Buds vs Bad Guys		View result list		1
-ID9	32	annotator2	Best Buds vs Bad Guys		Platform switch	Reddit tipofmyjoystick	2
-ID9	33	annotator2	Best Buds vs Bad Guys		View result list		1
-ID9	34	annotator2	Best Buds vs Bad Guys	EN	Query		5
-ID9	35	annotator2	Best Buds vs Bad Guys		View result list		1
-ID9	36	annotator2	Best Buds vs Bad Guys		View single result	Reddit	7
-ID9	37	annotator2	Best Buds vs Bad Guys		View result list		1
-ID9	38	annotator2	Best Buds vs Bad Guys		View single result	Reddit	14
-ID9	39	annotator2	Best Buds vs Bad Guys		View result list		1
-ID9	40	annotator2	Best Buds vs Bad Guys		View single result	Reddit	21
-ID9	41	annotator2	Best Buds vs Bad Guys		View result list		1
-ID9	42	annotator2	Best Buds vs Bad Guys		View single result	Reddit	9
-ID9	43	annotator2	Best Buds vs Bad Guys		View single result	Youtube	4
-ID9	44	annotator2	Best Buds vs Bad Guys		Experiment ended		3
-ID9	45	annotator2	Townscaper		Platform switch	Google	1
-ID9	46	annotator2	Townscaper	EN	Query		2
-ID9	47	annotator2	Townscaper	EN	Query		4
-ID9	48	annotator2	Townscaper		View result list		1
-ID9	49	annotator2	Townscaper		View single result	Reddit	10
-ID9	50	annotator2	Townscaper	EN	Query		1
-ID9	51	annotator2	Townscaper		View result list		1
-ID9	52	annotator2	Townscaper		Platform switch	Reddit CozyGames	2
-ID9	53	annotator2	Townscaper	EN	Query		2
-ID9	54	annotator2	Townscaper		View result list		1
-ID9	55	annotator2	Townscaper		View single result	Steam	4
-ID9	56	annotator2	Townscaper		View single result	Steam	3
-ID9	57	annotator2	Townscaper		View single result	Steam	3
-ID9	58	annotator2	Townscaper		View single result	Steam	5
-ID9	59	annotator2	Townscaper		View single result	Steam	5
-ID9	60	annotator2	Townscaper		View single result	Steam	5
-ID9	61	annotator2	Townscaper		View single result	Steam	3
-ID9	62	annotator2	Townscaper		View single result	Steam	3
-ID9	63	annotator2	Townscaper		View single result	Steam	6
-ID9	64	annotator2	Townscaper		View single result	Steam	5
-ID9	65	annotator2	Townscaper		View single result	Steam	4
-ID9	66	annotator2	Townscaper		View single result	Steam: GRIS	3
-ID9	67	annotator2	Townscaper		Platform switch	Google	1
-ID9	68	annotator2	Townscaper	EN	Query		2
-ID9	69	annotator2	Townscaper		View result list		1
-ID9	70	annotator2	Townscaper	EN	Query		7
-ID9	71	annotator2	Townscaper		View AI response		1
-ID9	72	annotator2	Townscaper	EN	Query		1
-ID9	73	annotator2	Townscaper		View result list		1
-ID9	74	annotator2	Townscaper	EN	Query		1
-ID9	75	annotator2	Townscaper		View result list		1
-ID9	76	annotator2	Townscaper		View single result	Reddit	5
-ID9	77	annotator2	Townscaper		Platform switch	Reddit tipofmyjoystick	2
-ID9	78	annotator2	Townscaper	EN	Query		5
-ID9	79	annotator2	Townscaper		View result list		1
-ID9	80	annotator2	Townscaper		View single result	Reddit	4
-ID9	81	annotator2	Townscaper		View result list		1
-ID9	82	annotator2	Townscaper		View single result	Reddit	4
-ID9	83	annotator2	Townscaper		View result list		1
-ID9	84	annotator2	Townscaper		View single result	Reddit	4
-ID9	85	annotator2	Townscaper		Platform switch	Google	1
-ID9	86	annotator2	Townscaper	EN	Query		2
-ID9	87	annotator2	Townscaper		Platform switch	Google Image Search	3
-ID9	88	annotator2	Townscaper		View result list		1
-ID9	89	annotator2	Townscaper		Platform switch	Google	1
-ID9	90	annotator2	Townscaper	EN	Query		2
-ID9	91	annotator2	Townscaper		View result list		1
-ID9	92	annotator2	Townscaper	EN	Query		1
-ID9	93	annotator2	Townscaper		View result list		1
-ID9	94	annotator2	Townscaper	EN	Query		2
-ID9	95	annotator2	Townscaper		View result list		1
-ID9	96	annotator2	Townscaper		Platform switch	Google Image Search	3
-ID9	97	annotator2	Townscaper		View result list		1
-ID9	98	annotator2	Townscaper		Platform switch	Reddit	1
-ID9	99	annotator2	Townscaper		View result list		1
-ID9	100	annotator2	Townscaper		Experiment ended		3
+participant_id	rank	annotator	game	language	action	query_tactic	action_details_clean	action_details_num_tokens
+ID9	1	annotator2	Best Buds vs Bad Guys		Platform switch		Google	1
+ID9	2	annotator2	Best Buds vs Bad Guys	EN	Query	New query		2
+ID9	3	annotator2	Best Buds vs Bad Guys	EN	Query	New query		4
+ID9	4	annotator2	Best Buds vs Bad Guys		View AI response			1
+ID9	5	annotator2	Best Buds vs Bad Guys		View single result		Wikipedia	4
+ID9	6	annotator2	Best Buds vs Bad Guys	EN	Query	New query		6
+ID9	7	annotator2	Best Buds vs Bad Guys		View AI response			1
+ID9	8	annotator2	Best Buds vs Bad Guys		View result list			1
+ID9	9	annotator2	Best Buds vs Bad Guys	EN	Query	Reformulation		7
+ID9	10	annotator2	Best Buds vs Bad Guys		View result list			1
+ID9	11	annotator2	Best Buds vs Bad Guys	EN	Query	Reformulation		6
+ID9	12	annotator2	Best Buds vs Bad Guys		View result list			1
+ID9	13	annotator2	Best Buds vs Bad Guys	EN	Query	Reformulation		6
+ID9	14	annotator2	Best Buds vs Bad Guys		View AI response			1
+ID9	15	annotator2	Best Buds vs Bad Guys		View result list			1
+ID9	16	annotator2	Best Buds vs Bad Guys	EN	Query	New query		1
+ID9	17	annotator2	Best Buds vs Bad Guys		View result list			1
+ID9	18	annotator2	Best Buds vs Bad Guys		View single result		Reddit	3
+ID9	19	annotator2	Best Buds vs Bad Guys		Platform switch		Reddit	1
+ID9	20	annotator2	Best Buds vs Bad Guys	EN	Query	New query		1
+ID9	21	annotator2	Best Buds vs Bad Guys		View result list			1
+ID9	22	annotator2	Best Buds vs Bad Guys		View single result		Reddit forum	3
+ID9	23	annotator2	Best Buds vs Bad Guys		Platform switch		Reddit tipofmyjoystick	2
+ID9	24	annotator2	Best Buds vs Bad Guys	EN	Query	New query		3
+ID9	25	annotator2	Best Buds vs Bad Guys		View result list			1
+ID9	26	annotator2	Best Buds vs Bad Guys	EN	Query	Unchanged		3
+ID9	27	annotator2	Best Buds vs Bad Guys		View result list			1
+ID9	28	annotator2	Best Buds vs Bad Guys		View single result		Reddit	9
+ID9	29	annotator2	Best Buds vs Bad Guys		Platform switch		Google	1
+ID9	30	annotator2	Best Buds vs Bad Guys	EN	Query	New query		5
+ID9	31	annotator2	Best Buds vs Bad Guys		View result list			1
+ID9	32	annotator2	Best Buds vs Bad Guys		Platform switch		Reddit tipofmyjoystick	2
+ID9	33	annotator2	Best Buds vs Bad Guys		View result list			1
+ID9	34	annotator2	Best Buds vs Bad Guys	EN	Query	New query		5
+ID9	35	annotator2	Best Buds vs Bad Guys		View result list			1
+ID9	36	annotator2	Best Buds vs Bad Guys		View single result		Reddit	7
+ID9	37	annotator2	Best Buds vs Bad Guys		View result list			1
+ID9	38	annotator2	Best Buds vs Bad Guys		View single result		Reddit	14
+ID9	39	annotator2	Best Buds vs Bad Guys		View result list			1
+ID9	40	annotator2	Best Buds vs Bad Guys		View single result		Reddit	21
+ID9	41	annotator2	Best Buds vs Bad Guys		View result list			1
+ID9	42	annotator2	Best Buds vs Bad Guys		View single result		Reddit	9
+ID9	43	annotator2	Best Buds vs Bad Guys		View single result		Youtube	4
+ID9	44	annotator2	Best Buds vs Bad Guys		Experiment ended			3
+ID9	45	annotator2	Townscaper		Platform switch		Google	1
+ID9	46	annotator2	Townscaper	EN	Query	New query		2
+ID9	47	annotator2	Townscaper	EN	Query	New query		4
+ID9	48	annotator2	Townscaper		View result list			1
+ID9	49	annotator2	Townscaper		View single result		Reddit	10
+ID9	50	annotator2	Townscaper	EN	Query	New query		1
+ID9	51	annotator2	Townscaper		View result list			1
+ID9	52	annotator2	Townscaper		Platform switch		Reddit CozyGames	2
+ID9	53	annotator2	Townscaper	EN	Query	New query		2
+ID9	54	annotator2	Townscaper		View result list			1
+ID9	55	annotator2	Townscaper		View single result		Steam	4
+ID9	56	annotator2	Townscaper		View single result		Steam	3
+ID9	57	annotator2	Townscaper		View single result		Steam	3
+ID9	58	annotator2	Townscaper		View single result		Steam	5
+ID9	59	annotator2	Townscaper		View single result		Steam	5
+ID9	60	annotator2	Townscaper		View single result		Steam	5
+ID9	61	annotator2	Townscaper		View single result		Steam	3
+ID9	62	annotator2	Townscaper		View single result		Steam	3
+ID9	63	annotator2	Townscaper		View single result		Steam	6
+ID9	64	annotator2	Townscaper		View single result		Steam	5
+ID9	65	annotator2	Townscaper		View single result		Steam	4
+ID9	66	annotator2	Townscaper		View single result		Steam: GRIS	3
+ID9	67	annotator2	Townscaper		Platform switch		Google	1
+ID9	68	annotator2	Townscaper	EN	Query	New query		2
+ID9	69	annotator2	Townscaper		View result list			1
+ID9	70	annotator2	Townscaper	EN	Query	New query		7
+ID9	71	annotator2	Townscaper		View AI response			1
+ID9	72	annotator2	Townscaper	EN	Query	New query		1
+ID9	73	annotator2	Townscaper		View result list			1
+ID9	74	annotator2	Townscaper	EN	Query	New query		1
+ID9	75	annotator2	Townscaper		View result list			1
+ID9	76	annotator2	Townscaper		View single result		Reddit	5
+ID9	77	annotator2	Townscaper		Platform switch		Reddit tipofmyjoystick	2
+ID9	78	annotator2	Townscaper	EN	Query	New query		5
+ID9	79	annotator2	Townscaper		View result list			1
+ID9	80	annotator2	Townscaper		View single result		Reddit	4
+ID9	81	annotator2	Townscaper		View result list			1
+ID9	82	annotator2	Townscaper		View single result		Reddit	4
+ID9	83	annotator2	Townscaper		View result list			1
+ID9	84	annotator2	Townscaper		View single result		Reddit	4
+ID9	85	annotator2	Townscaper		Platform switch		Google	1
+ID9	86	annotator2	Townscaper	EN	Query	New query		2
+ID9	87	annotator2	Townscaper		Platform switch		Google Image Search	3
+ID9	88	annotator2	Townscaper		View result list			1
+ID9	89	annotator2	Townscaper		Platform switch		Google	1
+ID9	90	annotator2	Townscaper	EN	Query	Reformulation		2
+ID9	91	annotator2	Townscaper		View result list			1
+ID9	92	annotator2	Townscaper	EN	Query	New query		1
+ID9	93	annotator2	Townscaper		View result list			1
+ID9	94	annotator2	Townscaper	EN	Query	Specification		2
+ID9	95	annotator2	Townscaper		View result list			1
+ID9	96	annotator2	Townscaper		Platform switch		Google Image Search	3
+ID9	97	annotator2	Townscaper		View result list			1
+ID9	98	annotator2	Townscaper		Platform switch		Reddit	1
+ID9	99	annotator2	Townscaper		View result list			1
+ID9	100	annotator2	Townscaper		Experiment ended			3

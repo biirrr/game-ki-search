@@ -25,7 +25,7 @@ R18,View single result -> R1,View single result -> Query -> View result list,3,3
 R23,Query -> R3,Query -> Platform switch -> View result list,2,3,2
 R20,View AI response -> R9,View AI response -> View result list -> View single result,3,3,1
 R1,Query -> View result list,Query -> View result list,49,2,16
-R2,Platform switch -> Query,Platform switch -> Query,22,2,15
+R2,Platform switch -> Query,Platform switch -> Query,23,2,15
 R3,Platform switch -> View result list,Platform switch -> View result list,22,2,11
 R14,View info box -> View single result,View info box -> View single result,5,2,5
 R15,Query -> View AI response,Query -> View AI response,5,2,4

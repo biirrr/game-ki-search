@@ -6,11 +6,11 @@ R57,R8 -> R19,Query -> View result list -> Platform switch: Web search -> Query 
 R67,R5 -> R9,Query -> View result list -> Query -> View result list -> Platform switch: Web search -> Query -> View result list,2,7,2
 R68,R28 -> R4,Platform switch: Image search -> Query -> View result list -> Platform switch: Web search -> Query -> View result list -> View single result,2,7,2
 R69,R43 -> R5,Platform switch: Web search -> Query -> Platform switch: Image search -> Query -> View result list -> Query -> View result list,2,7,2
+R47,R12 -> R8,Platform switch: Web search -> Query -> Platform switch: Image search -> View result list -> Query -> View result list -> Platform switch: Web search,2,7,1
 R46,R6 -> R5,View result list -> View single result -> Query -> View result list -> Query -> View result list,2,6,2
 R61,R60 -> View info box,Platform switch: Web search -> Query -> View AI response -> Query -> View AI response -> View info box,2,6,2
 R64,R41 -> R1,Query -> View result list -> View single result -> View single result -> Query -> View result list,2,6,2
 R66,R32 -> R16,View info box -> View info box -> View info box -> View info box -> Platform switch: Web search -> Query,2,6,2
-R47,R7 -> R8,Query -> Platform switch: Image search -> View result list -> Query -> View result list -> Platform switch: Web search,2,6,1
 R49,R18 -> R7,View result list -> View single result -> View result list -> Query -> Platform switch: Image search -> View result list,2,6,1
 R17,R9 -> R3,Platform switch: Web search -> Query -> View result list -> Platform switch: Image search -> View result list,8,5,6
 R20,Platform switch: Conversational search -> R10,Platform switch: Conversational search -> Query -> View AI response -> Query -> View AI response,6,5,6
@@ -23,7 +23,7 @@ R60,Platform switch: Web search -> R10,Platform switch: Web search -> Query -> V
 R62,Platform switch: Web search -> R5,Platform switch: Web search -> Query -> View result list -> Query -> View result list,2,5,2
 R5,R1 -> R1,Query -> View result list -> Query -> View result list,20,4,11
 R10,R2 -> R2,Query -> View AI response -> Query -> View AI response,12,4,8
-R12,Platform switch: Web search -> R7,Platform switch: Web search -> Query -> Platform switch: Image search -> View result list,12,4,8
+R12,Platform switch: Web search -> R7,Platform switch: Web search -> Query -> Platform switch: Image search -> View result list,13,4,8
 R14,Platform switch: Web search -> R4,Platform switch: Web search -> Query -> View result list -> View single result,10,4,7
 R19,R4 -> Platform switch: Game search,Query -> View result list -> View single result -> Platform switch: Game search,7,4,5
 R28,Platform switch: Image search -> R8,Platform switch: Image search -> Query -> View result list -> Platform switch: Web search,4,4,3

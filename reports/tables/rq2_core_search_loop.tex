@@ -1,0 +1,16 @@
+\begin{table}[t]
+\centering
+\caption{First-order transition probabilities: the core search loop}
+\label{tab:rq2-core-loop}
+\begin{tabular}{ll}
+\toprule
+From & Most likely next action(s) \\
+\midrule
+Query -> & View result list (60\%) \\
+View result list -> & Query (30\%) . View single result (29\%) . Platform switch (24\%) \\
+Platform switch -> & Query (55\%) . View result list (35\%) \\
+View AI response -> & Query (42\%) \\
+Experiment ended -> & (none -- confirmed absorbing) \\
+\bottomrule
+\end{tabular}
+\end{table}

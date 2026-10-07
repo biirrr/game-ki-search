@@ -1,6 +1,6 @@
 participant_id,first_game,opening_first,opening_second,own_pair_distance
 ID1,Townscaper,Platform switch > Query > View single result,Platform switch > Query > Platform switch,0.3333333333333333
-ID10,Townscaper,Platform switch > Query > Query,Query > Platform switch > View result list,1.0
+ID10,Townscaper,Platform switch > Query > Query,Platform switch > Query > Platform switch,0.3333333333333333
 ID11,Best Buds vs Bad Guys,Platform switch > Query > View AI response,Platform switch > Query > View result list,0.3333333333333333
 ID12,Best Buds vs Bad Guys,Platform switch > Query > Platform switch,Platform switch > Query > View result list,0.3333333333333333
 ID13,Townscaper,Platform switch > Query > View AI response,Platform switch > Query > View result list,0.3333333333333333
@@ -16,7 +16,7 @@ ID21,Townscaper,Platform switch > Query > Query,Platform switch > Query > Platfo
 ID3,Best Buds vs Bad Guys,Platform switch > Query > View result list,Platform switch > Query > View result list,0.0
 ID4,Townscaper,Platform switch > Query > View result list,Platform switch > Query > Platform switch,0.3333333333333333
 ID5,Best Buds vs Bad Guys,Platform switch > Query > View result list,Platform switch > Browsing > Query,0.6666666666666666
-ID6,Townscaper,Query > Platform switch > Query,Platform switch > Query > Platform switch,1.0
+ID6,Townscaper,Platform switch > Query > Platform switch,Platform switch > Query > Platform switch,0.0
 ID7,Best Buds vs Bad Guys,Platform switch > Query > View AI response,Platform switch > Query > View AI response,0.0
 ID8,Townscaper,Platform switch > Query > Query,Platform switch > Query > View result list,0.3333333333333333
 ID9,Best Buds vs Bad Guys,Platform switch > Query > Query,Platform switch > Query > Query,0.0

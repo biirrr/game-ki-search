@@ -1,52 +1,52 @@
-participant_id	rank	annotator	game	language	action	action_details_clean	action_details_num_tokens
-ID17	1	annotator3	Townscaper		Platform switch	DuckDuckGo	1
-ID17	2	annotator3	Townscaper	EN	Query		5
-ID17	3	annotator3	Townscaper		Platform switch	DuckDuckGo Bilder	2
-ID17	4	annotator3	Townscaper		View result list		2
-ID17	5	annotator3	Townscaper		Platform switch	DuckDuckGo	1
-ID17	6	annotator3	Townscaper	EN	Query		7
-ID17	7	annotator3	Townscaper		Platform switch	DuckDuckGo Bilder	2
-ID17	8	annotator3	Townscaper		View result list		2
-ID17	9	annotator3	Townscaper		Platform switch	DuckDuckGo	1
-ID17	10	annotator3	Townscaper		View result list		2
-ID17	11	annotator3	Townscaper		View single result	Bridge	5
-ID17	12	annotator3	Townscaper		View result list		2
-ID17	13	annotator3	Townscaper	EN	Query		7
-ID17	14	annotator3	Townscaper		Platform switch	DuckDuckGo Bilder	2
-ID17	15	annotator3	Townscaper		View result list		2
-ID17	16	annotator3	Townscaper		View info box		1
-ID17	17	annotator3	Townscaper		View single result	Townscaper	6
-ID17	18	annotator3	Townscaper		Experiment ended		2
-ID17	19	annotator3	Best Buds vs Bad Guys		Platform switch	DuckDuckGo	1
-ID17	20	annotator3	Best Buds vs Bad Guys	EN	Query		7
-ID17	21	annotator3	Best Buds vs Bad Guys		View result list		2
-ID17	22	annotator3	Best Buds vs Bad Guys		Platform switch	DuckDuckGo Bilder	2
-ID17	23	annotator3	Best Buds vs Bad Guys		View result list		2
-ID17	24	annotator3	Best Buds vs Bad Guys	EN	Query		5
-ID17	25	annotator3	Best Buds vs Bad Guys		View result list		2
-ID17	26	annotator3	Best Buds vs Bad Guys		Platform switch	DuckDuckGo	1
-ID17	27	annotator3	Best Buds vs Bad Guys		View result list		2
-ID17	28	annotator3	Best Buds vs Bad Guys		View single result	Zapper	5
-ID17	29	annotator3	Best Buds vs Bad Guys		View result list		2
-ID17	30	annotator3	Best Buds vs Bad Guys	EN	Query		7
-ID17	31	annotator3	Best Buds vs Bad Guys		View result list		2
-ID17	32	annotator3	Best Buds vs Bad Guys	EN	Query		6
-ID17	33	annotator3	Best Buds vs Bad Guys		View result list		2
-ID17	34	annotator3	Best Buds vs Bad Guys	EN	Query		8
-ID17	35	annotator3	Best Buds vs Bad Guys		View result list		2
-ID17	36	annotator3	Best Buds vs Bad Guys	EN	Query		5
-ID17	37	annotator3	Best Buds vs Bad Guys		View result list		2
-ID17	38	annotator3	Best Buds vs Bad Guys		View single result	vgtimes.com	8
-ID17	39	annotator3	Best Buds vs Bad Guys		View result list		2
-ID17	40	annotator3	Best Buds vs Bad Guys		View single result	souldbound.game/blog	9
-ID17	41	annotator3	Best Buds vs Bad Guys	EN	Query		4
-ID17	42	annotator3	Best Buds vs Bad Guys		View result list		2
-ID17	43	annotator3	Best Buds vs Bad Guys		View single result	steampeek.hu	8
-ID17	44	annotator3	Best Buds vs Bad Guys	EN	Query		5
-ID17	45	annotator3	Best Buds vs Bad Guys		View result list		2
-ID17	46	annotator3	Best Buds vs Bad Guys		View single result	itch.io/games	9
-ID17	47	annotator3	Best Buds vs Bad Guys	EN	Query		6
-ID17	48	annotator3	Best Buds vs Bad Guys		View result list		2
-ID17	49	annotator3	Best Buds vs Bad Guys		View single result	dualshockers.com	8
-ID17	50	annotator3	Best Buds vs Bad Guys		View result list		2
-ID17	51	annotator3	Best Buds vs Bad Guys		Experiment ended		3
+participant_id	rank	annotator	game	language	action	query_tactic	action_details_clean	action_details_num_tokens
+ID17	1	annotator3	Townscaper		Platform switch		DuckDuckGo	1
+ID17	2	annotator3	Townscaper	EN	Query	New query		5
+ID17	3	annotator3	Townscaper		Platform switch		DuckDuckGo Bilder	2
+ID17	4	annotator3	Townscaper		View result list			2
+ID17	5	annotator3	Townscaper		Platform switch		DuckDuckGo	1
+ID17	6	annotator3	Townscaper	EN	Query	Specification		7
+ID17	7	annotator3	Townscaper		Platform switch		DuckDuckGo Bilder	2
+ID17	8	annotator3	Townscaper		View result list			2
+ID17	9	annotator3	Townscaper		Platform switch		DuckDuckGo	1
+ID17	10	annotator3	Townscaper		View result list			2
+ID17	11	annotator3	Townscaper		View single result		Bridge	5
+ID17	12	annotator3	Townscaper		View result list			2
+ID17	13	annotator3	Townscaper	EN	Query	Reformulation 		7
+ID17	14	annotator3	Townscaper		Platform switch		DuckDuckGo Bilder	2
+ID17	15	annotator3	Townscaper		View result list			2
+ID17	16	annotator3	Townscaper		View info box			1
+ID17	17	annotator3	Townscaper		View single result		Townscaper	6
+ID17	18	annotator3	Townscaper		Experiment ended			2
+ID17	19	annotator3	Best Buds vs Bad Guys		Platform switch		DuckDuckGo	1
+ID17	20	annotator3	Best Buds vs Bad Guys	EN	Query	New query		7
+ID17	21	annotator3	Best Buds vs Bad Guys		View result list			2
+ID17	22	annotator3	Best Buds vs Bad Guys		Platform switch		DuckDuckGo Bilder	2
+ID17	23	annotator3	Best Buds vs Bad Guys		View result list			2
+ID17	24	annotator3	Best Buds vs Bad Guys	EN	Query	Reformulation		5
+ID17	25	annotator3	Best Buds vs Bad Guys		View result list			2
+ID17	26	annotator3	Best Buds vs Bad Guys		Platform switch		DuckDuckGo	1
+ID17	27	annotator3	Best Buds vs Bad Guys		View result list			2
+ID17	28	annotator3	Best Buds vs Bad Guys		View single result		Zapper	5
+ID17	29	annotator3	Best Buds vs Bad Guys		View result list			2
+ID17	30	annotator3	Best Buds vs Bad Guys	EN	Query	Reformulation		7
+ID17	31	annotator3	Best Buds vs Bad Guys		View result list			2
+ID17	32	annotator3	Best Buds vs Bad Guys	EN	Query	Reformulation		6
+ID17	33	annotator3	Best Buds vs Bad Guys		View result list			2
+ID17	34	annotator3	Best Buds vs Bad Guys	EN	Query	Reformulation		8
+ID17	35	annotator3	Best Buds vs Bad Guys		View result list			2
+ID17	36	annotator3	Best Buds vs Bad Guys	EN	Query	New query		5
+ID17	37	annotator3	Best Buds vs Bad Guys		View result list			2
+ID17	38	annotator3	Best Buds vs Bad Guys		View single result		vgtimes.com	8
+ID17	39	annotator3	Best Buds vs Bad Guys		View result list			2
+ID17	40	annotator3	Best Buds vs Bad Guys		View single result		souldbound.game/blog	9
+ID17	41	annotator3	Best Buds vs Bad Guys	EN	Query	New query		4
+ID17	42	annotator3	Best Buds vs Bad Guys		View result list			2
+ID17	43	annotator3	Best Buds vs Bad Guys		View single result		steampeek.hu	8
+ID17	44	annotator3	Best Buds vs Bad Guys	EN	Query	Specification		5
+ID17	45	annotator3	Best Buds vs Bad Guys		View result list			2
+ID17	46	annotator3	Best Buds vs Bad Guys		View single result		itch.io/games	9
+ID17	47	annotator3	Best Buds vs Bad Guys	EN	Query	Specification		6
+ID17	48	annotator3	Best Buds vs Bad Guys		View result list			2
+ID17	49	annotator3	Best Buds vs Bad Guys		View single result		dualshockers.com	8
+ID17	50	annotator3	Best Buds vs Bad Guys		View result list			2
+ID17	51	annotator3	Best Buds vs Bad Guys		Experiment ended			3

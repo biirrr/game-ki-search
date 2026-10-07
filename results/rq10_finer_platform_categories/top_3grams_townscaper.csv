@@ -5,9 +5,9 @@ Query -> View result list -> Query,13
 View single result -> View single result -> View single result,12
 Query -> Platform switch: Image search -> View result list,11
 Platform switch: Web search -> Query -> Platform switch: Image search,9
+Platform switch: Web search -> Query -> View result list,9
 View result list -> View single result -> View result list,9
 Query -> View result list -> Platform switch: Image search,8
-Platform switch: Web search -> Query -> View result list,8
 View single result -> Query -> View result list,6
 View result list -> View single result -> Experiment ended,6
 Query -> View result list -> View info box,6

@@ -2,8 +2,8 @@ game,feature,n_first,n_second,median_first,median_second,mannwhitney_u,p_value
 Best Buds vs Bad Guys,length,10,11,48.0,41.0,67.0,0.4181
 Best Buds vs Bad Guys,entropy,10,11,2.1321,2.1992,53.0,0.9159
 Best Buds vs Bad Guys,query_rate,10,11,0.2443,0.2917,47.0,0.5974
-Best Buds vs Bad Guys,platform_switch_rate,10,11,0.1946,0.1707,58.0,0.86
+Best Buds vs Bad Guys,platform_switch_rate,10,11,0.1946,0.1707,57.0,0.9157
 Townscaper,length,11,10,17.0,11.0,57.0,0.9156
 Townscaper,entropy,11,10,2.0,2.1271,38.0,0.2444
 Townscaper,query_rate,11,10,0.25,0.2372,65.0,0.5002
-Townscaper,platform_switch_rate,11,10,0.2,0.1952,59.5,0.7778
+Townscaper,platform_switch_rate,11,10,0.25,0.1952,64.5,0.5254

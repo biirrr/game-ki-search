@@ -5,7 +5,7 @@ View result list -> Platform switch -> Query -> View result list,29
 Platform switch -> Query -> View result list -> View single result,25
 Query -> View result list -> Platform switch -> View result list,24
 Query -> View result list -> Platform switch -> Query,24
-Platform switch -> Query -> Platform switch -> View result list,22
+Platform switch -> Query -> Platform switch -> View result list,23
 View result list -> Query -> View result list -> Platform switch,21
 Platform switch -> Query -> View result list -> Platform switch,19
 Platform switch -> View result list -> Query -> View result list,18
@@ -29,6 +29,7 @@ View result list -> View single result -> View result list -> Query,10
 View single result -> View single result -> View single result -> View single result,10
 Query -> Platform switch -> View result list -> Platform switch,9
 Platform switch -> View result list -> View single result -> View result list,9
+Platform switch -> Query -> Platform switch -> Query,9
 View single result -> View result list -> View single result -> View result list,9
 View result list -> Platform switch -> View result list -> Platform switch,8
 View result list -> Platform switch -> View result list -> View single result,8
@@ -36,7 +37,6 @@ Platform switch -> View result list -> Platform switch -> View result list,8
 View single result -> Query -> View result list -> View single result,8
 Query -> View result list -> View single result -> View single result,8
 View result list -> View single result -> Platform switch -> Browsing,8
-Platform switch -> Query -> Platform switch -> Query,8
 View single result -> Query -> View result list -> Platform switch,7
 View result list -> Platform switch -> Query -> Platform switch,7
 View single result -> View result list -> Query -> View result list,7

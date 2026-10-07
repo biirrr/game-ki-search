@@ -64,7 +64,7 @@ View single result: Other site,View AI response,1
 View single result: Other site,View info box,0
 View single result: Other site,Browsing,1
 View single result: Other site,Experiment ended,9
-Platform switch: Search engine,Query,28
+Platform switch: Search engine,Query,30
 Platform switch: Search engine,View result list,21
 Platform switch: Search engine,View single result: Storefront,0
 Platform switch: Search engine,View single result: Community,0
@@ -103,7 +103,7 @@ Platform switch: Storefront,View AI response,0
 Platform switch: Storefront,View info box,0
 Platform switch: Storefront,Browsing,1
 Platform switch: Storefront,Experiment ended,0
-Platform switch: Other,Query,3
+Platform switch: Other,Query,2
 Platform switch: Other,View result list,1
 Platform switch: Other,View single result: Storefront,0
 Platform switch: Other,View single result: Community,0

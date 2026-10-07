@@ -1,83 +1,83 @@
-participant_id	rank	annotator	game	language	action	action_details_clean	action_details_num_tokens
-ID19	1	annotator3	Townscaper		Platform switch	Google	1
-ID19	2	annotator3	Townscaper	DE	Query		3
-ID19	3	annotator3	Townscaper		View result list		2
-ID19	4	annotator3	Townscaper		Platform switch	Google Image Search	3
-ID19	5	annotator3	Townscaper		View result list		2
-ID19	6	annotator3	Townscaper	DE	Query		4
-ID19	7	annotator3	Townscaper		View result list		2
-ID19	8	annotator3	Townscaper	DE	Query		4
-ID19	9	annotator3	Townscaper		View result list		2
-ID19	10	annotator3	Townscaper	DE	Query		3
-ID19	11	annotator3	Townscaper		View result list		2
-ID19	12	annotator3	Townscaper	DE	Query		4
-ID19	13	annotator3	Townscaper		View result list		2
-ID19	14	annotator3	Townscaper	DE	Query		5
-ID19	15	annotator3	Townscaper		View result list		2
-ID19	16	annotator3	Townscaper		View info box		1
-ID19	17	annotator3	Townscaper		View single result	Ratgeber-videospiele.dk	7
-ID19	18	annotator3	Townscaper		Experiment ended		2
-ID19	19	annotator3	Best Buds vs Bad Guys		Platform switch	Google	1
-ID19	20	annotator3	Best Buds vs Bad Guys	MU	Query		6
-ID19	21	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	22	annotator3	Best Buds vs Bad Guys		Platform switch	Google Image Search	3
-ID19	23	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	24	annotator3	Best Buds vs Bad Guys	DE	Query		1
-ID19	25	annotator3	Best Buds vs Bad Guys		Platform switch	Google	1
-ID19	26	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	27	annotator3	Best Buds vs Bad Guys		View single result	Steam	3
-ID19	28	annotator3	Best Buds vs Bad Guys		Platform switch	Steam	1
-ID19	29	annotator3	Best Buds vs Bad Guys	EN	Query		2
-ID19	30	annotator3	Best Buds vs Bad Guys	EN	Query		3
-ID19	31	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	32	annotator3	Best Buds vs Bad Guys	EN	Query		12
-ID19	33	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	34	annotator3	Best Buds vs Bad Guys		View single result	Blazing	2
-ID19	35	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	36	annotator3	Best Buds vs Bad Guys		View single result	Rendering	2
-ID19	37	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	38	annotator3	Best Buds vs Bad Guys		Platform switch	Google	1
-ID19	39	annotator3	Best Buds vs Bad Guys	EN	Query		11
-ID19	40	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	41	annotator3	Best Buds vs Bad Guys	EN	Query		8
-ID19	42	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	43	annotator3	Best Buds vs Bad Guys		Platform switch	Google Image Search	3
-ID19	44	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	45	annotator3	Best Buds vs Bad Guys		View info box		3
-ID19	46	annotator3	Best Buds vs Bad Guys		View single result	anokolisa.itch.io	12
-ID19	47	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	48	annotator3	Best Buds vs Bad Guys		Platform switch	Google	1
-ID19	49	annotator3	Best Buds vs Bad Guys		Platform switch	Steam	1
-ID19	50	annotator3	Best Buds vs Bad Guys	NE	Query		2
-ID19	51	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	52	annotator3	Best Buds vs Bad Guys		Platform switch	Google	1
-ID19	53	annotator3	Best Buds vs Bad Guys		Platform switch	Steam	1
-ID19	54	annotator3	Best Buds vs Bad Guys		View result list		7
-ID19	55	annotator3	Best Buds vs Bad Guys		Platform switch	Google	1
-ID19	56	annotator3	Best Buds vs Bad Guys		Platform switch	Google Image Search	3
-ID19	57	annotator3	Best Buds vs Bad Guys	EN	Query		9
-ID19	58	annotator3	Best Buds vs Bad Guys		View single result	anokolisa.itch.io	3
-ID19	59	annotator3	Best Buds vs Bad Guys		Platform switch	Google	1
-ID19	60	annotator3	Best Buds vs Bad Guys	NE	Query		1
-ID19	61	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	62	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	63	annotator3	Best Buds vs Bad Guys		View single result	anokolisa.itch.io	15
-ID19	64	annotator3	Best Buds vs Bad Guys		Platform switch	Google Image Search	3
-ID19	65	annotator3	Best Buds vs Bad Guys	EN	Query		9
-ID19	66	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	67	annotator3	Best Buds vs Bad Guys		View info box		5
-ID19	68	annotator3	Best Buds vs Bad Guys		View info box		7
-ID19	69	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	70	annotator3	Best Buds vs Bad Guys	EN	Query		8
-ID19	71	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	72	annotator3	Best Buds vs Bad Guys		View AI response		0
-ID19	73	annotator3	Best Buds vs Bad Guys		Platform switch	Google	1
-ID19	74	annotator3	Best Buds vs Bad Guys	NE	Query		2
-ID19	75	annotator3	Best Buds vs Bad Guys		View result list		8
-ID19	76	annotator3	Best Buds vs Bad Guys		View result list		0
-ID19	77	annotator3	Best Buds vs Bad Guys		Platform switch	Google AI Mode	3
-ID19	78	annotator3	Best Buds vs Bad Guys	EN	Query		8
-ID19	79	annotator3	Best Buds vs Bad Guys		View AI response		2
-ID19	80	annotator3	Best Buds vs Bad Guys		View info box		1
-ID19	81	annotator3	Best Buds vs Bad Guys		View result list		2
-ID19	82	annotator3	Best Buds vs Bad Guys		Experiment ended		3
+participant_id	rank	annotator	game	language	action	query_tactic	action_details_clean	action_details_num_tokens
+ID19	1	annotator3	Townscaper		Platform switch		Google	1
+ID19	2	annotator3	Townscaper	DE	Query	New query		3
+ID19	3	annotator3	Townscaper		View result list			2
+ID19	4	annotator3	Townscaper		Platform switch		Google Image Search	3
+ID19	5	annotator3	Townscaper		View result list			2
+ID19	6	annotator3	Townscaper	DE	Query	Specification		4
+ID19	7	annotator3	Townscaper		View result list			2
+ID19	8	annotator3	Townscaper	DE	Query	Reformulation		4
+ID19	9	annotator3	Townscaper		View result list			2
+ID19	10	annotator3	Townscaper	DE	Query	Generalization		3
+ID19	11	annotator3	Townscaper		View result list			2
+ID19	12	annotator3	Townscaper	DE	Query	Reformulation		4
+ID19	13	annotator3	Townscaper		View result list			2
+ID19	14	annotator3	Townscaper	DE	Query	Specification		5
+ID19	15	annotator3	Townscaper		View result list			2
+ID19	16	annotator3	Townscaper		View info box			1
+ID19	17	annotator3	Townscaper		View single result		Ratgeber-videospiele.dk	7
+ID19	18	annotator3	Townscaper		Experiment ended			2
+ID19	19	annotator3	Best Buds vs Bad Guys		Platform switch		Google	1
+ID19	20	annotator3	Best Buds vs Bad Guys	MU	Query	New query		6
+ID19	21	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	22	annotator3	Best Buds vs Bad Guys		Platform switch		Google Image Search	3
+ID19	23	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	24	annotator3	Best Buds vs Bad Guys	DE	Query	New query		1
+ID19	25	annotator3	Best Buds vs Bad Guys		Platform switch		Google	1
+ID19	26	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	27	annotator3	Best Buds vs Bad Guys		View single result		Steam	3
+ID19	28	annotator3	Best Buds vs Bad Guys		Platform switch		Steam	1
+ID19	29	annotator3	Best Buds vs Bad Guys	EN	Query	New query		2
+ID19	30	annotator3	Best Buds vs Bad Guys	EN	Query	Specification		3
+ID19	31	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	32	annotator3	Best Buds vs Bad Guys	EN	Query	New query		12
+ID19	33	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	34	annotator3	Best Buds vs Bad Guys		View single result		Blazing	2
+ID19	35	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	36	annotator3	Best Buds vs Bad Guys		View single result		Rendering	2
+ID19	37	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	38	annotator3	Best Buds vs Bad Guys		Platform switch		Google	1
+ID19	39	annotator3	Best Buds vs Bad Guys	EN	Query	New query		11
+ID19	40	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	41	annotator3	Best Buds vs Bad Guys	EN	Query	Generalization		8
+ID19	42	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	43	annotator3	Best Buds vs Bad Guys		Platform switch		Google Image Search	3
+ID19	44	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	45	annotator3	Best Buds vs Bad Guys		View info box			3
+ID19	46	annotator3	Best Buds vs Bad Guys		View single result		anokolisa.itch.io	12
+ID19	47	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	48	annotator3	Best Buds vs Bad Guys		Platform switch		Google	1
+ID19	49	annotator3	Best Buds vs Bad Guys		Platform switch		Steam	1
+ID19	50	annotator3	Best Buds vs Bad Guys	NE	Query	New query		2
+ID19	51	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	52	annotator3	Best Buds vs Bad Guys		Platform switch		Google	1
+ID19	53	annotator3	Best Buds vs Bad Guys		Platform switch		Steam	1
+ID19	54	annotator3	Best Buds vs Bad Guys		View result list			7
+ID19	55	annotator3	Best Buds vs Bad Guys		Platform switch		Google	1
+ID19	56	annotator3	Best Buds vs Bad Guys		Platform switch		Google Image Search	3
+ID19	57	annotator3	Best Buds vs Bad Guys	EN	Query	New query		9
+ID19	58	annotator3	Best Buds vs Bad Guys		View single result		anokolisa.itch.io	3
+ID19	59	annotator3	Best Buds vs Bad Guys		Platform switch		Google	1
+ID19	60	annotator3	Best Buds vs Bad Guys	NE	Query	New query		1
+ID19	61	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	62	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	63	annotator3	Best Buds vs Bad Guys		View single result		anokolisa.itch.io	15
+ID19	64	annotator3	Best Buds vs Bad Guys		Platform switch		Google Image Search	3
+ID19	65	annotator3	Best Buds vs Bad Guys	EN	Query	New query		9
+ID19	66	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	67	annotator3	Best Buds vs Bad Guys		View info box			5
+ID19	68	annotator3	Best Buds vs Bad Guys		View info box			7
+ID19	69	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	70	annotator3	Best Buds vs Bad Guys	EN	Query	Generalization		8
+ID19	71	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	72	annotator3	Best Buds vs Bad Guys		View AI response			0
+ID19	73	annotator3	Best Buds vs Bad Guys		Platform switch		Google	1
+ID19	74	annotator3	Best Buds vs Bad Guys	NE	Query	New query		2
+ID19	75	annotator3	Best Buds vs Bad Guys		View result list			8
+ID19	76	annotator3	Best Buds vs Bad Guys		View result list			0
+ID19	77	annotator3	Best Buds vs Bad Guys		Platform switch		Google AI Mode	3
+ID19	78	annotator3	Best Buds vs Bad Guys	EN	Query	New query		8
+ID19	79	annotator3	Best Buds vs Bad Guys		View AI response			2
+ID19	80	annotator3	Best Buds vs Bad Guys		View info box			1
+ID19	81	annotator3	Best Buds vs Bad Guys		View result list			2
+ID19	82	annotator3	Best Buds vs Bad Guys		Experiment ended			3

@@ -7,14 +7,14 @@ annotator1,View info box,12,0.039603960396039604
 annotator1,Experiment ended,10,0.033003300330033
 annotator1,View AI response,8,0.026402640264026403
 annotator1,Browsing,3,0.009900990099009901
-annotator2,View result list,90,0.2535211267605634
-annotator2,Query,86,0.24225352112676057
-annotator2,Platform switch,60,0.16901408450704225
-annotator2,View single result,43,0.12112676056338029
-annotator2,View AI response,34,0.09577464788732394
-annotator2,View info box,20,0.056338028169014086
-annotator2,Browsing,12,0.03380281690140845
-annotator2,Experiment ended,10,0.028169014084507043
+annotator2,View result list,90,0.25210084033613445
+annotator2,Query,86,0.24089635854341737
+annotator2,Platform switch,62,0.17366946778711484
+annotator2,View single result,43,0.12044817927170869
+annotator2,View AI response,34,0.09523809523809523
+annotator2,View info box,20,0.056022408963585436
+annotator2,Browsing,12,0.03361344537815126
+annotator2,Experiment ended,10,0.028011204481792718
 annotator3,View result list,108,0.2857142857142857
 annotator3,Query,97,0.2566137566137566
 annotator3,Platform switch,75,0.1984126984126984

@@ -36,6 +36,7 @@ from sklearn.manifold import MDS
 from sklearn.metrics import adjusted_rand_score, silhouette_score
 from sklearn.preprocessing import StandardScaler
 
+from config import BB_COLOUR, TS_COLOUR
 from data import load_events
 from rq2_patterns import ACTIONS, build_sequences, sequences_for
 
@@ -95,7 +96,7 @@ def plot_dendrogram(dist: np.ndarray, labels: list[str], title: str, path: Path)
 def plot_mds(dist: np.ndarray, labels: np.ndarray, participant_ids: list[str], title: str, path: Path) -> None:
     coords = MDS(n_components=2, dissimilarity="precomputed", random_state=0, normalized_stress="auto").fit_transform(dist)
     fig, ax = plt.subplots(figsize=(6, 6))
-    palette = ["#b3690f", "#009485", "#5b4b8a", "#a33b56"]
+    palette = [BB_COLOUR, TS_COLOUR, "#5b4b8a", "#a33b56"]
     for cluster in sorted(set(labels)):
         mask = labels == cluster
         ax.scatter(coords[mask, 0], coords[mask, 1], color=palette[cluster % len(palette)], s=60, label=f"cluster {cluster}")
@@ -156,14 +157,14 @@ def plot_cluster_profiles(feat_df: pd.DataFrame, labels: np.ndarray, title: str,
     fig, ax = plt.subplots(figsize=(9, 4.5))
     x = np.arange(len(REAL_ACTIONS))
     width = 0.8 / len(profile)
-    palette = ["#b3690f", "#009485", "#5b4b8a", "#a33b56"]
+    palette = [BB_COLOUR, TS_COLOUR, "#5b4b8a", "#a33b56"]
     for i, (cluster, row) in enumerate(profile.iterrows()):
         ax.bar(x + i * width, row.values, width=width, label=f"cluster {cluster} (n={int((labels==cluster).sum())})", color=palette[i % len(palette)])
     ax.set_xticks(x + width * (len(profile) - 1) / 2)
-    ax.set_xticklabels(REAL_ACTIONS, rotation=30, ha="right", fontsize=8)
-    ax.set_ylabel("Mean share of session")
-    ax.set_title(title)
-    ax.legend()
+    ax.set_xticklabels(REAL_ACTIONS, rotation=30, ha="right", fontsize=12)
+    ax.set_ylabel("Mean share of session", fontsize=12)
+    ax.set_title(title, fontsize=16)
+    ax.legend(fontsize=12)
     fig.tight_layout()
     fig.savefig(path, dpi=150)
     plt.close(fig)

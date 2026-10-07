@@ -3,11 +3,11 @@ Query -> View result list -> Query -> View result list -> Query -> View result l
 View result list -> Query -> View result list -> Query -> View result list -> Query,15
 Platform switch -> View result list -> Query -> View result list -> Query -> View result list,8
 Query -> View result list -> Platform switch -> View result list -> Query -> View result list,8
+Platform switch -> Query -> Platform switch -> View result list -> Query -> View result list,7
 View result list -> Query -> View result list -> Query -> View result list -> View single result,7
 Platform switch -> Query -> View result list -> Platform switch -> View result list -> Query,7
 Query -> View result list -> Query -> View result list -> Platform switch -> Query,7
 View single result -> View single result -> View single result -> View single result -> View single result -> View single result,7
-Platform switch -> Query -> Platform switch -> View result list -> Query -> View result list,6
 Query -> View result list -> Query -> View result list -> View single result -> Platform switch,6
 View result list -> Query -> View result list -> View single result -> Platform switch -> Query,6
 Query -> View result list -> View single result -> Platform switch -> Query -> View result list,6

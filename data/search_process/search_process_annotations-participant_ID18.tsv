@@ -1,20 +1,20 @@
-participant_id	rank	annotator	game	language	action	action_details_clean	action_details_num_tokens
-ID18	1	annotator3	Townscaper		Platform switch	Google	1
-ID18	2	annotator3	Townscaper	DE	Query		15
-ID18	3	annotator3	Townscaper		View AI response		2
-ID18	4	annotator3	Townscaper		View single result	Steampowered.com	2
-ID18	5	annotator3	Townscaper		Experiment ended		2
-ID18	6	annotator3	Best Buds vs Bad Guys		Platform switch	Google	1
-ID18	7	annotator3	Best Buds vs Bad Guys	DE	Query		15
-ID18	8	annotator3	Best Buds vs Bad Guys		View AI response		9
-ID18	9	annotator3	Best Buds vs Bad Guys	DE	Query		21
-ID18	10	annotator3	Best Buds vs Bad Guys		View AI response		9
-ID18	11	annotator3	Best Buds vs Bad Guys		View info box		16
-ID18	12	annotator3	Best Buds vs Bad Guys		View result list		2
-ID18	13	annotator3	Best Buds vs Bad Guys	DE	Query		34
-ID18	14	annotator3	Best Buds vs Bad Guys		View result list		5
-ID18	15	annotator3	Best Buds vs Bad Guys	DE	Query		35
-ID18	16	annotator3	Best Buds vs Bad Guys		View AI response		0
-ID18	17	annotator3	Best Buds vs Bad Guys		View info box		1
-ID18	18	annotator3	Best Buds vs Bad Guys		View single result	cio.de	4
-ID18	19	annotator3	Best Buds vs Bad Guys		Experiment ended		3
+participant_id	rank	annotator	game	language	action	query_tactic	action_details_clean	action_details_num_tokens
+ID18	1	annotator3	Townscaper		Platform switch		Google	1
+ID18	2	annotator3	Townscaper	DE	Query	New query		15
+ID18	3	annotator3	Townscaper		View AI response			2
+ID18	4	annotator3	Townscaper		View single result		Steampowered.com	2
+ID18	5	annotator3	Townscaper		Experiment ended			2
+ID18	6	annotator3	Best Buds vs Bad Guys		Platform switch		Google	1
+ID18	7	annotator3	Best Buds vs Bad Guys	DE	Query	New query		15
+ID18	8	annotator3	Best Buds vs Bad Guys		View AI response			9
+ID18	9	annotator3	Best Buds vs Bad Guys	DE	Query	Specification		21
+ID18	10	annotator3	Best Buds vs Bad Guys		View AI response			9
+ID18	11	annotator3	Best Buds vs Bad Guys		View info box			16
+ID18	12	annotator3	Best Buds vs Bad Guys		View result list			2
+ID18	13	annotator3	Best Buds vs Bad Guys	DE	Query	Specification		34
+ID18	14	annotator3	Best Buds vs Bad Guys		View result list			5
+ID18	15	annotator3	Best Buds vs Bad Guys	DE	Query	Reformulation		35
+ID18	16	annotator3	Best Buds vs Bad Guys		View AI response			0
+ID18	17	annotator3	Best Buds vs Bad Guys		View info box			1
+ID18	18	annotator3	Best Buds vs Bad Guys		View single result		cio.de	4
+ID18	19	annotator3	Best Buds vs Bad Guys		Experiment ended			3

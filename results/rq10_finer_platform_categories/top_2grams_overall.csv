@@ -2,7 +2,7 @@ pattern,count
 Query -> View result list,196
 View result list -> Query,109
 View result list -> View single result,105
-Platform switch: Web search -> Query,85
+Platform switch: Web search -> Query,88
 Query -> View AI response,59
 Platform switch: Image search -> View result list,56
 View result list -> Platform switch: Web search,42

@@ -1,6 +1,6 @@
 pattern,count
 Query -> View result list,147
-Platform switch -> Query,93
+Platform switch -> Query,94
 View result list -> Query,86
 View result list -> View single result,73
 View result list -> Platform switch,67

@@ -40,6 +40,7 @@ marker, not a search move, and including it would just produce a
 "whatever preceded the end" pseudo-tactic for every session.
 """
 
+import argparse
 from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
@@ -542,7 +543,9 @@ def plot_grammar_trees(
 
 # --- main ----------------------------------------------------------------
 
-def run_for(events: pd.DataFrame, game: str, label: str, slug: str) -> None:
+def run_for(events: pd.DataFrame, game: str, label: str, slug: str, 
+            min_repeat_len: int, min_participants: int) -> None:
+    print(f"running with min_participants: {min_participants}\tmin_repeat_len: {min_repeat_len}")
     out = RESULTS_DIR
     sequences = build_sequences(events, game)
     corpus, spans = build_corpus(sequences)
@@ -551,7 +554,7 @@ def run_for(events: pd.DataFrame, game: str, label: str, slug: str) -> None:
     repeats = find_supermaximal_repeats(corpus, spans)
     repeats.to_csv(out / f"supermaximal_repeats_{slug}.csv", index=False)
     tactics = repeats[
-        (repeats["length"] >= MIN_REPEAT_LEN) & (repeats["n_participants"] >= MIN_PARTICIPANTS)
+        (repeats["length"] >= min_repeat_len) & (repeats["n_participants"] >= min_participants)
     ]
     tactics.to_csv(out / f"tactics_{slug}.csv", index=False)
 
@@ -566,8 +569,8 @@ def run_for(events: pd.DataFrame, game: str, label: str, slug: str) -> None:
     plot_grammar_trees(grammar, spans, label, out / f"grammar_trees_{slug}.png")
 
     print(f"\n=== {label} ({n_sessions} sessions, {len(corpus) - n_sessions} actions) ===")
-    print(f"Supermaximal repeats: {len(repeats)} total, {len(tactics)} at length>={MIN_REPEAT_LEN} "
-          f"& n_participants>={MIN_PARTICIPANTS} (of {n_sessions} sessions)")
+    print(f"Supermaximal repeats: {len(repeats)} total, {len(tactics)} at length>={min_repeat_len} "
+          f"& n_participants>={min_participants} (of {n_sessions} sessions)")
     if len(tactics):
         print(tactics.head(10).to_string(index=False))
         print("Building blocks (bigrams shared across >=2 tactics):")
@@ -576,11 +579,18 @@ def run_for(events: pd.DataFrame, game: str, label: str, slug: str) -> None:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--min-participants", type=int, default=3)
+    parser.add_argument("--min-repeat-length", type=int, default=3)
+    args = parser.parse_args()
+
     RESULTS_DIR.mkdir(parents=True, exist_ok=True)
     events = load_events()
 
-    run_for(events, BESTBUDS, "Best Buds vs Bad Guys", "bestbuds")
-    run_for(events, TOWNSCAPER, "Townscaper", "townscaper")
+    run_for(events, BESTBUDS, "Best Buds vs Bad Guys", "bestbuds", 
+            min_participants=args.min_participants, min_repeat_len=args.min_repeat_length)
+    run_for(events, TOWNSCAPER, "Townscaper", "townscaper",
+            min_participants=args.min_participants, min_repeat_len=args.min_repeat_length)
 
     print(f"\nOutputs written to {RESULTS_DIR}")
 

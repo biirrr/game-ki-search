@@ -11,6 +11,6 @@ Platform switch -> Query -> View result list -> View result list -> Experiment e
 Platform switch -> View result list -> View result list -> Experiment ended,36
 Platform switch -> Query -> View result list -> Query -> Experiment ended,35
 Platform switch -> View result list -> Query -> Experiment ended,35
+Platform switch -> Query -> Platform switch -> Experiment ended,34
 Platform switch -> Query -> View result list -> View single result -> Experiment ended,34
 Platform switch -> View result list -> View single result -> Experiment ended,34
-Query -> Platform switch -> Experiment ended,34

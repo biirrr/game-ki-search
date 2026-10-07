@@ -4,10 +4,10 @@ Query -> View result list,5
 View result list -> View single result,4
 View single result -> View result list,3
 Platform switch: Image search -> View result list,2
-View AI response -> Query,1
 Platform switch: Conversational search -> Query,1
 Query -> View AI response,1
+View AI response -> Query,1
 Query -> Platform switch: Image search,1
-Platform switch: Web search -> View result list,1
 Query -> Platform switch: Web search,1
+Platform switch: Web search -> View result list,1
 View result list -> Platform switch: Image search,1

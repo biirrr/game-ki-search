@@ -25,6 +25,7 @@ import pandas as pd
 from scipy.spatial.distance import jensenshannon
 from scipy.stats import chi2_contingency, wilcoxon
 
+from config import BB_COLOUR, TS_COLOUR
 from data import NON_SEARCH_ACTIONS, load_events
 from rq2_patterns import (
     ACTIONS,
@@ -139,8 +140,8 @@ def plot_paired_features(feats: pd.DataFrame, path: Path) -> None:
         b = wide[(feature, TOWNSCAPER)]
         for pid in a.index:
             ax.plot([0, 1], [a[pid], b[pid]], color="#c3c2b7", linewidth=0.8, zorder=1)
-        ax.scatter([0] * len(a), a, color="#b3690f", zorder=2, s=28)
-        ax.scatter([1] * len(b), b, color="#009485", zorder=2, s=28)
+        ax.scatter([0] * len(a), a, color=BB_COLOUR, zorder=2, s=28)
+        ax.scatter([1] * len(b), b, color=TS_COLOUR, zorder=2, s=28)
         ax.set_xlim(-0.3, 1.3)
         ax.set_xticks([0, 1])
         ax.set_xticklabels(["Best Buds", "Townscaper"])

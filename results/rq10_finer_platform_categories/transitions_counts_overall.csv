@@ -6,7 +6,6 @@ Query,View AI response,59
 Query,View info box,2
 Query,Browsing,1
 Query,Experiment ended,2
-Query,Platform switch,0
 Query,Platform switch: Conversational search,5
 Query,Platform switch: Game search,0
 Query,Platform switch: Image search,38
@@ -19,7 +18,6 @@ View result list,View AI response,12
 View result list,View info box,21
 View result list,Browsing,8
 View result list,Experiment ended,11
-View result list,Platform switch,0
 View result list,Platform switch: Conversational search,9
 View result list,Platform switch: Game search,4
 View result list,Platform switch: Image search,28
@@ -32,7 +30,6 @@ View single result,View AI response,2
 View single result,View info box,0
 View single result,Browsing,8
 View single result,Experiment ended,16
-View single result,Platform switch,0
 View single result,Platform switch: Conversational search,0
 View single result,Platform switch: Game search,19
 View single result,Platform switch: Image search,1
@@ -45,7 +42,6 @@ View AI response,View AI response,1
 View AI response,View info box,13
 View AI response,Browsing,0
 View AI response,Experiment ended,6
-View AI response,Platform switch,0
 View AI response,Platform switch: Conversational search,0
 View AI response,Platform switch: Game search,1
 View AI response,Platform switch: Image search,2
@@ -58,7 +54,6 @@ View info box,View AI response,2
 View info box,View info box,16
 View info box,Browsing,0
 View info box,Experiment ended,6
-View info box,Platform switch,0
 View info box,Platform switch: Conversational search,3
 View info box,Platform switch: Game search,0
 View info box,Platform switch: Image search,0
@@ -71,7 +66,6 @@ Browsing,View AI response,0
 Browsing,View info box,0
 Browsing,Browsing,17
 Browsing,Experiment ended,1
-Browsing,Platform switch,0
 Browsing,Platform switch: Conversational search,0
 Browsing,Platform switch: Game search,0
 Browsing,Platform switch: Image search,1
@@ -84,25 +78,11 @@ Experiment ended,View AI response,0
 Experiment ended,View info box,0
 Experiment ended,Browsing,0
 Experiment ended,Experiment ended,0
-Experiment ended,Platform switch,0
 Experiment ended,Platform switch: Conversational search,0
 Experiment ended,Platform switch: Game search,0
 Experiment ended,Platform switch: Image search,0
 Experiment ended,Platform switch: Other,0
 Experiment ended,Platform switch: Web search,0
-Platform switch,Query,1
-Platform switch,View result list,0
-Platform switch,View single result,0
-Platform switch,View AI response,0
-Platform switch,View info box,0
-Platform switch,Browsing,0
-Platform switch,Experiment ended,0
-Platform switch,Platform switch,0
-Platform switch,Platform switch: Conversational search,0
-Platform switch,Platform switch: Game search,0
-Platform switch,Platform switch: Image search,0
-Platform switch,Platform switch: Other,0
-Platform switch,Platform switch: Web search,0
 Platform switch: Conversational search,Query,17
 Platform switch: Conversational search,View result list,0
 Platform switch: Conversational search,View single result,0
@@ -110,7 +90,6 @@ Platform switch: Conversational search,View AI response,3
 Platform switch: Conversational search,View info box,0
 Platform switch: Conversational search,Browsing,0
 Platform switch: Conversational search,Experiment ended,0
-Platform switch: Conversational search,Platform switch,0
 Platform switch: Conversational search,Platform switch: Conversational search,0
 Platform switch: Conversational search,Platform switch: Game search,0
 Platform switch: Conversational search,Platform switch: Image search,0
@@ -123,7 +102,6 @@ Platform switch: Game search,View AI response,0
 Platform switch: Game search,View info box,0
 Platform switch: Game search,Browsing,9
 Platform switch: Game search,Experiment ended,0
-Platform switch: Game search,Platform switch,0
 Platform switch: Game search,Platform switch: Conversational search,1
 Platform switch: Game search,Platform switch: Game search,0
 Platform switch: Game search,Platform switch: Image search,0
@@ -136,7 +114,6 @@ Platform switch: Image search,View AI response,0
 Platform switch: Image search,View info box,0
 Platform switch: Image search,Browsing,0
 Platform switch: Image search,Experiment ended,0
-Platform switch: Image search,Platform switch,0
 Platform switch: Image search,Platform switch: Conversational search,0
 Platform switch: Image search,Platform switch: Game search,0
 Platform switch: Image search,Platform switch: Image search,0
@@ -149,20 +126,18 @@ Platform switch: Other,View AI response,0
 Platform switch: Other,View info box,0
 Platform switch: Other,Browsing,1
 Platform switch: Other,Experiment ended,0
-Platform switch: Other,Platform switch,0
 Platform switch: Other,Platform switch: Conversational search,0
 Platform switch: Other,Platform switch: Game search,0
 Platform switch: Other,Platform switch: Image search,0
 Platform switch: Other,Platform switch: Other,0
 Platform switch: Other,Platform switch: Web search,0
-Platform switch: Web search,Query,85
+Platform switch: Web search,Query,88
 Platform switch: Web search,View result list,21
 Platform switch: Web search,View single result,1
 Platform switch: Web search,View AI response,2
 Platform switch: Web search,View info box,0
 Platform switch: Web search,Browsing,0
 Platform switch: Web search,Experiment ended,0
-Platform switch: Web search,Platform switch,0
 Platform switch: Web search,Platform switch: Conversational search,1
 Platform switch: Web search,Platform switch: Game search,2
 Platform switch: Web search,Platform switch: Image search,1

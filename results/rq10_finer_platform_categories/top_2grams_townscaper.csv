@@ -1,7 +1,7 @@
 pattern,count
 Query -> View result list,49
 View result list -> View single result,32
-Platform switch: Web search -> Query,25
+Platform switch: Web search -> Query,27
 View result list -> Query,23
 View single result -> View single result,17
 Platform switch: Image search -> View result list,16
