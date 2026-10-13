@@ -1,0 +1,43 @@
+Response ID;Participant ID;Game order;Game;Played_this_type_before;Knew_title_before;Enjoyed_game;Found_correct_game;Confidence_found_right_game
+ID1;1;1;Townscaper;Yes;No;Strongly agree;Yes;Extremely confident
+ID1;1;2;Best Buds;Yes;No;Neither agree nor disagree;No;
+ID2;2;1;Best Buds;Yes;No;Neither agree nor disagree;No;
+ID2;2;2;Townscaper;No;No;Strongly agree;Yes;Extremely confident
+ID3;3;1;Best Buds;Yes;No;Strongly agree;No;
+ID3;3;2;Townscaper;No;Yes;Strongly agree;Yes;Extremely confident
+ID4;4;1;Townscaper;Yes;No;Disagree;Yes;Extremely confident
+ID4;4;2;Best Buds;Yes;No;Strongly agree;No;
+ID5;5;1;Best Buds;Yes;No;Neither agree nor disagree;No;
+ID5;5;2;Townscaper;Yes;No;Strongly agree;Yes;Extremely confident
+ID6;6;1;Townscaper;No;No;Neither agree nor disagree;Yes;Extremely confident
+ID6;6;2;Best Buds;Yes;No;Strongly agree;No;
+ID7;7;1;Best Buds;Yes;No;Agree;No;
+ID7;7;2;Townscaper;No;No;Neither agree nor disagree;Yes;Extremely confident
+ID8;8;1;Townscaper;No;No;Agree;Yes;Extremely confident
+ID8;8;2;Best Buds;Yes;No;Disagree;No;
+ID9;9;1;Best Buds;No;No;Strongly agree;No;
+ID9;9;2;Townscaper;No;No;Strongly disagree;No;
+ID10;10;1;Townscaper;Yes;No;Neither agree nor disagree;Yes;Extremely confident
+ID10;10;2;Best Buds;Yes;No;Agree;No;
+ID11;11;1;Best Buds;Yes;No;Neither agree nor disagree;No;
+ID11;11;2;Townscaper;Yes;No;Agree;Yes;Extremely confident
+ID12;12;1;Best Buds;Yes;No;Agree;No;
+ID12;12;2;Townscaper;No;No;Agree;Yes;Extremely confident
+ID13;13;1;Townscaper;No;No;Strongly agree;Yes;Extremely confident
+ID13;13;2;Best Buds;Yes;No;Agree;No;
+ID14;14;1;Best Buds;Yes;No;Strongly agree;No;
+ID14;14;2;Townscaper;No;No;Neither agree nor disagree;Yes;Extremely confident
+ID15;15;1;Townscaper;Yes;No;Strongly agree;Yes;Extremely confident
+ID15;15;2;Best Buds;Yes;No;Agree;No;
+ID16;16;1;Best Buds;Yes;No;Agree;No;
+ID16;16;2;Townscaper;No;No;Disagree;Yes;Extremely confident
+ID17;17;1;Townscaper;Yes;No;Agree;Yes;Extremely confident
+ID17;17;2;Best Buds;Yes;No;Agree;No;
+ID18;18;1;Townscaper;Yes;No;Strongly agree;Yes;Extremely confident
+ID18;18;2;Best Buds;No;No;Agree;No;
+ID19;19;1;Townscaper;No;Yes;Neither agree nor disagree;Yes;Extremely confident
+ID19;19;2;Best Buds;Yes;No;Agree;No;
+ID20;20;1;Best Buds;No;No;Disagree;No;
+ID20;20;2;Townscaper;No;No;Strongly disagree;Yes;Extremely confident
+ID21;21;1;Townscaper;Yes;No;Agree;Yes;Extremely confident
+ID21;21;2;Best Buds;No;No;Strongly disagree;No;
